@@ -1,7 +1,7 @@
 ---
 title: "Package intermittent failtures"
 author: "Lluís Revilla Sancho"
-date: "11/21/2021"
+date: `r Sys.Date()`
 output: html_document
 ---
 
