@@ -1,0 +1,71 @@
+---
+title: "Package intermittent failtures"
+author: "Lluís Revilla Sancho"
+date: "11/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Flavors
+
+```{r}
+library("dplyr")
+tc <- tools::CRAN_check_results()
+rename_files("today.RDS", "yesterday.RDS")
+saveRDS(tc, file = "today.RDS")
+
+flavors <- unique(tc$Flavor)
+proto <- data.frame(r_version = character(),
+                    os = character(),
+                    architecture = character(),
+                    other = character())
+flavors_df <- strcapture(
+  pattern = "r-([[:alnum:]]+)-([[:alnum:]]+)-([[:alnum:]_\\+]+)-?(.*)", 
+  x = flavors,
+  proto = proto)
+rownames(flavors_df) <- flavors
+m <- match(tc$Flavor, rownames(flavors_df))
+tc_flavors <- cbind(tc, flavors_df[m, ])
+
+
+tcs <- tc |> 
+  arrange(Package, Version) |> 
+  group_by(Package) |> 
+  count(Status)
+x <- cch_pkgs_history(x = "geojsonio")
+
+tcv <- tc |> 
+  arrange(Package, Version) |> 
+  group_by(Package) |> 
+  summarise(versions = n_distinct(Version))
+
+count(tcv)
+```
+
+Some package have several versions on CRAN. 
+Excluding them let's see how well do package fare:
+
+```{r}
+package_same_version <- tcv |> 
+  filter(versions == 1) |> 
+  pull(Package)
+
+tcs <- tc |> 
+  arrange(Package) |> 
+  filter(Package %in% package_same_version) |> 
+  group_by(Package) |> 
+  count(Status) |> 
+  ungroup() |> 
+  tidyr::pivot_wider(names_from = Status, values_from = n, values_fill = 0)
+
+tcss <- tc |> 
+  arrange(Package) |> 
+  filter(Package %in% package_same_version) |> 
+  count(Status, sort = TRUE)
+  ungroup() |> 
+  tidyr::pivot_wider(names_from = Status, values_from = n, values_fill = 0)
+
+```
