@@ -8,7 +8,10 @@ on:
   #     - main
   #     - master
   schedule:
-    - cron:  '30 21 * * *' 
+  # Not sure if there is a specific time when CRAN checks run
+  # It seems around 21:30 CET but since we cannot set it in time zone and it is on UTC
+  # I set the time a bit later to also account for time differences (CET-CEST)
+    - cron:  '44 23 * * *' 
 
 name: update-report
 jobs:

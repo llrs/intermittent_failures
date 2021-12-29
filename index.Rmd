@@ -24,7 +24,27 @@ knitr::opts_chunk$set(echo = TRUE, fig.align = "center",
 
 This report checks if the status of packages on CRAN are due to intermittent failures.
 
+Failures defined as warnings, notes or errors without change on:
 
+ - R version used (if not stable the same svn snapshot)
+
+ - The package version (Note that CRAN might modify a package without changing the version)
+
+ - Their dependencies
+
+Reasons of these failures might be because the packages depend on:
+
+ - Random generation numbers
+
+ - Flacky external resources
+
+ - Other ?
+
+Why is this important?
+
+Because package maintainers of dependencies of that package, R core and CRAN team need to check if the failures are false positives.
+
+This report started because it was [suggested as something that the R-repositories working group](https://github.com/RConsortium/r-repositories-wg/issues/7) could help the CRAN team.
 
 
 # Retrieve data
@@ -281,7 +301,7 @@ for (pkg in names(intermittent_failures[!intermittent_failures])) {
     filter(Package %in% dep,
            Flavor %in% fl,
            Version.t != Version.y) |> 
-    nrow() == 0
+    nrow() == 0 # If packages outside || any(!dep %in% rownames(ap)) 
 }
 packages <- names(intermittent_failures)[intermittent_failures]
 ```
@@ -295,10 +315,12 @@ filter(possible_packages, Package %in% packages) |>
   autofit()
 ```
 
+# Conclusion
+
 ```{r results='asis'}
-if (length(packages) > 0) {
+if (length(packages) > 0) { 
   cat("This suggests that these packages might have some problems with random numbers or connectivity:\n\n")
-  cat(paste0(" - ", packages, "\n"), sep = "")
+  cat(paste0(" - ", sort(packages), "\n"), sep = "")
 } else {
   cat("There are no packages detected with differences between yesterday and today attributable to intermittent failures.\n")
 }
