@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+<meta name="author" content="Lluís Revilla Sancho" />
+
+<meta name="date" content="2021-12-29" />
+
+<title>Packages intermittent failtures</title>
+
+<script src="index_files/header-attrs-2.11/header-attrs.js"></script>
+<script src="index_files/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="index_files/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="index_files/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="index_files/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="index_files/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="index_files/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="index_files/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="index_files/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="index_files/navigation-1.1/tabsets.js"></script>
+<script src="index_files/navigation-1.1/codefolding.js"></script>
+<link href="index_files/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="index_files/highlightjs-9.12.0/highlight.js"></script>
+<link href="index_files/tabwid-1.0.0/tabwid.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+<style type="text/css">
+.code-folding-btn { margin-bottom: 4px; }
+</style>
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div id="header">
+
+<div class="btn-group pull-right float-right">
+<button type="button" class="btn btn-default btn-xs btn-secondary btn-sm dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span>Code</span> <span class="caret"></span></button>
+<ul class="dropdown-menu dropdown-menu-right" style="min-width: 50px;">
+<li><a id="rmd-show-all-code" href="#">Show All Code</a></li>
+<li><a id="rmd-hide-all-code" href="#">Hide All Code</a></li>
+</ul>
+</div>
+
+
+
+<h1 class="title toc-ignore">Packages intermittent failtures</h1>
+<h4 class="author">Lluís Revilla Sancho</h4>
+<h4 class="date">2021-12-29</h4>
+
+</div>
+
+
+<div id="introduction" class="section level1">
+<h1>Introduction</h1>
+<p>This report checks if the status of packages on CRAN are due to intermittent failures.</p>
+</div>
+<div id="retrieve-data" class="section level1">
+<h1>Retrieve data</h1>
+<p>It makes use of <a href="https://search.r-project.org/R/refmans/tools/html/CRANtools.html">tools::CRAN_check_results</a> to retrieve the data.</p>
+<pre class="r"><code>library(&quot;dplyr&quot;)
+library(&quot;tools&quot;, include.only = c(&quot;package_dependencies&quot;, &quot;CRAN_check_results&quot;))
+library(&quot;flextable&quot;, include.only = c(&quot;flextable&quot;, &quot;autofit&quot;))
+
+if (interactive()) {
+  yc &lt;- readRDS(&quot;yesterday.RDS&quot;)
+} else {
+  yc &lt;- readRDS(&quot;today.RDS&quot;)
+}
+tc &lt;- CRAN_check_results()
+if (interactive()) {
+  saveRDS(tc, file = &quot;today.RDS&quot;)
+} </code></pre>
+<p>The checks are from multiple flavors release, devel, old release and patched on multiple machines and configurations.</p>
+<pre class="r"><code>old_flavors &lt;- readRDS(&quot;flavors.RDS&quot;)
+flavors &lt;- unique(tc$Flavor)
+proto &lt;- data.frame(r_version = character(),
+                    os = character(),
+                    architecture = character(),
+                    other = character())
+flavors_df &lt;- strcapture(
+  pattern = &quot;r-([[:alnum:]]+)-([[:alnum:]]+)-([[:alnum:]_\\+]+)-?(.*)&quot;, 
+  x = flavors,
+  proto = proto)
+
+# Extract R version used and svn id
+h &lt;- &quot;https://www.r-project.org/nosvn/R.check/%s/A3-00check.html&quot;
+links &lt;- sprintf(h, flavors)
+extract_revision &lt;- function(x) {
+  r &lt;- readLines(x, 12)[12]
+  version &lt;- strcapture(pattern = &quot;([[:digit:]]\\.[[:digit:]]\\.[[:digit:]])&quot;,  
+                        x = r, proto = data.frame(version = character()))
+  revision &lt;- strcapture(pattern = &quot;(r[[:digit:]]+)&quot;,  x = r,
+             proto = data.frame(revision = character()))
+  cbind(version, revision)
+}
+revision &lt;- data.frame(version = character(),
+                      revision = character())
+for (i in links) {
+  revision &lt;- rbind(revision, extract_revision(i))
+}
+
+flavors_df &lt;- cbind(flavors = flavors, flavors_df, revision)
+if (!interactive()) {
+  saveRDS(flavors_df, &quot;flavors.RDS&quot;)
+}
+
+m &lt;- match(tc$Flavor, flavors_df$flavors)
+tc_flavors &lt;- cbind(tc, flavors_df[m, ])
+flextable(flavors_df) |&gt; 
+  autofit()</code></pre>
+<template id="b302dccb-cfe5-48ec-b935-c1370030a4f1"><style>
+.tabwid table{
+  border-spacing:0px !important;
+  border-collapse:collapse;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  border-width: 0;
+  display: table;
+  margin-top: 1.275em;
+  margin-bottom: 1.275em;
+  border-color: transparent;
+}
+.tabwid_left table{
+  margin-left:0;
+}
+.tabwid_right table{
+  margin-right:0;
+}
+.tabwid td {
+    padding: 0;
+}
+.tabwid a {
+  text-decoration: none;
+}
+.tabwid thead {
+    background-color: transparent;
+}
+.tabwid tfoot {
+    background-color: transparent;
+}
+.tabwid table tr {
+background-color: transparent;
+}
+</style><div class="tabwid"><style>.cl-97149e40{}.cl-96f5ea54{font-family:'DejaVu Sans';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-96f616f0{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-96f6804a{width:60.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f6805e{width:63.9pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f6805f{width:70.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68068{width:91.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68069{width:68pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68072{width:208.9pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68073{width:93.3pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f6807c{width:93.3pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f6807d{width:208.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68086{width:68pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68087{width:91.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68090{width:70.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f68091{width:63.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f6809a{width:60.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f6809b{width:68pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f6809c{width:60.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680a4{width:91.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680a5{width:70.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680ae{width:208.9pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680af{width:63.9pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680b8{width:93.3pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680b9{width:93.3pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680c2{width:208.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680c3{width:68pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680cc{width:91.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680cd{width:70.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680d6{width:63.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-96f680d7{width:60.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table class='cl-97149e40'>
+<thead><tr style="overflow-wrap:break-word;"><td class="cl-96f680c2"><p class="cl-96f616f0"><span class="cl-96f5ea54">flavors</span></p></td><td class="cl-96f680cd"><p class="cl-96f616f0"><span class="cl-96f5ea54">r_version</span></p></td><td class="cl-96f680c3"><p class="cl-96f616f0"><span class="cl-96f5ea54">os</span></p></td><td class="cl-96f680b9"><p class="cl-96f616f0"><span class="cl-96f5ea54">architecture</span></p></td><td class="cl-96f680cc"><p class="cl-96f616f0"><span class="cl-96f5ea54">other</span></p></td><td class="cl-96f680d7"><p class="cl-96f616f0"><span class="cl-96f5ea54">version</span></p></td><td class="cl-96f680d6"><p class="cl-96f616f0"><span class="cl-96f5ea54">revision</span></p></td></tr></thead><tbody><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">devel</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">linux</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54">debian-clang</span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54">r81417</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-devel-linux-x86_64-debian-gcc</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">devel</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">linux</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54">debian-gcc</span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54">r81417</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-devel-linux-x86_64-fedora-clang</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">devel</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">linux</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54">fedora-clang</span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54">r81416</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-devel-linux-x86_64-fedora-gcc</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">devel</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">linux</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54">fedora-gcc</span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54">r81416</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-devel-windows-x86_64-new-UL</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">devel</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">windows</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54">new-UL</span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54">r81414</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">devel</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">windows</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54">new-TK</span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54">r81417</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-patched-linux-x86_64</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">patched</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">linux</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54">4.1.2</span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54">r81416</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-release-linux-x86_64</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">release</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">linux</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54">4.1.2</span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f680ae"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-release-macos-arm64</span></p></td><td class="cl-96f680a5"><p class="cl-96f616f0"><span class="cl-96f5ea54">release</span></p></td><td class="cl-96f6809b"><p class="cl-96f616f0"><span class="cl-96f5ea54">macos</span></p></td><td class="cl-96f680b8"><p class="cl-96f616f0"><span class="cl-96f5ea54">arm64</span></p></td><td class="cl-96f680a4"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6809c"><p class="cl-96f616f0"><span class="cl-96f5ea54">4.1.0</span></p></td><td class="cl-96f680af"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-release-macos-x86_64</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">release</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">macos</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54">4.1.0</span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-release-windows-ix86+x86_64</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">release</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">windows</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">ix86+x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54">4.1.2</span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f68072"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-oldrel-macos-x86_64</span></p></td><td class="cl-96f6805f"><p class="cl-96f616f0"><span class="cl-96f5ea54">oldrel</span></p></td><td class="cl-96f68069"><p class="cl-96f616f0"><span class="cl-96f5ea54">macos</span></p></td><td class="cl-96f68073"><p class="cl-96f616f0"><span class="cl-96f5ea54">x86_64</span></p></td><td class="cl-96f68068"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6804a"><p class="cl-96f616f0"><span class="cl-96f5ea54">4.0.2</span></p></td><td class="cl-96f6805e"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-96f6807d"><p class="cl-96f616f0"><span class="cl-96f5ea54">r-oldrel-windows-ix86+x86_64</span></p></td><td class="cl-96f68090"><p class="cl-96f616f0"><span class="cl-96f5ea54">oldrel</span></p></td><td class="cl-96f68086"><p class="cl-96f616f0"><span class="cl-96f5ea54">windows</span></p></td><td class="cl-96f6807c"><p class="cl-96f616f0"><span class="cl-96f5ea54">ix86+x86_64</span></p></td><td class="cl-96f68087"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td><td class="cl-96f6809a"><p class="cl-96f616f0"><span class="cl-96f5ea54">4.0.5</span></p></td><td class="cl-96f68091"><p class="cl-96f616f0"><span class="cl-96f5ea54"></span></p></td></tr></tbody></table></div></template>
+<div class="flextable-shadow-host" id="a6bc4d2b-cdd4-4e1d-bd1e-8bd3ce42ac22"></div>
+<script>
+var dest = document.getElementById("a6bc4d2b-cdd4-4e1d-bd1e-8bd3ce42ac22");
+var template = document.getElementById("b302dccb-cfe5-48ec-b935-c1370030a4f1");
+var caption = template.content.querySelector("caption");
+if(caption) {
+  caption.style.cssText = "display:block;text-align:center;";
+  var newcapt = document.createElement("p");
+  newcapt.appendChild(caption)
+  dest.parentNode.insertBefore(newcapt, dest.previousSibling);
+}
+var fantome = dest.attachShadow({mode: 'open'});
+var templateContent = template.content;
+fantome.appendChild(templateContent);
+</script>
+
+<p>It assumes that the same configuration in one package is used for all. Or in other words that the reports of the configuration (svn revision and version) for the A3 package is the same as for all the other packages.</p>
+</div>
+<div id="overview" class="section level1">
+<h1>Overview</h1>
+<p>Briefly an introduction of how much effort goes into checking</p>
+<pre class="r"><code>library(&quot;ggplot2&quot;)
+tc |&gt; 
+  filter(!is.na(T_install)) |&gt; 
+  ggplot() +
+  geom_violin(aes(T_install, Flavor)) +
+  scale_x_log10() +
+  labs(x = &quot;seconds&quot;, title = &quot;Time to install&quot;, y = element_blank())</code></pre>
+<div class="figure" style="text-align: center">
+<img src="index_files/figure-html/plots-install-1.png" alt="Machines (y axis) vs install time (seconds, x axis), violing plot usually around 10 seconds." width="672" />
+<p class="caption">
+Distribution of install time on each machine.
+</p>
+</div>
+<p>This means that just to install all the packages on the multiple flavors with a single CPU would take 53 days.</p>
+<pre class="r"><code>tc |&gt; 
+  filter(!is.na(T_check)) |&gt; 
+  ggplot() +
+  geom_violin(aes(T_check, Flavor), trim = FALSE) +
+  scale_x_log10() +
+  labs(x = &quot;seconds&quot;, title = &quot;Time to check&quot;, y = element_blank())</code></pre>
+<div class="figure" style="text-align: center">
+<img src="index_files/figure-html/plots-check-1.png" alt="Machines (y axis) vs check time (seconds, x axis), violing plot usually around 100 seconds." width="672" />
+<p class="caption">
+Distribution of checking time on each machine.
+</p>
+</div>
+<p>This means that to check all the packages on the multiple flavors with a single CPU would take 154 days.</p>
+<pre class="r"><code>tc |&gt; 
+  filter(!is.na(T_total)) |&gt; 
+  ggplot() +
+  geom_violin(aes(T_total, Flavor)) +
+  scale_x_log10() +
+  labs(x = &quot;seconds&quot;, title = &quot;Time to check and install&quot;, y = element_blank())</code></pre>
+<div class="figure" style="text-align: center">
+<img src="index_files/figure-html/plots-total-1.png" alt="Machines (y axis) vs total time (seconds, x axis), violing plot usually around 100 seconds." width="672" />
+<p class="caption">
+Distribution of total time on each machine.
+</p>
+</div>
+<p>This means that to install and check all the packages with a single CPU would take 266 days.</p>
+<p>I don’t know the computational cost of 266 days of CPU (every day), but a rough calculation of 2.5 cents per hour means 159.58 dollars daily dedicated to this.</p>
+<pre class="r"><code>tc |&gt; 
+  group_by(Package) |&gt; 
+  summarize(Versions = n_distinct(Version)) |&gt; 
+  ungroup() |&gt; 
+  count(Versions, name = &quot;Packages&quot;, sort = TRUE) |&gt; 
+  flextable() |&gt; 
+  autofit()</code></pre>
+<template id="2b9411af-bf4e-4583-b3c6-02fcdc611fd1"><style>
+.tabwid table{
+  border-spacing:0px !important;
+  border-collapse:collapse;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  border-width: 0;
+  display: table;
+  margin-top: 1.275em;
+  margin-bottom: 1.275em;
+  border-color: transparent;
+}
+.tabwid_left table{
+  margin-left:0;
+}
+.tabwid_right table{
+  margin-right:0;
+}
+.tabwid td {
+    padding: 0;
+}
+.tabwid a {
+  text-decoration: none;
+}
+.tabwid thead {
+    background-color: transparent;
+}
+.tabwid tfoot {
+    background-color: transparent;
+}
+.tabwid table tr {
+background-color: transparent;
+}
+</style><div class="tabwid"><style>.cl-9956db6e{}.cl-994d2718{font-family:'DejaVu Sans';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-994d3b0e{margin:0;text-align:right;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-994d871c{width:67.6pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-994d8730{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-994d8731{width:67.6pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-994d873a{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-994d873b{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-994d8744{width:67.6pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-994d874e{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-994d874f{width:67.6pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table class='cl-9956db6e'>
+<thead><tr style="overflow-wrap:break-word;"><td class="cl-994d874f"><p class="cl-994d3b0e"><span class="cl-994d2718">Versions</span></p></td><td class="cl-994d874e"><p class="cl-994d3b0e"><span class="cl-994d2718">Packages</span></p></td></tr></thead><tbody><tr style="overflow-wrap:break-word;"><td class="cl-994d871c"><p class="cl-994d3b0e"><span class="cl-994d2718">1</span></p></td><td class="cl-994d8730"><p class="cl-994d3b0e"><span class="cl-994d2718">18,453</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-994d8731"><p class="cl-994d3b0e"><span class="cl-994d2718">2</span></p></td><td class="cl-994d873a"><p class="cl-994d3b0e"><span class="cl-994d2718">196</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-994d8731"><p class="cl-994d3b0e"><span class="cl-994d2718">3</span></p></td><td class="cl-994d873a"><p class="cl-994d3b0e"><span class="cl-994d2718">2</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-994d8744"><p class="cl-994d3b0e"><span class="cl-994d2718">4</span></p></td><td class="cl-994d873b"><p class="cl-994d3b0e"><span class="cl-994d2718">1</span></p></td></tr></tbody></table></div></template>
+<div class="flextable-shadow-host" id="4598c0af-d1c9-4773-b7da-e5c7d36c6256"></div>
+<script>
+var dest = document.getElementById("4598c0af-d1c9-4773-b7da-e5c7d36c6256");
+var template = document.getElementById("2b9411af-bf4e-4583-b3c6-02fcdc611fd1");
+var caption = template.content.querySelector("caption");
+if(caption) {
+  caption.style.cssText = "display:block;text-align:center;";
+  var newcapt = document.createElement("p");
+  newcapt.appendChild(caption)
+  dest.parentNode.insertBefore(newcapt, dest.previousSibling);
+}
+var fantome = dest.attachShadow({mode: 'open'});
+var templateContent = template.content;
+fantome.appendChild(templateContent);
+</script>
+
+<p>This was surprising, but sometimes checks have multiple versions. Probably when a new version is added and the system don’t catch it for a certain machine.</p>
+<pre class="r"><code>tc |&gt; 
+  group_by(Package) |&gt; 
+  summarize(Flavors = n_distinct(Flavor)) |&gt; 
+  ungroup() |&gt; 
+  count(Flavors, name = &quot;Packages&quot;, sort = TRUE) |&gt; 
+  flextable() |&gt; 
+  autofit()</code></pre>
+<template id="4a358078-b9fb-4769-a074-9848a5697d0a"><style>
+.tabwid table{
+  border-spacing:0px !important;
+  border-collapse:collapse;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  border-width: 0;
+  display: table;
+  margin-top: 1.275em;
+  margin-bottom: 1.275em;
+  border-color: transparent;
+}
+.tabwid_left table{
+  margin-left:0;
+}
+.tabwid_right table{
+  margin-right:0;
+}
+.tabwid td {
+    padding: 0;
+}
+.tabwid a {
+  text-decoration: none;
+}
+.tabwid thead {
+    background-color: transparent;
+}
+.tabwid tfoot {
+    background-color: transparent;
+}
+.tabwid table tr {
+background-color: transparent;
+}
+</style><div class="tabwid"><style>.cl-99dbb708{}.cl-99d2e588{font-family:'DejaVu Sans';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-99d2f65e{margin:0;text-align:right;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-99d327d2{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327dc{width:60.2pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327e6{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327e7{width:60.2pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327f0{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327f1{width:60.2pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327f2{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327fa{width:60.2pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327fb{width:60.2pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327fc{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d327fd{width:60.2pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-99d32804{width:72.5pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table class='cl-99dbb708'>
+<thead><tr style="overflow-wrap:break-word;"><td class="cl-99d327fd"><p class="cl-99d2f65e"><span class="cl-99d2e588">Flavors</span></p></td><td class="cl-99d32804"><p class="cl-99d2f65e"><span class="cl-99d2e588">Packages</span></p></td></tr></thead><tbody><tr style="overflow-wrap:break-word;"><td class="cl-99d327dc"><p class="cl-99d2f65e"><span class="cl-99d2e588">13</span></p></td><td class="cl-99d327d2"><p class="cl-99d2f65e"><span class="cl-99d2e588">18,512</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-99d327e7"><p class="cl-99d2f65e"><span class="cl-99d2e588">11</span></p></td><td class="cl-99d327e6"><p class="cl-99d2f65e"><span class="cl-99d2e588">45</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-99d327f1"><p class="cl-99d2f65e"><span class="cl-99d2e588">12</span></p></td><td class="cl-99d327f0"><p class="cl-99d2f65e"><span class="cl-99d2e588">40</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-99d327f1"><p class="cl-99d2f65e"><span class="cl-99d2e588">9</span></p></td><td class="cl-99d327f0"><p class="cl-99d2f65e"><span class="cl-99d2e588">29</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-99d327e7"><p class="cl-99d2f65e"><span class="cl-99d2e588">5</span></p></td><td class="cl-99d327e6"><p class="cl-99d2f65e"><span class="cl-99d2e588">12</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-99d327f1"><p class="cl-99d2f65e"><span class="cl-99d2e588">10</span></p></td><td class="cl-99d327f0"><p class="cl-99d2f65e"><span class="cl-99d2e588">12</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-99d327fa"><p class="cl-99d2f65e"><span class="cl-99d2e588">4</span></p></td><td class="cl-99d327f2"><p class="cl-99d2f65e"><span class="cl-99d2e588">1</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-99d327fb"><p class="cl-99d2f65e"><span class="cl-99d2e588">7</span></p></td><td class="cl-99d327fc"><p class="cl-99d2f65e"><span class="cl-99d2e588">1</span></p></td></tr></tbody></table></div></template>
+<div class="flextable-shadow-host" id="ea8e3234-28c4-4bee-8b4b-052c6e5cc939"></div>
+<script>
+var dest = document.getElementById("ea8e3234-28c4-4bee-8b4b-052c6e5cc939");
+var template = document.getElementById("4a358078-b9fb-4769-a074-9848a5697d0a");
+var caption = template.content.querySelector("caption");
+if(caption) {
+  caption.style.cssText = "display:block;text-align:center;";
+  var newcapt = document.createElement("p");
+  newcapt.appendChild(caption)
+  dest.parentNode.insertBefore(newcapt, dest.previousSibling);
+}
+var fantome = dest.attachShadow({mode: 'open'});
+var templateContent = template.content;
+fantome.appendChild(templateContent);
+</script>
+
+<p>Similarly, often packages are only tested on few configurations.</p>
+<p>Combining both we can have packages with few configurations that have multiple versions being tested.</p>
+<pre class="r"><code>tc |&gt; 
+  group_by(Package) |&gt; 
+  summarize(Versions = n_distinct(Version),
+            Flavors = n_distinct(Flavor)) |&gt; 
+  ungroup() |&gt; 
+  count(Flavors, Versions, name = &quot;Packages&quot;) |&gt; 
+  ggplot() +
+  geom_tile(aes(Flavors, Versions, fill = log10(Packages))) +
+  scale_x_continuous(expand = expansion()) +
+  scale_y_continuous(expand = expansion()) </code></pre>
+<div class="figure" style="text-align: center">
+<img src="index_files/figure-html/plot-versions-flavors-1.png" alt="Flavors of machines and versions of packages" width="672" />
+<p class="caption">
+Most packages are just tested one version.
+</p>
+</div>
+<p>But focusing on those that have just one version of the package being tested, most of the machines have packages either OK or with some notes.</p>
+<pre class="r"><code>man_colors &lt;- c(&quot;OK&quot; = &quot;green&quot;, &quot;NOTE&quot; = &quot;darkgreen&quot;, 
+                &quot;WARNING&quot; = &quot;yellow&quot;, &quot;ERROR&quot; = &quot;red&quot;, &quot;FAILURE&quot; = &quot;black&quot;)
+tc |&gt; 
+  group_by(Package) |&gt; 
+  filter(n_distinct(Version) == 1) |&gt; 
+  ungroup() |&gt; 
+  group_by(Flavor) |&gt; 
+  count(Status, name = &quot;packages&quot;) |&gt; 
+  mutate(perc = packages/sum(packages),
+         Status = forcats::fct_relevel(Status, names(man_colors))) |&gt; 
+  ggplot() + 
+  geom_col(aes(perc, Flavor, fill = Status)) +
+  scale_x_continuous(expand = expansion(), labels = scales::percent_format()) +
+  scale_fill_manual(values = man_colors) +
+  labs(title = &quot;Packages check status&quot;, x = element_blank())</code></pre>
+<div class="figure" style="text-align: center">
+<img src="index_files/figure-html/plot-flavors-status-1.png" alt="On the vertical axis the machine, on the horitzonal axis the packages colored by the status." width="672" />
+<p class="caption">
+Most frequent status is OK or NOTE on all machines.
+</p>
+</div>
+<p>If we look at the most frequent status report for packages we can see this table:</p>
+<pre class="r"><code>ts &lt;- tc |&gt; 
+  group_by(Package) |&gt; 
+  filter(n_distinct(Version) == 1) |&gt; 
+  count(Status, name = &quot;flavors&quot;) |&gt; 
+  ungroup() |&gt; 
+  tidyr::pivot_wider(values_from = flavors, names_from = Status, 
+                     values_fill = 0) |&gt; 
+  count(OK, NOTE, WARNING, ERROR, FAILURE, name = &quot;packages&quot;, sort = TRUE)
+download.file(&quot;https://cran.r-project.org/web/packages/packages.rds&quot;, 
+              destfile = &quot;packages.RDS&quot;) # From the help page
+ap &lt;- readRDS(&quot;packages.RDS&quot;)
+head(ts) |&gt; 
+  flextable() |&gt; 
+  autofit()</code></pre>
+<template id="39a81aad-b570-40d5-afea-c8186b8c814c"><style>
+.tabwid table{
+  border-spacing:0px !important;
+  border-collapse:collapse;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  border-width: 0;
+  display: table;
+  margin-top: 1.275em;
+  margin-bottom: 1.275em;
+  border-color: transparent;
+}
+.tabwid_left table{
+  margin-left:0;
+}
+.tabwid_right table{
+  margin-right:0;
+}
+.tabwid td {
+    padding: 0;
+}
+.tabwid a {
+  text-decoration: none;
+}
+.tabwid thead {
+    background-color: transparent;
+}
+.tabwid tfoot {
+    background-color: transparent;
+}
+.tabwid table tr {
+background-color: transparent;
+}
+</style><div class="tabwid"><style>.cl-9eb9e704{}.cl-9e9b8138{font-family:'DejaVu Sans';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-9e9ba3fc{margin:0;text-align:right;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-9e9c1bf2{width:51.1pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c06{width:66.4pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c10{width:36.4pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c1a{width:72.9pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c1b{width:59.1pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c24{width:74.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c25{width:72.9pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c2e{width:51.1pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c2f{width:36.4pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c30{width:59.1pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c38{width:74.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c42{width:66.4pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c43{width:66.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c4c{width:59.1pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c56{width:72.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c57{width:36.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c60{width:51.1pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c61{width:74.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c6a{width:59.1pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c6b{width:51.1pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c74{width:72.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c75{width:66.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c7e{width:74.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-9e9c1c7f{width:36.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table class='cl-9eb9e704'>
+<thead><tr style="overflow-wrap:break-word;"><td class="cl-9e9c1c7f"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">OK</span></p></td><td class="cl-9e9c1c6b"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">NOTE</span></p></td><td class="cl-9e9c1c7e"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">WARNING</span></p></td><td class="cl-9e9c1c6a"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">ERROR</span></p></td><td class="cl-9e9c1c75"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">FAILURE</span></p></td><td class="cl-9e9c1c74"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">packages</span></p></td></tr></thead><tbody><tr style="overflow-wrap:break-word;"><td class="cl-9e9c1c10"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">13</span></p></td><td class="cl-9e9c1bf2"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c24"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1b"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c06"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1a"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">9,466</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-9e9c1c10"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">2</span></p></td><td class="cl-9e9c1bf2"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">11</span></p></td><td class="cl-9e9c1c24"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1b"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c06"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1a"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">2,662</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-9e9c1c10"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1bf2"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">13</span></p></td><td class="cl-9e9c1c24"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1b"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c06"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1a"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">1,602</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-9e9c1c10"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">7</span></p></td><td class="cl-9e9c1bf2"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">6</span></p></td><td class="cl-9e9c1c24"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1b"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c06"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c1a"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">1,589</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-9e9c1c2f"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">12</span></p></td><td class="cl-9e9c1c2e"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">1</span></p></td><td class="cl-9e9c1c38"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c30"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c42"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c25"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">499</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-9e9c1c57"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">1</span></p></td><td class="cl-9e9c1c60"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">12</span></p></td><td class="cl-9e9c1c61"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c4c"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c43"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">0</span></p></td><td class="cl-9e9c1c56"><p class="cl-9e9ba3fc"><span class="cl-9e9b8138">491</span></p></td></tr></tbody></table></div></template>
+<div class="flextable-shadow-host" id="f78844d0-ae84-4ad5-a3f0-c8bdea13164d"></div>
+<script>
+var dest = document.getElementById("f78844d0-ae84-4ad5-a3f0-c8bdea13164d");
+var template = document.getElementById("39a81aad-b570-40d5-afea-c8186b8c814c");
+var caption = template.content.querySelector("caption");
+if(caption) {
+  caption.style.cssText = "display:block;text-align:center;";
+  var newcapt = document.createElement("p");
+  newcapt.appendChild(caption)
+  dest.parentNode.insertBefore(newcapt, dest.previousSibling);
+}
+var fantome = dest.attachShadow({mode: 'open'});
+var templateContent = template.content;
+fantome.appendChild(templateContent);
+</script>
+
+<p>We can see that the most common occurrences are some sort of OK and notes on checks. We can also check the <a href="https://cran.r-project.org/web/checks/check_summary.html">official results on CRAN</a>.</p>
+<p>We can see that 50.70% of packages pass all checks without notes.</p>
+<p>Now let’s see which of the notes or failures are due to intermittent issues.</p>
+</div>
+<div id="compare" class="section level1">
+<h1>Compare</h1>
+<p>First we need to make sure that we compare the right configurations. They must be the same machine, the same R version and the same svn revision between yesterday and today.</p>
+<pre class="r"><code># Compare the previous flavor with today&#39;s
+m_flavor &lt;- which(flavors_df$flavors %in% old_flavors$flavors)
+m_version &lt;- which(flavors_df$version %in% old_flavors$version)
+m_revision &lt;- which(flavors_df$revision %in% old_flavors$revision)
+tm &lt;- table(c(m_flavor, m_version, m_revision))
+compare &lt;- flavors_df$flavors[tm == 3] # Only missing the packages version</code></pre>
+<p>Next, compare the status of the packages if the version of the package is the same.</p>
+<pre class="r"><code># Find package on the flavors to compare that haven&#39;t changed versions
+library(&quot;dplyr&quot;)
+tcc &lt;- filter(tc, Flavor %in% compare) |&gt; 
+  select(Flavor, Package, Version, Status) |&gt; 
+  arrange(Flavor, Package)
+ycc &lt;- filter(yc, Flavor %in% compare) |&gt; 
+  select(Flavor, Package, Version, Status) |&gt; 
+  arrange(Flavor, Package)
+
+all_checks &lt;- merge(tcc, ycc, by = c(&quot;Flavor&quot;, &quot;Package&quot;), 
+                    suffixes = c(&quot;.t&quot;, &quot;.y&quot;), all = TRUE)
+
+possible_packages &lt;- all_checks |&gt; 
+  filter(Version.t == Version.y &amp; # Same version
+           Status.t != Status.y &amp; # Different status
+           !is.na(Status.y) &amp; # No new version or removed package
+           !is.na(Status.t))</code></pre>
+<p>If the machine and R versions is the same but the check of the package is different there might be some discrepancy between the dependencies.</p>
+<pre class="r"><code># Extract dependencies
+dependencies &lt;- package_dependencies(unique(possible_packages$Package),
+                                     # Should it check all the recursive dependencies or only direct?
+                                     db = ap, # Only considering those dependencies on CRAN not bioconductor or Additional_repsitories. 
+                                     recursive = TRUE, 
+                                     which = c(&quot;Depends&quot;, &quot;Imports&quot;, &quot;LinkingTo&quot;, &quot;Suggests&quot;))
+# Prepare to compare versions (as they are sorted by everything else we can compare directly)
+intermittent_failures &lt;- rep(FALSE, length(dependencies))
+names(intermittent_failures) &lt;- names(dependencies)
+intermittent_failures[lengths(dependencies) == 0] &lt;- TRUE</code></pre>
+<p>If they do not have any recursive dependency on Depends, Imports, LinkingTo and Suggests they might be have some intermittent problems on the packages. These is only on dependencies on CRAN not outside like Bioconductor or other additional repositories (There are 97 packages with additional repositories).</p>
+<p>If they have some dependencies and those dependencies didn’t change as far as we can tell then they might be some problems with random numbers or connectivity.</p>
+<pre class="r"><code>for (pkg in names(intermittent_failures[!intermittent_failures])) {
+  dep &lt;- dependencies[[pkg]]
+  fl &lt;- possible_packages$Flavor[possible_packages$Package == pkg]
+  intermittent_failures[pkg] &lt;- all_checks |&gt; 
+    filter(Package %in% dep,
+           Flavor %in% fl,
+           Version.t != Version.y) |&gt; 
+    nrow() == 0
+}
+packages &lt;- names(intermittent_failures)[intermittent_failures]</code></pre>
+<p>We finally show the differences on the status (.t from today .y from yesterday):</p>
+<pre class="r"><code>filter(possible_packages, Package %in% packages) |&gt; 
+  select(-Version.t, -Version.y) |&gt; 
+  flextable() |&gt; 
+  autofit()</code></pre>
+<template id="8a7067a7-5063-4ae0-8dcc-42015dbbace2"><style>
+.tabwid table{
+  border-spacing:0px !important;
+  border-collapse:collapse;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  border-width: 0;
+  display: table;
+  margin-top: 1.275em;
+  margin-bottom: 1.275em;
+  border-color: transparent;
+}
+.tabwid_left table{
+  margin-left:0;
+}
+.tabwid_right table{
+  margin-right:0;
+}
+.tabwid td {
+    padding: 0;
+}
+.tabwid a {
+  text-decoration: none;
+}
+.tabwid thead {
+    background-color: transparent;
+}
+.tabwid tfoot {
+    background-color: transparent;
+}
+.tabwid table tr {
+background-color: transparent;
+}
+</style><div class="tabwid"><style>.cl-b475f8e4{}.cl-b46cdb10{font-family:'DejaVu Sans';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-b46cebc8{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-b46d3858{width:140.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d386c{width:74.8pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d386d{width:208.9pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d3876{width:140.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d3877{width:74.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d3878{width:208.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d3880{width:208.9pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d3881{width:74.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-b46d3882{width:140.8pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table class='cl-b475f8e4'>
+<thead><tr style="overflow-wrap:break-word;"><td class="cl-b46d3880"><p class="cl-b46cebc8"><span class="cl-b46cdb10">Flavor</span></p></td><td class="cl-b46d3882"><p class="cl-b46cebc8"><span class="cl-b46cdb10">Package</span></p></td><td class="cl-b46d3881"><p class="cl-b46cebc8"><span class="cl-b46cdb10">Status.t</span></p></td><td class="cl-b46d3881"><p class="cl-b46cebc8"><span class="cl-b46cdb10">Status.y</span></p></td></tr></thead><tbody><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">appler</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">cheatsheet</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">FAILURE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">cptec</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">DeducerPlugInScaling</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">WARNING</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">lisrelToR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">logmult</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">rhymer</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-clang</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">stratamatch</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-linux-x86_64-debian-gcc</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">convertGraph</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">FAILURE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">bayesQR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">boomer</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">WARNING</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">fasta</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">fitdistrplus</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">harmonicmeanp</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">WARNING</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">lisrelToR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">nestfs</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">recolorize</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">WARNING</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">RSocrata</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">RTransferEntropy</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">OK</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">FAILURE</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">simhelpers</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">FAILURE</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d386d"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-devel-windows-x86_64-new-TK</span></p></td><td class="cl-b46d3858"><p class="cl-b46cebc8"><span class="cl-b46cdb10">surveil</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d386c"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-b46d3878"><p class="cl-b46cebc8"><span class="cl-b46cdb10">r-release-macos-x86_64</span></p></td><td class="cl-b46d3876"><p class="cl-b46cebc8"><span class="cl-b46cdb10">Cairo</span></p></td><td class="cl-b46d3877"><p class="cl-b46cebc8"><span class="cl-b46cdb10">NOTE</span></p></td><td class="cl-b46d3877"><p class="cl-b46cebc8"><span class="cl-b46cdb10">ERROR</span></p></td></tr></tbody></table></div></template>
+<div class="flextable-shadow-host" id="522116b4-e56a-4f25-96bf-fffb5a0a0477"></div>
+<script>
+var dest = document.getElementById("522116b4-e56a-4f25-96bf-fffb5a0a0477");
+var template = document.getElementById("8a7067a7-5063-4ae0-8dcc-42015dbbace2");
+var caption = template.content.querySelector("caption");
+if(caption) {
+  caption.style.cssText = "display:block;text-align:center;";
+  var newcapt = document.createElement("p");
+  newcapt.appendChild(caption)
+  dest.parentNode.insertBefore(newcapt, dest.previousSibling);
+}
+var fantome = dest.attachShadow({mode: 'open'});
+var templateContent = template.content;
+fantome.appendChild(templateContent);
+</script>
+
+<pre class="r"><code>if (length(packages) &gt; 0) {
+  cat(&quot;This suggests that these packages might have some problems with random numbers or connectivity:\n\n&quot;)
+  cat(paste0(&quot; - &quot;, packages, &quot;\n&quot;), sep = &quot;&quot;)
+} else {
+  cat(&quot;There are no packages detected with differences between yesterday and today attributable to intermittent failures.\n&quot;)
+}</code></pre>
+<p>This suggests that these packages might have some problems with random numbers or connectivity:</p>
+<ul>
+<li>appler</li>
+<li>cheatsheet</li>
+<li>cptec</li>
+<li>DeducerPlugInScaling</li>
+<li>lisrelToR</li>
+<li>logmult</li>
+<li>rhymer</li>
+<li>stratamatch</li>
+<li>convertGraph</li>
+<li>bayesQR</li>
+<li>boomer</li>
+<li>fasta</li>
+<li>fitdistrplus</li>
+<li>harmonicmeanp</li>
+<li>nestfs</li>
+<li>recolorize</li>
+<li>RSocrata</li>
+<li>RTransferEntropy</li>
+<li>simhelpers</li>
+<li>surveil</li>
+<li>Cairo</li>
+</ul>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+<script>
+$(document).ready(function () {
+  window.initializeCodeFolding("hide" === "show");
+});
+</script>
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
