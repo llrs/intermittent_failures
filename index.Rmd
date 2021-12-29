@@ -36,13 +36,13 @@ library("dplyr")
 library("tools", include.only = c("package_dependencies", "CRAN_check_results"))
 library("flextable", include.only = c("flextable", "autofit"))
 
-if (interactive()) {
+if (!interactive()) {
   yc <- readRDS("yesterday.RDS")
 } else {
   yc <- readRDS("today.RDS")
 }
 tc <- CRAN_check_results()
-if (interactive()) {
+if (!interactive()) {
   saveRDS(tc, file = "today.RDS")
 } 
 ```

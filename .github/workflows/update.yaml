@@ -9,7 +9,7 @@ on:
   #     - master
   schedule:
     # Desired timezone: "Europe/Madrid" # In case it is used, from https://unix.stackexchange.com/a/504044/260613
-    - cron:  '30 6 * * *' # Every day at 7:40 Spain time, be aware of time changes
+    - cron:  '30 21 * * *' # Every day at 7:40 Spain time
 
 name: update-report
 jobs:
@@ -36,17 +36,18 @@ jobs:
           install.packages('rmarkdown');
           install.packages('ggplot2');
           install.packages('dplyr');
-          install.packages('ggalluvial');
-          install.packages('DT');
+          install.packages('flextable');
+          install.packages('forcats');
+          install.packages('tidyr');
       - name: git config
         run: |
           git config --global user.email 'actions@github.com'
           git config --global user.name 'gh-pages committer'
-      - name: Update BOE
+      - name: Update report
         run: Rscript -e "rmarkdown::render('index.Rmd')"
       - name: Commit results
         run: |
-          git add docs/* || git commit -a -m 'Automatic commit to update last BOE'
+          git add docs/* || git commit -a -m 'Automatic commit to update last checks'
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
