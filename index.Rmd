@@ -55,14 +55,11 @@ It makes use of [tools::CRAN_check_results](https://search.r-project.org/R/refma
 library("dplyr")
 library("tools", include.only = c("package_dependencies", "CRAN_check_results"))
 library("flextable", include.only = c("flextable", "autofit"))
-
-if (!interactive()) {
-  yc <- readRDS("yesterday.RDS")
-} else {
-  yc <- readRDS("today.RDS")
-}
+# Use a LOCAL environment to check if files can be overwritten on my computer
+local_build <- as.logical(Sys.getenv("LOCAL", "FALSE"))
+yc <- readRDS("today.RDS")
 tc <- CRAN_check_results()
-if (!interactive()) {
+if (!interactive() && !local_build) {
   saveRDS(tc, file = "today.RDS")
 } 
 ```
@@ -99,7 +96,7 @@ for (i in links) {
 }
 
 flavors_df <- cbind(flavors = flavors, flavors_df, revision)
-if (!interactive()) {
+if (!interactive() && !local_build) {
   saveRDS(flavors_df, "flavors.RDS")
 }
 

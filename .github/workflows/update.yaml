@@ -36,7 +36,7 @@ jobs:
       - name: Install dependencies
         # if: ${{ failure() }} # https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsif
         run: |
-          sudo apt-get install r-cran-rmarkdown r-cran-ggplot2 r-cran-dplyr r-cran-forcats r-cran tidyr r-cran-tidyr
+          sudo apt-get install r-cran-rmarkdown r-cran-ggplot2 r-cran-dplyr r-cran-forcats r-cran-tidyr
           Rscript -e "install.packages('flextable')"
       - name: git config
         run: |
