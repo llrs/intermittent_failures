@@ -39,14 +39,13 @@ jobs:
           Rscript -e "install.packages(c('rmarkdown', 'ggplot2', 'dplyr', 'forcats', 'tidyr', 'flextable'))"
       - name: git config
         run: |
-          git config --global user.email 'actions@github.com'
-          git config --global user.name 'gh-pages committer'
+          git config user.email github-actions@github.com
+          git config user.name github-actions
       - name: Update report
         run: Rscript -e "rmarkdown::render('index.Rmd')"
       - name: Commit results
         run: |
-          git add index_files/* index.html today.RDS flavors.RDS || git commit -a -m 'Automatic commit to update last checks'
+          git add index_files/* index.html today.RDS flavors.RDS || git commit -am 'Automatic commit to update last checks' 
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git push
