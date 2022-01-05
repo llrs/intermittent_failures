@@ -60,6 +60,7 @@ local_build <- as.logical(Sys.getenv("LOCAL", "FALSE"))
 yc <- readRDS("today.RDS")
 tc <- CRAN_check_results()
 if (!interactive() && !local_build) {
+  message("Saving today's file.")
   saveRDS(tc, file = "today.RDS")
 } 
 ```
