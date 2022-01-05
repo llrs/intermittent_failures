@@ -45,7 +45,7 @@ jobs:
         run: Rscript -e "rmarkdown::render('index.Rmd')"
       - name: Commit results
         run: |
-          git add index_files/* index.html today.RDS flavors.RDS || git commit -am 'Automatic commit to update last checks' 
+          git commit -am 'Automatic commit to update last checks' 
       - name: Push changes
         run: |
           git push
