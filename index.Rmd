@@ -116,6 +116,7 @@ Briefly an introduction of how much effort goes into checking
 
 ```{r plots-install, fig.alt="Machines (y axis) vs install time (seconds, x axis), violing plot usually around 10 seconds.", fig.cap="Distribution of install time on each machine."}
 library("ggplot2")
+theme_set(theme_minimal())
 tc |> 
   filter(!is.na(T_install)) |> 
   ggplot() +
@@ -180,14 +181,14 @@ Combining both we can have packages with few configurations that have multiple v
 ```{r plot-versions-flavors, fig.alt="Flavors of machines and versions of packages", fig.cap="Most packages are just tested one version."}
 tc |> 
   group_by(Package) |> 
-  summarize(Versions = n_distinct(Version),
+  summarize(Versions = as.character(n_distinct(Version)),
             Flavors = n_distinct(Flavor)) |> 
   ungroup() |> 
   count(Flavors, Versions, name = "Packages") |> 
   ggplot() +
   geom_tile(aes(Flavors, Versions, fill = log10(Packages))) +
-  scale_x_continuous(expand = expansion()) +
-  scale_y_continuous(expand = expansion()) 
+  scale_x_continuous(expand = expansion())
+  
 ```
 
 But focusing on those that have just one version of the package being tested, most of the machines have packages either OK or with some notes.
@@ -249,9 +250,13 @@ tm <- table(c(m_flavor, m_version, m_revision))
 compare <- flavors_df$flavors[tm == 3] # Only missing the packages version
 ```
 
+## All changes
+
 Next, compare the status of the packages if the version of the package is the same.
 
+
 ```{r packages-possible}
+#| fig.cap = "Packages with different status"
 # Find package on the flavors to compare that haven't changed versions
 library("dplyr")
 tcc <- filter(tc, Flavor %in% compare) |> 
@@ -262,13 +267,19 @@ ycc <- filter(yc, Flavor %in% compare) |>
   arrange(Flavor, Package)
 
 all_checks <- merge(tcc, ycc, by = c("Flavor", "Package"), 
-                    suffixes = c(".t", ".y"), all = TRUE)
+                    suffixes = c(".t", ".y"), all = TRUE) 
 
 possible_packages <- all_checks |> 
   filter(Version.t == Version.y & # Same version
            Status.t != Status.y & # Different status
            !is.na(Status.y) & # No new version or removed package
-           !is.na(Status.t))
+           !is.na(Status.t)) |> 
+  rename(Today = Status.t, Yesterday = Status.y)
+possible_packages |> 
+  select(-Version.t, -Version.y) |> 
+  arrange(Package, Flavor) |> 
+  flextable() |> 
+  autofit()
 ```
 
 If the machine and R versions is the same but the check of the package is different there might be some discrepancy between the dependencies.
@@ -280,16 +291,18 @@ dependencies <- package_dependencies(unique(possible_packages$Package),
                                      db = ap, # Only considering those dependencies on CRAN not bioconductor or Additional_repsitories. 
                                      recursive = TRUE, 
                                      which = c("Depends", "Imports", "LinkingTo", "Suggests"))
+
 # Prepare to compare versions (as they are sorted by everything else we can compare directly)
 intermittent_failures <- rep(FALSE, length(dependencies))
 names(intermittent_failures) <- names(dependencies)
-intermittent_failures[lengths(dependencies) == 0] <- TRUE
+dep_0 <- lengths(dependencies) == 0
+intermittent_failures[dep_0] <- TRUE
 ```
 
 If they do not have any recursive dependency on Depends, Imports, LinkingTo and Suggests they might be have some intermittent problems on the packages. 
 These is only on dependencies on CRAN not outside like Bioconductor or other additional repositories (There are `r sum(!is.na(ap[, "Additional_repositories"]))` packages with additional repositories). 
 
-If they have some dependencies and those dependencies didn't change as far as we can tell then they might be some problems with random numbers or connectivity.
+If they have some dependencies and those dependencies didn't change as far as we can tell then there might be some problems with random numbers or connectivity.
 
 ```{r intermittent-failures}
 for (pkg in names(intermittent_failures[!intermittent_failures])) {
@@ -298,13 +311,14 @@ for (pkg in names(intermittent_failures[!intermittent_failures])) {
   intermittent_failures[pkg] <- all_checks |> 
     filter(Package %in% dep,
            Flavor %in% fl,
-           Version.t != Version.y) |> 
+           Version.t == Version.y,
+           Status.t != Status.y) |> 
     nrow() == 0 # If packages outside || any(!dep %in% rownames(ap)) 
 }
 packages <- names(intermittent_failures)[intermittent_failures]
 ```
 
-We finally show the differences on the status (.t from today .y from yesterday):
+We finally show the differences on the status of those without any dependency change on version or status^[I think a new version might not propagate to check other packages until 24 hours later as checks might have already started for that day.]:
 
 ```{r table-failures}
 filter(possible_packages, Package %in% packages) |> 
@@ -317,8 +331,16 @@ filter(possible_packages, Package %in% packages) |>
 
 ```{r results='asis'}
 if (length(packages) > 0) { 
-  cat("This suggests that these packages might have some problems with random numbers or connectivity:\n\n")
-  cat(paste0(" - ", sort(packages), "\n"), sep = "")
+  cat("This suggests that these packages might have some problems with random numbers or connectivity:\n\n") 
+  if (any(dep_0)) {
+    cat("\n# Packages with dependencies\n\n")
+    cat(paste0(" - ", sort(packages[dependencies[dep_0]]), "\n"), sep = "")
+    cat("\n# Packages without dependencies\n\n")
+    cat(paste0(" - ", sort(packages[dependencies[!dep_0]]), "\n"), sep = "")
+    
+  } else {
+    cat(paste0(" - ", sort(packages), "\n"), sep = "")
+  }
 } else {
   cat("There are no packages detected with differences between yesterday and today attributable to intermittent failures.\n")
 }
