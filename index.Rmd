@@ -333,10 +333,12 @@ filter(possible_packages, Package %in% packages) |>
 if (length(packages) > 0) { 
   cat("This suggests that these packages might have some problems with random numbers or connectivity:\n\n") 
   if (any(dep_0)) {
-    cat("\n# Packages with dependencies\n\n")
-    cat(paste0(" - ", sort(packages[dependencies[dep_0]]), "\n"), sep = "")
-    cat("\n# Packages without dependencies\n\n")
-    cat(paste0(" - ", sort(packages[dependencies[!dep_0]]), "\n"), sep = "")
+    cat("\n## Packages with dependencies\n\n")
+    cat(paste0(" - ", sort(intersect(packages, 
+                   names(dependencies)[dep_0])), "\n"), sep = "")
+    cat("\n## Packages without dependencies\n\n")
+    cat(paste0(" - ", sort(intersect(packages,
+                                     names(dependencies)[!dep_0])), "\n"), sep = "")
     
   } else {
     cat(paste0(" - ", sort(packages), "\n"), sep = "")
