@@ -49,3 +49,9 @@ jobs:
       - name: Push changes
         run: |
           git push
+      - name: History
+        run: |
+          git checkout history
+          git add cran-failing-*.csv
+          git commit -m "new data"
+          git push
