@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gsbm,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-02 23:48:36
+PRIMME,r-devel-linux-x86_64-fedora-clang,3.2-1,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-02 23:48:36
+SpaDES.core,r-devel-linux-x86_64-fedora-clang,1.0.10,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-02 23:48:36
+eurostat,r-devel-linux-x86_64-fedora-gcc,3.7.5,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-02 23:48:36
+gsbm,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-02 23:48:36
+SpaDES.core,r-devel-linux-x86_64-fedora-gcc,1.0.10,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-02 23:48:36
+basedosdados,r-oldrel-macos-x86_64,0.2.0,oldrel,macos,x86_64,,4.0.2,NA,2022-02-02 23:48:36
+basedosdados,r-release-macos-x86_64,0.2.0,release,macos,x86_64,,4.1.0,NA,2022-02-02 23:48:36
