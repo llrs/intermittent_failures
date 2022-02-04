@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+FSK2R,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-04 23:48:53
+gfer,r-devel-linux-x86_64-fedora-clang,0.1.11,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-04 23:48:53
+ifultools,r-devel-linux-x86_64-fedora-clang,2.0-23,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-04 23:48:53
+MALDIrppa,r-devel-linux-x86_64-fedora-clang,1.0.5-1,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-04 23:48:53
+protti,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r81582,2022-02-04 23:48:53
+BoutrosLab.plotting.general,r-devel-linux-x86_64-fedora-gcc,6.0.3,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-04 23:48:53
+FSK2R,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-04 23:48:53
+gfer,r-devel-linux-x86_64-fedora-gcc,0.1.11,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-04 23:48:53
+ifultools,r-devel-linux-x86_64-fedora-gcc,2.0-23,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-04 23:48:53
+LambertW,r-devel-linux-x86_64-fedora-gcc,0.6.6,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-04 23:48:53
+MALDIrppa,r-devel-linux-x86_64-fedora-gcc,1.0.5-1,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-04 23:48:53
+protti,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-04 23:48:53
