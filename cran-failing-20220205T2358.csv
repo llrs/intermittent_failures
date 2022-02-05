@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+aopdata,r-devel-linux-x86_64-fedora-gcc,0.2.3,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+basedosdados,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+canadacovid,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+EmissV,r-devel-linux-x86_64-fedora-gcc,0.665.5.2,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+fgdr,r-devel-linux-x86_64-fedora-gcc,1.1.0,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+gtfs2gps,r-devel-linux-x86_64-fedora-gcc,1.5-4,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+photosynthesis,r-devel-linux-x86_64-fedora-gcc,2.0.1,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+RWmisc,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
+vein,r-devel-linux-x86_64-fedora-gcc,0.9.4,devel,linux,x86_64,fedora-gcc,NA,r81593,2022-02-05 23:58:33
