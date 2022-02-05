@@ -321,16 +321,19 @@ packages <- names(intermittent_failures)[intermittent_failures]
 We finally show the differences on the status of those without any dependency change on version or status^[I think a new version might not propagate to check other packages until 24 hours later as checks might have already started for that day.]:
 
 ```{r table-failures}
-filter(possible_packages, Package %in% packages) |> 
+keep_files <- filter(possible_packages, Package %in% packages) |> 
   merge(y = flavors_df, by.x = "Flavor", by.y = "flavors", all.x = TRUE, all.y = FALSE) |> 
   select(Package, Flavor, Version = Version.t, R_version = r_version, OS = os, 
          architecture, other, version, revision) |> 
-  mutate(Date = Sys.time()) |> 
-  write.csv(
+  mutate(Date = Sys.time())
+
+if (nrow(keep_files >= 1)) {
+  write.csv(keep_files, 
     paste0("cran-failing-", format(Sys.time(), "%Y%m%dT%H%M"), ".csv"),
     row.names = FALSE,
     quote = FALSE,
   )
+}
 
 filter(possible_packages, Package %in% packages) |> 
   select(Package, Flavor, Today, Yesterday, -Version.t, -Version.y) |> 
