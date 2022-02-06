@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+atom4R,r-devel-linux-x86_64-fedora-clang,0.1-1,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-06 23:48:53
+BoutrosLab.plotting.general,r-devel-linux-x86_64-fedora-clang,6.0.3,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-06 23:48:53
+echarty,r-devel-linux-x86_64-fedora-clang,1.4.3,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-06 23:48:53
+LambertW,r-devel-linux-x86_64-fedora-clang,0.6.6,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-06 23:48:53
+miniCRAN,r-devel-linux-x86_64-fedora-clang,0.2.14,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-06 23:48:53
+PRIMME,r-devel-linux-x86_64-fedora-clang,3.2-1,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-06 23:48:53
