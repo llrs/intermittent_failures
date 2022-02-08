@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+algaeClassify,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-08 23:49:34
+baRulho,r-devel-linux-x86_64-fedora-clang,1.0.5,devel,linux,x86_64,fedora-clang,NA,r81652,2022-02-08 23:49:34
+algaeClassify,r-devel-linux-x86_64-fedora-gcc,1.2.0,devel,linux,x86_64,fedora-gcc,NA,r81656,2022-02-08 23:49:34
+baRulho,r-devel-linux-x86_64-fedora-gcc,1.0.5,devel,linux,x86_64,fedora-gcc,NA,r81656,2022-02-08 23:49:34
+switchr,r-devel-linux-x86_64-fedora-gcc,0.14.5,devel,linux,x86_64,fedora-gcc,NA,r81656,2022-02-08 23:49:34
