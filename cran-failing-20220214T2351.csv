@@ -1,0 +1,3 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+switchr,r-devel-linux-x86_64-fedora-clang,0.14.5,devel,linux,x86_64,fedora-clang,NA,r81717,2022-02-14 23:51:29
+RmecabKo,r-release-macos-arm64,0.1.6.2,release,macos,arm64,,4.1.0,NA,2022-02-14 23:51:29
