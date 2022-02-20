@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+denpro,r-devel-linux-x86_64-fedora-clang,0.9.2,devel,linux,x86_64,fedora-clang,NA,r81758,2022-02-20 23:51:20
+ROI.plugin.cplex,r-release-macos-arm64,0.3-0,release,macos,arm64,,4.1.0,NA,2022-02-20 23:51:20
+Rpoppler,r-release-macos-arm64,0.1-0,release,macos,arm64,,4.1.0,NA,2022-02-20 23:51:20
