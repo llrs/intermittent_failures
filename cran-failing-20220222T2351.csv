@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ProAE,r-devel-linux-x86_64-fedora-clang,0.2.8,devel,linux,x86_64,fedora-clang,NA,r81758,2022-02-22 23:51:42
+portalr,r-devel-linux-x86_64-fedora-gcc,0.3.9,devel,linux,x86_64,fedora-gcc,NA,r81775,2022-02-22 23:51:42
+ProAE,r-devel-linux-x86_64-fedora-gcc,0.2.8,devel,linux,x86_64,fedora-gcc,NA,r81775,2022-02-22 23:51:42
