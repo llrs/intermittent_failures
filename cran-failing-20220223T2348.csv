@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+scriptests,r-devel-linux-x86_64-fedora-clang,1.0-16,devel,linux,x86_64,fedora-clang,NA,r81758,2022-02-23 23:48:54
+scriptests,r-devel-linux-x86_64-fedora-gcc,1.0-16,devel,linux,x86_64,fedora-gcc,NA,r81775,2022-02-23 23:48:54
+CEOdata,r-release-macos-arm64,0.1,release,macos,arm64,,4.1.0,NA,2022-02-23 23:48:54
