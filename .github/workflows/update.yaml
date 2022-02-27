@@ -54,5 +54,4 @@ jobs:
           git fetch
           git switch history
           git add cran-failing-*.csv
-          git commit -m "new data"
-          git push
+          git diff --cached --exit-code || git commit -m "new data" || git push
