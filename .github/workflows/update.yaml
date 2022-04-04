@@ -53,5 +53,4 @@ jobs:
         run: |
           git fetch
           git switch history
-          git add cran-failing-*.csv
-          git commit -m "new data" || git push
+          git diff --quiet --exit-code || git add cran-failing-*.csv; git commit -m "New data"; git push
