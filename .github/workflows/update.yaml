@@ -55,6 +55,5 @@ jobs:
           git switch history
       - name: History commit 
         run: |
-          git add cran-failing-*.csv
-          git commit -m "New data"
-          git push
+          git status
+          git diff --quiet --exit-code && git add cran-failing-*.csv && git commit -m "New data" && git push
