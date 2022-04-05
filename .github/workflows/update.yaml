@@ -16,7 +16,7 @@ on:
 name: update-report
 jobs:
   failures:
-    if: "! contains(github.event.commits.*.message, 'skip ci')"
+    # if: "! contains(github.event.commits.*.message, 'skip ci')"
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -49,8 +49,12 @@ jobs:
       - name: Push changes
         run: |
           git push
-      - name: History
+      - name: Change branch
         run: |
           git fetch
           git switch history
-          git diff --quiet --exit-code || git add cran-failing-*.csv; git commit -m "New data"; git push
+      - name: History commit 
+        run: |
+          git add cran-failing-*.csv
+          git commit -m "New data"
+          git push
