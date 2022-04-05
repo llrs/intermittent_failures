@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CorrectOverloadedPeaks,r-devel-linux-x86_64-fedora-clang,1.2.17,devel,linux,x86_64,fedora-clang,NA,r81872,2022-04-05 23:53:01
+mlr3fselect,r-devel-linux-x86_64-fedora-clang,0.6.1,devel,linux,x86_64,fedora-clang,NA,r81872,2022-04-05 23:53:01
+objectProperties,r-devel-linux-x86_64-fedora-clang,0.6.7,devel,linux,x86_64,fedora-clang,NA,r81872,2022-04-05 23:53:01
+enRich,r-devel-linux-x86_64-fedora-gcc,3.1,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
+objectProperties,r-devel-linux-x86_64-fedora-gcc,0.6.7,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
+Rcapture,r-devel-linux-x86_64-fedora-gcc,1.4-3,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
+Rcgmin,r-devel-linux-x86_64-fedora-gcc,2013-2.21,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
+regspec,r-devel-linux-x86_64-fedora-gcc,2.4,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
+RSEIS,r-devel-linux-x86_64-fedora-gcc,4.0-3,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
+splusTimeDate,r-devel-linux-x86_64-fedora-gcc,2.5.2,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
+swCRTdesign,r-devel-linux-x86_64-fedora-gcc,3.1,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-05 23:53:01
