@@ -51,6 +51,7 @@ jobs:
           git push
       - name: Change branch
         run: |
+          git fetch --all
           git switch history
       - name: History commit 
         run: |
