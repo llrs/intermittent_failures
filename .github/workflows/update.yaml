@@ -57,4 +57,4 @@ jobs:
       - name: History commit 
       # Should only add files if they exists
         run: |
-          git add cran-failing-*.csv && git commit -m "New data" && git push
+          git add cran-failing-*.csv && git commit --allow-empty -m "New data" && git push
