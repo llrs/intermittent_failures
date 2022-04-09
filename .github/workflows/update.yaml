@@ -55,5 +55,6 @@ jobs:
           git switch history
           git status
       - name: History commit 
+      # Should only add files if they exists
         run: |
-          git diff --quiet || git add --allow-empty cran-failing-*.csv && git commit -m "New data" && git push
+          git add cran-failing-*.csv && git commit -m "New data" && git push
