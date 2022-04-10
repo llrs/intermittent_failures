@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+qdapRegex,r-devel-linux-x86_64-fedora-gcc,0.7.2,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-10 22:50:54
+regexTestR,r-devel-linux-x86_64-fedora-gcc,0.1.3,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-10 22:50:54
+repoRter.nih,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-10 22:50:54
