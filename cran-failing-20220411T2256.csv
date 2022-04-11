@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+httpRequest,r-devel-linux-x86_64-debian-gcc,0.0.10,devel,linux,x86_64,debian-gcc,NA,r82134,2022-04-11 22:56:07
+mlpack,r-devel-linux-x86_64-fedora-gcc,3.4.2.1,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-11 22:56:07
+Rlgt,r-devel-linux-x86_64-fedora-gcc,0.1-3,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-11 22:56:07
+StMoMo,r-devel-linux-x86_64-fedora-gcc,0.4.1,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-11 22:56:07
+tsBSS,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-11 22:56:07
+httpRequest,r-release-linux-x86_64,0.0.10,release,linux,x86_64,,4.1.3,NA,2022-04-11 22:56:07
