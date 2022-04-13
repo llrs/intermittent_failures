@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bayesnec,r-devel-linux-x86_64-fedora-clang,2.0.2.3,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-13 22:51:43
+dnapath,r-devel-linux-x86_64-fedora-clang,0.6.11,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-13 22:51:43
+bayesnec,r-devel-linux-x86_64-fedora-gcc,2.0.2.3,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-13 22:51:43
+dnapath,r-devel-linux-x86_64-fedora-gcc,0.6.11,devel,linux,x86_64,fedora-gcc,NA,r82059,2022-04-13 22:51:43
