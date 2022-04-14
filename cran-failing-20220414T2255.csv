@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+httpRequest,r-release-linux-x86_64,0.0.10,release,linux,x86_64,,4.1.3,NA,2022-04-14 22:55:44
+pmparser,r-release-macos-arm64,1.0.4,release,macos,arm64,,4.1.0,NA,2022-04-14 22:55:44
+SoundShape,r-release-macos-arm64,1.1.9,release,macos,arm64,,4.1.0,NA,2022-04-14 22:55:44
