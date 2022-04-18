@@ -1,0 +1,21 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gdalUtilities,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-18 22:52:08
+ggseg,r-devel-linux-x86_64-fedora-clang,1.6.4,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-18 22:52:08
+nlmeU,r-devel-linux-x86_64-fedora-clang,0.70-3,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-18 22:52:08
+R.SamBada,r-devel-linux-x86_64-fedora-clang,0.1.3,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-18 22:52:08
+tvd,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-18 22:52:08
+voluModel,r-devel-linux-x86_64-fedora-clang,0.1.3,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-18 22:52:08
+WaveSampling,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-18 22:52:08
+ciftiTools,r-devel-linux-x86_64-fedora-gcc,0.8.0,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+gdalUtilities,r-devel-linux-x86_64-fedora-gcc,1.2.0,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+ggseg,r-devel-linux-x86_64-fedora-gcc,1.6.4,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+nlmeU,r-devel-linux-x86_64-fedora-gcc,0.70-3,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+R.SamBada,r-devel-linux-x86_64-fedora-gcc,0.1.3,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+treeDA,r-devel-linux-x86_64-fedora-gcc,0.0.5,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+treespace,r-devel-linux-x86_64-fedora-gcc,1.1.4.1,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+TSGS,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+tvd,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+VARSEDIG,r-devel-linux-x86_64-fedora-gcc,2.1,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+WaveSampling,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-18 22:52:08
+Rpoppler,r-release-macos-arm64,0.1-0,release,macos,arm64,,4.1.0,NA,2022-04-18 22:52:08
+Rpoppler,r-release-macos-x86_64,0.1-0,release,macos,x86_64,,4.1.0,NA,2022-04-18 22:52:08
