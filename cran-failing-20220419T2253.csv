@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pbmcapply,r-devel-linux-x86_64-debian-clang,1.5.0,devel,linux,x86_64,debian-clang,NA,r82203,2022-04-19 22:53:07
+sequence,r-devel-linux-x86_64-debian-clang,2.0,devel,linux,x86_64,debian-clang,NA,r82203,2022-04-19 22:53:07
+asbio,r-devel-linux-x86_64-debian-gcc,1.7,devel,linux,x86_64,debian-gcc,NA,r82203,2022-04-19 22:53:07
+BIOMASS,r-devel-linux-x86_64-debian-gcc,2.1.8,devel,linux,x86_64,debian-gcc,NA,r82203,2022-04-19 22:53:07
+metR,r-devel-linux-x86_64-debian-gcc,0.12.0,devel,linux,x86_64,debian-gcc,NA,r82203,2022-04-19 22:53:07
+nlmeU,r-devel-linux-x86_64-debian-gcc,0.70-3,devel,linux,x86_64,debian-gcc,NA,r82203,2022-04-19 22:53:07
+tvd,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82203,2022-04-19 22:53:07
+vegalite,r-devel-linux-x86_64-debian-gcc,0.6.1,devel,linux,x86_64,debian-gcc,NA,r82203,2022-04-19 22:53:07
+washex,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r82203,2022-04-19 22:53:07
+RestRserve,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-19 22:53:07
