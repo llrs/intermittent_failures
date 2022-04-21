@@ -1,0 +1,26 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+galah,r-devel-linux-x86_64-debian-gcc,1.4.0,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+IDConverter,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+MAFDash,r-devel-linux-x86_64-debian-gcc,0.2.1,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+MicroMoB,r-devel-linux-x86_64-debian-gcc,0.0.12,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+nodiv,r-devel-linux-x86_64-debian-gcc,1.4.0,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+sentopics,r-devel-linux-x86_64-debian-gcc,0.6.2,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+tangles,r-devel-linux-x86_64-debian-gcc,0.8.1,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+ternvis,r-devel-linux-x86_64-debian-gcc,1.2,devel,linux,x86_64,debian-gcc,NA,r82220,2022-04-21 22:54:54
+bionetdata,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+hypothesestest,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+iccde,r-devel-linux-x86_64-fedora-clang,0.3.2,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+PerfMeas,r-devel-linux-x86_64-fedora-clang,1.2.1,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+ProbYX,r-devel-linux-x86_64-fedora-clang,1.1-0,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+RInSp,r-devel-linux-x86_64-fedora-clang,1.2.4,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+sealasso,r-devel-linux-x86_64-fedora-clang,0.1-2,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+SMR,r-devel-linux-x86_64-fedora-clang,2.0.1,devel,linux,x86_64,fedora-clang,NA,r82134,2022-04-21 22:54:54
+bionetdata,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+hypothesestest,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+iccde,r-devel-linux-x86_64-fedora-gcc,0.3.2,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+PerfMeas,r-devel-linux-x86_64-fedora-gcc,1.2.1,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+ProbYX,r-devel-linux-x86_64-fedora-gcc,1.1-0,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+RInSp,r-devel-linux-x86_64-fedora-gcc,1.2.4,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+sealasso,r-devel-linux-x86_64-fedora-gcc,0.1-2,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+SMR,r-devel-linux-x86_64-fedora-gcc,2.0.1,devel,linux,x86_64,fedora-gcc,NA,r82188,2022-04-21 22:54:54
+JavaGD,r-devel-macos-arm64,0.6-4,devel,macos,arm64,,NA,r81946,2022-04-21 22:54:54
