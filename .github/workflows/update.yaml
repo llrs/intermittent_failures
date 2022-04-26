@@ -36,7 +36,7 @@ jobs:
       - name: Install dependencies
         # if: ${{ failure() }} # https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions#jobsjob_idstepsif
         run: |
-          Rscript -e "install.packages(c('rmarkdown', 'ggplot2', 'dplyr', 'forcats', 'tidyr', 'flextable'))"
+          Rscript -e "install.packages(c('rmarkdown', 'ggplot2', 'dplyr', 'forcats', 'tidyr', 'flextable', 'BiocManager'))"
       - name: git config
         run: |
           git config user.email github-actions@github.com
