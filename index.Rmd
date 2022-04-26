@@ -309,7 +309,7 @@ These is only on dependencies on CRAN and Bioconductor but not in other addition
 
 If they have some dependencies and those dependencies didn't change as far as we can tell then there might be some problems with random numbers or connectivity.
 
-```{r intermittent-failures, eval=length(unique(possible_packages$Package)) != 0}
+```{r intermittent-failures, eval=length(unique(possible_packages$Package)) < 1000}
 for (pkg in names(intermittent_failures[!intermittent_failures])) {
   dep <- dependencies[[pkg]]
   fl <- possible_packages$Flavor[possible_packages$Package == pkg]
@@ -325,7 +325,7 @@ packages <- names(intermittent_failures)[intermittent_failures]
 
 We finally show the differences on the status of those without any dependency change on version or status^[I think a new version might not propagate to check other packages until 24 hours later as checks might have already started for that day.]:
 
-```{r table-failures, eval=length(unique(possible_packages$Package)) != 0}
+```{r table-failures, eval=length(unique(possible_packages$Package)) < 1000}
 keep_files <- filter(possible_packages, Package %in% packages) |> 
   merge(y = flavors_df, by.x = "Flavor", by.y = "flavors", all.x = TRUE, all.y = FALSE) |> 
   select(Package, Flavor, Version = Version.t, R_version = r_version, OS = os, 
@@ -348,7 +348,7 @@ filter(possible_packages, Package %in% packages) |>
 
 # Conclusion
 
-```{r results='asis', eval=length(unique(possible_packages$Package)) != 0}
+```{r results='asis', eval=length(unique(possible_packages$Package)) < 1000}
 cat("This suggests that these packages might have some problems with random numbers or connectivity:\n\n") 
 if (any(dep_0)) {
   cat("\n## Packages with dependencies\n\n")
@@ -364,6 +364,6 @@ if (any(dep_0)) {
 ```
 
 
-```{r results='asis', eval=length(unique(possible_packages$Package)) == 0}
+```{r results='asis', eval=length(packages) == 0}
 cat("There are no packages detected with differences between yesterday and today attributable to intermittent failures.\n")
 ```
