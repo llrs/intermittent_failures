@@ -289,7 +289,7 @@ possible_packages |>
 
 If the machine and R versions is the same but the check of the package is different there might be some discrepancy between the dependencies.
 
-```{r packages-dependencies, eval=length(unique(possible_packages$Package)) != 0}
+```{r packages-dependencies, eval=length(unique(possible_packages$Package)) < 1000}
   # Extract dependencies
   dependencies <- package_dependencies(unique(possible_packages$Package),
                                        # Should it check all the recursive dependencies or only direct?
