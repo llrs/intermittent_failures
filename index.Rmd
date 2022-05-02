@@ -228,7 +228,7 @@ ap <- readRDS("packages.RDS") |>
   as.data.frame() |> 
   distinct(Package, .keep_all = TRUE)
 ap_bioc <- available.packages(repos = BiocManager::repositories()[1:5])
-ap_bioc$Additional_repositories <- NA
+ap_bioc <- cbind(ap_bioc, Additional_repositories = NA)
 ap_colm <- intersect(colnames(ap), colnames(ap_bioc))
 ap <- rbind(ap[, ap_colm], ap_bioc[, ap_colm])
 head(ts) |> 
