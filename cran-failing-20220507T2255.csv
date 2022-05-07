@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+artfima,r-devel-linux-x86_64-debian-gcc,1.5,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+cepp,r-devel-linux-x86_64-debian-gcc,1.7,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+conclust,r-devel-linux-x86_64-debian-gcc,1.1,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+GenBinomApps,r-devel-linux-x86_64-debian-gcc,1.1,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+JPEN,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+LRTH,r-devel-linux-x86_64-debian-gcc,1.3,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+QCSIS,r-devel-linux-x86_64-debian-gcc,0.1,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+R.methodsS3,r-devel-linux-x86_64-debian-gcc,1.8.1,devel,linux,x86_64,debian-gcc,NA,r82321,2022-05-07 22:55:02
+bcv,r-devel-linux-x86_64-fedora-clang,1.0.1.4,devel,linux,x86_64,fedora-clang,NA,r82232,2022-05-07 22:55:02
+LowRankQP,r-devel-linux-x86_64-fedora-clang,1.0.4,devel,linux,x86_64,fedora-clang,NA,r82232,2022-05-07 22:55:02
+msgps,r-devel-linux-x86_64-fedora-clang,1.3.1,devel,linux,x86_64,fedora-clang,NA,r82232,2022-05-07 22:55:02
+pgmm,r-devel-linux-x86_64-fedora-clang,1.2.5,devel,linux,x86_64,fedora-clang,NA,r82232,2022-05-07 22:55:02
+ptmixed,r-oldrel-macos-arm64,1.1.2,oldrel,macos,arm64,,4.1.0,NA,2022-05-07 22:55:02
