@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+aTSA,r-devel-linux-x86_64-debian-gcc,3.1.2,devel,linux,x86_64,debian-gcc,NA,r82335,2022-05-12 23:01:56
+aTSA,r-release-linux-x86_64,3.1.2,release,linux,x86_64,,4.2.0,NA,2022-05-12 23:01:56
+sentopics,r-release-macos-x86_64,0.7.0,release,macos,x86_64,,4.2.0,NA,2022-05-12 23:01:56
