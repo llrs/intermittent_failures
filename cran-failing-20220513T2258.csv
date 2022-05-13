@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+JFE,r-oldrel-macos-arm64,2.5.3,oldrel,macos,arm64,,4.1.0,NA,2022-05-13 22:58:36
+PermutationR,r-oldrel-macos-x86_64,0.1.0,oldrel,macos,x86_64,,4.1.0,NA,2022-05-13 22:58:36
+rjson,r-oldrel-macos-x86_64,0.2.21,oldrel,macos,x86_64,,4.1.0,NA,2022-05-13 22:58:36
+slam,r-oldrel-macos-x86_64,0.1-50,oldrel,macos,x86_64,,4.1.0,NA,2022-05-13 22:58:36
+driveR,r-release-macos-arm64,0.3.0,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+GeoTcgaData,r-release-macos-arm64,1.0.2,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+MAAPER,r-release-macos-arm64,1.1.1,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+oncoPredict,r-release-macos-arm64,0.2,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+PlasmaMutationDetector,r-release-macos-arm64,1.7.2,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+PlasmaMutationDetector2,r-release-macos-arm64,1.1.11,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+RNAseqQC,r-release-macos-arm64,0.1.2,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+SNPassoc,r-release-macos-arm64,2.0-11,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
+utr.annotation,r-release-macos-arm64,1.0.4,release,macos,arm64,,NA,r81946,2022-05-13 22:58:36
