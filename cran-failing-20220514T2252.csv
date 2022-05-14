@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+deeptime,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r82323,2022-05-14 22:52:15
+Rssa,r-devel-linux-x86_64-fedora-gcc,1.0.4,devel,linux,x86_64,fedora-gcc,NA,r82323,2022-05-14 22:52:15
+localsolver,r-oldrel-macos-arm64,2.3,oldrel,macos,arm64,,4.1.0,NA,2022-05-14 22:52:15
+sentopics,r-oldrel-macos-arm64,0.7.0,oldrel,macos,arm64,,4.1.0,NA,2022-05-14 22:52:15
