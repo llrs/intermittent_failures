@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+deeptime,r-devel-linux-x86_64-debian-gcc,0.2.1,devel,linux,x86_64,debian-gcc,NA,r82357,2022-05-15 22:54:15
+dina,r-devel-linux-x86_64-debian-gcc,2.0.0,devel,linux,x86_64,debian-gcc,NA,r82357,2022-05-15 22:54:15
+GDINA,r-devel-linux-x86_64-debian-gcc,2.8.8,devel,linux,x86_64,debian-gcc,NA,r82357,2022-05-15 22:54:15
+morpheus,r-devel-linux-x86_64-debian-gcc,1.0-1,devel,linux,x86_64,debian-gcc,NA,r82357,2022-05-15 22:54:15
+rnpn,r-devel-linux-x86_64-debian-gcc,1.2.5,devel,linux,x86_64,debian-gcc,NA,r82357,2022-05-15 22:54:15
+aTSA,r-devel-linux-x86_64-fedora-gcc,3.1.2,devel,linux,x86_64,fedora-gcc,NA,r82323,2022-05-15 22:54:15
+localsolver,r-oldrel-macos-arm64,2.3,oldrel,macos,arm64,,4.1.0,NA,2022-05-15 22:54:15
+BIOM.utils,r-patched-linux-x86_64,0.9,patched,linux,x86_64,,4.2.0,r82357,2022-05-15 22:54:15
+phreeqc,r-patched-linux-x86_64,3.7.4,patched,linux,x86_64,,4.2.0,r82357,2022-05-15 22:54:15
+rolog,r-release-macos-arm64,0.9.3,release,macos,arm64,,NA,r81946,2022-05-15 22:54:15
+superml,r-release-macos-arm64,0.5.4,release,macos,arm64,,NA,r81946,2022-05-15 22:54:15
