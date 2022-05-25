@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+MortalityTables,r-devel-linux-x86_64-fedora-clang,2.0.3,devel,linux,x86_64,fedora-clang,NA,r82357,2022-05-25 22:52:22
+SPOT,r-devel-linux-x86_64-fedora-clang,2.9.52,devel,linux,x86_64,fedora-clang,NA,r82357,2022-05-25 22:52:22
+MortalityTables,r-devel-linux-x86_64-fedora-gcc,2.0.3,devel,linux,x86_64,fedora-gcc,NA,r82390,2022-05-25 22:52:22
+SPOT,r-devel-linux-x86_64-fedora-gcc,2.9.52,devel,linux,x86_64,fedora-gcc,NA,r82390,2022-05-25 22:52:22
