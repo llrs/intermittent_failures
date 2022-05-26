@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+kappalab,r-devel-linux-x86_64-debian-gcc,0.4-7,devel,linux,x86_64,debian-gcc,NA,r82398,2022-05-26 22:56:19
+bayesQR,r-release-linux-x86_64,2.3,release,linux,x86_64,,4.2.0,NA,2022-05-26 22:56:19
+htm2txt,r-release-linux-x86_64,2.1.1,release,linux,x86_64,,4.2.0,NA,2022-05-26 22:56:19
