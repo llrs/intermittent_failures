@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CovCombR,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r82390,2022-05-30 22:53:34
+bayesQR,r-release-linux-x86_64,2.3,release,linux,x86_64,,4.2.0,NA,2022-05-30 22:53:34
+openNLP,r-release-linux-x86_64,0.2-7,release,linux,x86_64,,4.2.0,NA,2022-05-30 22:53:34
+pro,r-release-linux-x86_64,0.1.1,release,linux,x86_64,,4.2.0,NA,2022-05-30 22:53:34
+provViz,r-release-linux-x86_64,1.0.8,release,linux,x86_64,,4.2.0,NA,2022-05-30 22:53:34
