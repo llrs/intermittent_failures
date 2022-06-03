@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ggheatmap,r-devel-linux-x86_64-fedora-clang,2.1,devel,linux,x86_64,fedora-clang,NA,r82411,2022-06-03 22:51:10
+NFP,r-devel-linux-x86_64-fedora-clang,0.99.4,devel,linux,x86_64,fedora-clang,NA,r82411,2022-06-03 22:51:10
+ggheatmap,r-devel-linux-x86_64-fedora-gcc,2.1,devel,linux,x86_64,fedora-gcc,NA,r82390,2022-06-03 22:51:10
+NFP,r-devel-linux-x86_64-fedora-gcc,0.99.4,devel,linux,x86_64,fedora-gcc,NA,r82390,2022-06-03 22:51:10
