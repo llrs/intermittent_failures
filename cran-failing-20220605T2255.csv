@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bdrc,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r82449,2022-06-05 22:55:25
+circletyper,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r82449,2022-06-05 22:55:25
+climate,r-devel-linux-x86_64-debian-gcc,1.0.4,devel,linux,x86_64,debian-gcc,NA,r82449,2022-06-05 22:55:25
+ggheatmap,r-devel-linux-x86_64-debian-gcc,2.1,devel,linux,x86_64,debian-gcc,NA,r82449,2022-06-05 22:55:25
