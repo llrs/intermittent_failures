@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AncestryMapper,r-devel-linux-x86_64-fedora-gcc,2.0,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+BGGM,r-devel-linux-x86_64-fedora-gcc,2.0.4,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+CorMID,r-devel-linux-x86_64-fedora-gcc,0.1.6,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+Countr,r-devel-linux-x86_64-fedora-gcc,3.5.5,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+DiceEval,r-devel-linux-x86_64-fedora-gcc,1.5,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+DiffusionRjgqd,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+DisaggregateTS,r-devel-linux-x86_64-fedora-gcc,2.0.0,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+EmiR,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+ICGE,r-devel-linux-x86_64-fedora-gcc,0.4.1,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+MortalityTables,r-devel-linux-x86_64-fedora-gcc,2.0.3,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+Rdimtools,r-devel-linux-x86_64-fedora-gcc,1.0.9,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+SEMsens,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+SEset,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+SHT,r-devel-linux-x86_64-fedora-gcc,0.1.7,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-11 22:52:38
+webmorphR,r-oldrel-macos-x86_64,0.1.1,oldrel,macos,x86_64,,4.1.0,NA,2022-06-11 22:52:38
+webmorphR,r-release-macos-x86_64,0.1.1,release,macos,x86_64,,4.2.0,NA,2022-06-11 22:52:38
