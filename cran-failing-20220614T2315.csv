@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+PKI,r-devel-linux-x86_64-debian-clang,0.1-11,devel,linux,x86_64,debian-clang,NA,r82474,2022-06-14 23:15:55
+RSclient,r-devel-linux-x86_64-debian-clang,0.7-8,devel,linux,x86_64,debian-clang,NA,r82474,2022-06-14 23:15:55
+PKI,r-devel-linux-x86_64-debian-gcc,0.1-11,devel,linux,x86_64,debian-gcc,NA,r82474,2022-06-14 23:15:55
+RSclient,r-devel-linux-x86_64-debian-gcc,0.7-8,devel,linux,x86_64,debian-gcc,NA,r82474,2022-06-14 23:15:55
