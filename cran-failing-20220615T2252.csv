@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+RConics,r-devel-linux-x86_64-fedora-clang,1.1.1,devel,linux,x86_64,fedora-clang,NA,r82473,2022-06-15 22:52:40
+RConics,r-devel-linux-x86_64-fedora-gcc,1.1.1,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-15 22:52:40
+TSdata,r-release-macos-arm64,2016.8-1,release,macos,arm64,,NA,r81946,2022-06-15 22:52:40
