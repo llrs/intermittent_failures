@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+frmhet,r-devel-linux-x86_64-debian-clang,1.1.3,devel,linux,x86_64,debian-clang,NA,r82492,2022-06-17 22:53:19
+frmpd,r-devel-linux-x86_64-debian-clang,1.1.0,devel,linux,x86_64,debian-clang,NA,r82492,2022-06-17 22:53:19
+RConics,r-devel-linux-x86_64-debian-clang,1.1.1,devel,linux,x86_64,debian-clang,NA,r82492,2022-06-17 22:53:19
+stargazer,r-devel-linux-x86_64-debian-clang,5.2.3,devel,linux,x86_64,debian-clang,NA,r82492,2022-06-17 22:53:19
+frmhet,r-devel-linux-x86_64-fedora-gcc,1.1.3,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-17 22:53:19
+frmpd,r-devel-linux-x86_64-fedora-gcc,1.1.0,devel,linux,x86_64,fedora-gcc,NA,r82449,2022-06-17 22:53:19
