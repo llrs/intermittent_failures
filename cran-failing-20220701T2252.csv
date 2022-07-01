@@ -1,0 +1,15 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dashPivottable,r-devel-linux-x86_64-fedora-clang,0.0.2-1,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-01 22:52:22
+healthcareai,r-devel-linux-x86_64-fedora-clang,2.5.0,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-01 22:52:22
+healthyR.ai,r-devel-linux-x86_64-fedora-clang,0.0.7,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-01 22:52:22
+portalr,r-devel-linux-x86_64-fedora-clang,0.3.9,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-01 22:52:22
+rsat,r-devel-linux-x86_64-fedora-clang,0.1.18,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-01 22:52:22
+stacks,r-devel-linux-x86_64-fedora-clang,0.2.3,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-01 22:52:22
+dashPivottable,r-devel-linux-x86_64-fedora-gcc,0.0.2-1,devel,linux,x86_64,fedora-gcc,NA,r82501,2022-07-01 22:52:22
+healthcareai,r-devel-linux-x86_64-fedora-gcc,2.5.0,devel,linux,x86_64,fedora-gcc,NA,r82501,2022-07-01 22:52:22
+healthyR.ai,r-devel-linux-x86_64-fedora-gcc,0.0.7,devel,linux,x86_64,fedora-gcc,NA,r82501,2022-07-01 22:52:22
+portalr,r-devel-linux-x86_64-fedora-gcc,0.3.9,devel,linux,x86_64,fedora-gcc,NA,r82501,2022-07-01 22:52:22
+rsat,r-devel-linux-x86_64-fedora-gcc,0.1.18,devel,linux,x86_64,fedora-gcc,NA,r82501,2022-07-01 22:52:22
+stacks,r-devel-linux-x86_64-fedora-gcc,0.2.3,devel,linux,x86_64,fedora-gcc,NA,r82501,2022-07-01 22:52:22
+dispositionEffect,r-oldrel-macos-arm64,1.0.1,oldrel,macos,arm64,,4.1.0,NA,2022-07-01 22:52:22
+gtExtras,r-oldrel-macos-arm64,0.4.0,oldrel,macos,arm64,,4.1.0,NA,2022-07-01 22:52:22
