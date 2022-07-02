@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CGNM,r-devel-linux-x86_64-debian-gcc,0.3.2,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-02 22:52:51
+coil,r-devel-linux-x86_64-debian-gcc,1.2.3,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-02 22:52:51
+dashPivottable,r-devel-linux-x86_64-debian-gcc,0.0.2-1,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-02 22:52:51
+ecocomDP,r-devel-linux-x86_64-debian-gcc,1.2.1,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-02 22:52:51
+outerbase,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-02 22:52:51
+ows4R,r-devel-linux-x86_64-debian-gcc,0.2-1,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-02 22:52:51
+panstarrs,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-02 22:52:51
+cptec,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-02 22:52:51
+arabicStemR,r-devel-windows-x86_64,1.2,devel,windows,x86_64,,NA,r82540,2022-07-02 22:52:51
