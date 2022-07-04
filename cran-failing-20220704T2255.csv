@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+mbclusterwise,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-04 22:55:46
+MicroMoB,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-04 22:55:46
+ndtv,r-devel-linux-x86_64-debian-gcc,0.13.2,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-04 22:55:46
+rbioapi,r-devel-linux-x86_64-debian-gcc,0.7.6,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-04 22:55:46
+rsat,r-devel-linux-x86_64-debian-gcc,0.1.18,devel,linux,x86_64,debian-gcc,NA,r82540,2022-07-04 22:55:46
+accessibility,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-04 22:55:46
+ClusteredMutations,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-04 22:55:46
+dynr,r-devel-linux-x86_64-fedora-clang,0.1.16-27,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-04 22:55:46
+accessibility,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-04 22:55:46
+ClusteredMutations,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-04 22:55:46
+GPCERF,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-04 22:55:46
