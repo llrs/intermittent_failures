@@ -1,0 +1,26 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BayesLogit,r-devel-linux-x86_64-debian-gcc,2.1,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+eigenmodel,r-devel-linux-x86_64-debian-gcc,1.11,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+ncf,r-devel-linux-x86_64-debian-gcc,1.3-2,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+omnibus,r-devel-linux-x86_64-debian-gcc,1.1.2,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+repeated,r-devel-linux-x86_64-debian-gcc,1.1.5,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+rIntervalTree,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+stable,r-devel-linux-x86_64-debian-gcc,1.1.6,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+tabuSearch,r-devel-linux-x86_64-debian-gcc,1.1.1,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+textometry,r-devel-linux-x86_64-debian-gcc,0.1.6,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+ToxCrit,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+vortexRdata,r-devel-linux-x86_64-debian-gcc,1.0.5,devel,linux,x86_64,debian-gcc,NA,r82549,2022-07-07 23:00:05
+BayesLogit,r-devel-linux-x86_64-fedora-clang,2.1,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-07 23:00:05
+eigenmodel,r-devel-linux-x86_64-fedora-clang,1.11,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-07 23:00:05
+stable,r-devel-linux-x86_64-fedora-clang,1.1.6,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-07 23:00:05
+tabuSearch,r-devel-linux-x86_64-fedora-clang,1.1.1,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-07 23:00:05
+textometry,r-devel-linux-x86_64-fedora-clang,0.1.6,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-07 23:00:05
+ToxCrit,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-07 23:00:05
+vortexRdata,r-devel-linux-x86_64-fedora-clang,1.0.5,devel,linux,x86_64,fedora-clang,NA,r82518,2022-07-07 23:00:05
+BayesLogit,r-devel-linux-x86_64-fedora-gcc,2.1,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-07 23:00:05
+eigenmodel,r-devel-linux-x86_64-fedora-gcc,1.11,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-07 23:00:05
+stable,r-devel-linux-x86_64-fedora-gcc,1.1.6,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-07 23:00:05
+tabuSearch,r-devel-linux-x86_64-fedora-gcc,1.1.1,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-07 23:00:05
+textometry,r-devel-linux-x86_64-fedora-gcc,0.1.6,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-07 23:00:05
+ToxCrit,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-07 23:00:05
+vortexRdata,r-devel-linux-x86_64-fedora-gcc,1.0.5,devel,linux,x86_64,fedora-gcc,NA,r82540,2022-07-07 23:00:05
