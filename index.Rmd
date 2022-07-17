@@ -356,7 +356,7 @@ filter(possible_packages, Package %in% packages) |>
 
 # Conclusion
 
-```{r table-failures, eval=keep_files == 0, results="asis"}
+```{r wo-failures, eval=keep_files == 0, results="asis"}
 cat("There are no packages detected with differences between yesterday and today attributable to intermittent failures.\n")
 knitr::knit_exit()
 ```
