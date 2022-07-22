@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+PUPAIM,r-oldrel-macos-arm64,0.3.1,oldrel,macos,arm64,,4.1.0,NA,2022-07-22 22:55:50
+sgsR,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.1.0,NA,2022-07-22 22:55:50
+spectralR,r-oldrel-macos-arm64,0.1.2,oldrel,macos,arm64,,4.1.0,NA,2022-07-22 22:55:50
