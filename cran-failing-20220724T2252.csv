@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+sgpv,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r82614,2022-07-24 22:52:00
+echarty,r-devel-linux-x86_64-fedora-clang,1.4.5,devel,linux,x86_64,fedora-clang,NA,r82614,2022-07-24 22:52:00
+rebird,r-devel-linux-x86_64-fedora-clang,1.3.0,devel,linux,x86_64,fedora-clang,NA,r82614,2022-07-24 22:52:00
+torchvisionlib,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r82614,2022-07-24 22:52:00
+fwi.fbp,r-devel-linux-x86_64-fedora-gcc,1.7,devel,linux,x86_64,fedora-gcc,NA,r82598,2022-07-24 22:52:00
+torchvisionlib,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r82598,2022-07-24 22:52:00
+fwi.fbp,r-patched-linux-x86_64,1.7,patched,linux,x86_64,,4.2.1,r82614,2022-07-24 22:52:00
