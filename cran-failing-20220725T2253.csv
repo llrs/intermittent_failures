@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+sgpv,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r82614,2022-07-25 22:53:02
+OBL,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r82614,2022-07-25 22:53:02
+stppSim,r-devel-linux-x86_64-fedora-clang,1.2.3,devel,linux,x86_64,fedora-clang,NA,r82614,2022-07-25 22:53:02
+OBL,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r82598,2022-07-25 22:53:02
+stppSim,r-devel-linux-x86_64-fedora-gcc,1.2.3,devel,linux,x86_64,fedora-gcc,NA,r82598,2022-07-25 22:53:02
+tiledb,r-devel-linux-x86_64-fedora-gcc,0.14.1,devel,linux,x86_64,fedora-gcc,NA,r82598,2022-07-25 22:53:02
+fwi.fbp,r-release-linux-x86_64,1.7,release,linux,x86_64,,4.2.1,NA,2022-07-25 22:53:02
