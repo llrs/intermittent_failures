@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bayesQR,r-devel-linux-x86_64-debian-gcc,2.3,devel,linux,x86_64,debian-gcc,NA,r82637,2022-07-30 22:51:59
+ecce,r-devel-linux-x86_64-fedora-clang,1.0.9,devel,linux,x86_64,fedora-clang,NA,r82614,2022-07-30 22:51:59
+Rodam,r-devel-linux-x86_64-fedora-clang,0.1.14,devel,linux,x86_64,fedora-clang,NA,r82614,2022-07-30 22:51:59
+GGIR,r-release-macos-arm64,2.7-1,release,macos,arm64,,NA,r81946,2022-07-30 22:51:59
