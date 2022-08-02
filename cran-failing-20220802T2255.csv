@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+iqLearn,r-devel-linux-x86_64-debian-clang,1.5,devel,linux,x86_64,debian-clang,NA,r82648,2022-08-02 22:55:49
+rkafka,r-devel-linux-x86_64-debian-clang,1.3,devel,linux,x86_64,debian-clang,NA,r82648,2022-08-02 22:55:49
+iqLearn,r-devel-linux-x86_64-debian-gcc,1.5,devel,linux,x86_64,debian-gcc,NA,r82648,2022-08-02 22:55:49
+rkafka,r-devel-linux-x86_64-debian-gcc,1.3,devel,linux,x86_64,debian-gcc,NA,r82648,2022-08-02 22:55:49
