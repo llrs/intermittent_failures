@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pgam,r-devel-linux-x86_64-debian-gcc,0.4.15,devel,linux,x86_64,debian-gcc,NA,r82699,2022-08-11 22:53:57
+cheddar,r-devel-linux-x86_64-fedora-gcc,0.1-636,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-11 22:53:57
+RCALI,r-devel-linux-x86_64-fedora-gcc,0.3.2,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-11 22:53:57
