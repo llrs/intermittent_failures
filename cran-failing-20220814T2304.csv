@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AEP,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+Bolstad,r-devel-linux-x86_64-fedora-gcc,0.2-41,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+dixonTest,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+dual,r-devel-linux-x86_64-fedora-gcc,0.0.3,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+envir,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+fptdApprox,r-devel-linux-x86_64-fedora-gcc,2.3,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+fwi.fbp,r-devel-linux-x86_64-fedora-gcc,1.7,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+GLMsData,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+matrixcalc,r-devel-linux-x86_64-fedora-gcc,1.0-5,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+mixEMM,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+moc,r-devel-linux-x86_64-fedora-gcc,2.0,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+OCA,r-devel-linux-x86_64-fedora-gcc,0.4,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+resampledata,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+RobustRankAggreg,r-devel-linux-x86_64-fedora-gcc,1.2,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+selectiongain,r-devel-linux-x86_64-fedora-gcc,2.0.707,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
+VaRES,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-14 23:04:54
