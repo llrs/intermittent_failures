@@ -1,0 +1,22 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AEP,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+Bolstad,r-devel-linux-x86_64-fedora-clang,0.2-41,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+dixonTest,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+dual,r-devel-linux-x86_64-fedora-clang,0.0.3,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+envir,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+fptdApprox,r-devel-linux-x86_64-fedora-clang,2.3,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+GLMsData,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+highlight,r-devel-linux-x86_64-fedora-clang,0.5.0,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+matrixcalc,r-devel-linux-x86_64-fedora-clang,1.0-5,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+mixEMM,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+moc,r-devel-linux-x86_64-fedora-clang,2.0,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+OCA,r-devel-linux-x86_64-fedora-clang,0.4,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+pbdSLAP,r-devel-linux-x86_64-fedora-clang,0.3-2,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+phreeqc,r-devel-linux-x86_64-fedora-clang,3.7.4,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+resampledata,r-devel-linux-x86_64-fedora-clang,0.3.1,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+RobustRankAggreg,r-devel-linux-x86_64-fedora-clang,1.2,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+selectiongain,r-devel-linux-x86_64-fedora-clang,2.0.707,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+stringi,r-devel-linux-x86_64-fedora-clang,1.7.8,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+VaRES,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-15 23:42:23
+PSS.Health,r-devel-linux-x86_64-fedora-gcc,0.5.1,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-15 23:42:23
+fwi.fbp,r-release-linux-x86_64,1.7,release,linux,x86_64,,4.2.1,NA,2022-08-15 23:42:23
