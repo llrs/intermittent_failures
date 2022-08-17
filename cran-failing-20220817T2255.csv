@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+phreeqc,r-patched-linux-x86_64,3.7.4,patched,linux,x86_64,,4.2.1,r82719,2022-08-17 22:55:09
+ccpsyc,r-release-macos-x86_64,0.2.6,release,macos,x86_64,,4.2.0,NA,2022-08-17 22:55:09
+epinetr,r-release-macos-x86_64,0.96,release,macos,x86_64,,4.2.0,NA,2022-08-17 22:55:09
+IDSL.UFAx,r-release-macos-x86_64,1.4,release,macos,x86_64,,4.2.0,NA,2022-08-17 22:55:09
+Rtropical,r-release-macos-x86_64,1.2.1,release,macos,x86_64,,4.2.0,NA,2022-08-17 22:55:09
+STraTUS,r-release-macos-x86_64,1.1.2,release,macos,x86_64,,4.2.0,NA,2022-08-17 22:55:09
