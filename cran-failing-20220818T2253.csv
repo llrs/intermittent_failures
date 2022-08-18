@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Bolstad,r-devel-linux-x86_64-fedora-clang,0.2-41,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-18 22:53:58
+resampledata,r-devel-linux-x86_64-fedora-clang,0.3.1,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-18 22:53:58
+Bolstad,r-devel-linux-x86_64-fedora-gcc,0.2-41,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-18 22:53:58
+resampledata,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-18 22:53:58
