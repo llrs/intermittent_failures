@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dixonTest,r-devel-windows-x86_64,1.0.3,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+drmdel,r-devel-windows-x86_64,1.3.2,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+dual,r-devel-windows-x86_64,0.0.3,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+envir,r-devel-windows-x86_64,0.2.1,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+fptdApprox,r-devel-windows-x86_64,2.3,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+matrixcalc,r-devel-windows-x86_64,1.0-5,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+mixEMM,r-devel-windows-x86_64,1.0,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+moc,r-devel-windows-x86_64,2.0,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+poilog,r-devel-windows-x86_64,0.4.1,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
+selectiongain,r-devel-windows-x86_64,2.0.707,devel,windows,x86_64,,NA,r82734,2022-08-21 22:52:31
