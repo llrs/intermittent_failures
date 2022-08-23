@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+hettx,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r82735,2022-08-23 22:57:40
+MicroMoB,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82735,2022-08-23 22:57:40
+noaaoceans,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r82735,2022-08-23 22:57:40
+outerbase,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82735,2022-08-23 22:57:40
+rgoogleads,r-devel-linux-x86_64-debian-gcc,0.8.0,devel,linux,x86_64,debian-gcc,NA,r82735,2022-08-23 22:57:40
+condvis2,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-23 22:57:40
