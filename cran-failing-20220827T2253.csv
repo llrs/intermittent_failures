@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+SAScii,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r82762,2022-08-27 22:53:04
+portvine,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-27 22:53:04
+RWsearch,r-devel-linux-x86_64-fedora-clang,5.0.5,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-27 22:53:04
+svines,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-27 22:53:04
+vinereg,r-devel-linux-x86_64-fedora-clang,0.8.3,devel,linux,x86_64,fedora-clang,NA,r82713,2022-08-27 22:53:04
+RWsearch,r-devel-linux-x86_64-fedora-gcc,5.0.5,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-27 22:53:04
