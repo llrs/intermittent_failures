@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+deBInfer,r-devel-linux-x86_64-debian-gcc,0.4.3,devel,linux,x86_64,debian-gcc,NA,r82762,2022-08-28 22:53:09
+MicroMoB,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82762,2022-08-28 22:53:09
+proverbs,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r82762,2022-08-28 22:53:09
+SAScii,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r82762,2022-08-28 22:53:09
+tidyLPA,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r82762,2022-08-28 22:53:09
