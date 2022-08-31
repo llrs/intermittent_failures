@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BayesianNetwork,r-devel-linux-x86_64-fedora-gcc,0.1.5,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-31 22:56:48
+heemod,r-devel-linux-x86_64-fedora-gcc,0.14.4,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-31 22:56:48
+meteoland,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r82688,2022-08-31 22:56:48
