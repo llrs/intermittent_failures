@@ -1,0 +1,15 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+polmineR,r-oldrel-macos-arm64,0.8.7,oldrel,macos,arm64,,4.1.0,NA,2022-09-01 22:52:19
+CopulaDTA,r-release-linux-x86_64,1.0.0,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+lingmatch,r-release-linux-x86_64,1.0.3,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+meteoland,r-release-linux-x86_64,1.0.2,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+MIRES,r-release-linux-x86_64,0.1.0,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+mrbayes,r-release-linux-x86_64,0.5.1,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+noaaoceans,r-release-linux-x86_64,0.3.0,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+PL94171,r-release-linux-x86_64,1.1.1,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+publipha,r-release-linux-x86_64,0.1.1,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+rbioacc,r-release-linux-x86_64,1.1-0,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+RBPcurve,r-release-linux-x86_64,1.2,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+rcbayes,r-release-linux-x86_64,0.2.0,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+simodels,r-release-linux-x86_64,0.0.4,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
+widyr,r-release-linux-x86_64,0.1.4,release,linux,x86_64,,4.2.1,NA,2022-09-01 22:52:19
