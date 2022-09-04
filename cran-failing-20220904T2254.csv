@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+archiveRetriever,r-devel-linux-x86_64-debian-gcc,0.2.0,devel,linux,x86_64,debian-gcc,NA,r82792,2022-09-04 22:54:55
+GetTDData,r-devel-linux-x86_64-debian-gcc,1.5.1,devel,linux,x86_64,debian-gcc,NA,r82792,2022-09-04 22:54:55
+mnis,r-devel-linux-x86_64-debian-gcc,0.3.1,devel,linux,x86_64,debian-gcc,NA,r82792,2022-09-04 22:54:55
+pollimetry,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r82792,2022-09-04 22:54:55
+portalr,r-devel-linux-x86_64-debian-gcc,0.3.10,devel,linux,x86_64,debian-gcc,NA,r82792,2022-09-04 22:54:55
+sentopics,r-devel-linux-x86_64-debian-gcc,0.7.1,devel,linux,x86_64,debian-gcc,NA,r82792,2022-09-04 22:54:55
+xQTLbiolinks,r-devel-linux-x86_64-debian-gcc,1.2.2,devel,linux,x86_64,debian-gcc,NA,r82792,2022-09-04 22:54:55
+webp,r-devel-windows-x86_64,1.1.0,devel,windows,x86_64,,NA,r82792,2022-09-04 22:54:55
+x13binary,r-devel-windows-x86_64,1.1.57-3,devel,windows,x86_64,,NA,r82792,2022-09-04 22:54:55
