@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+anticlust,r-devel-linux-x86_64-debian-gcc,0.6.1,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
+curephEM,r-devel-linux-x86_64-debian-gcc,0.2.5,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
+cwbtools,r-devel-linux-x86_64-debian-gcc,0.3.8,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
+frictionless,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
+linea,r-devel-linux-x86_64-debian-gcc,0.0.3,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
+netdiffuseR,r-devel-linux-x86_64-debian-gcc,1.22.3,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
+Rblpapi,r-devel-linux-x86_64-debian-gcc,0.3.13,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
+SMME,r-devel-linux-x86_64-debian-gcc,1.1,devel,linux,x86_64,debian-gcc,NA,r82805,2022-09-06 22:53:45
