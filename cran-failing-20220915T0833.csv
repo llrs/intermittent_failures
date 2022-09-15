@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AnnoProbe,r-devel-linux-x86_64-fedora-clang,0.1.6,devel,linux,x86_64,fedora-clang,NA,r82828,2022-09-15 08:33:27
+breakaway,r-devel-linux-x86_64-fedora-clang,4.7.9,devel,linux,x86_64,fedora-clang,NA,r82828,2022-09-15 08:33:27
+DynTxRegime,r-devel-linux-x86_64-fedora-clang,4.10,devel,linux,x86_64,fedora-clang,NA,r82828,2022-09-15 08:33:27
+AnnoProbe,r-devel-linux-x86_64-fedora-gcc,0.1.6,devel,linux,x86_64,fedora-gcc,NA,r82792,2022-09-15 08:33:27
+breakaway,r-devel-linux-x86_64-fedora-gcc,4.7.9,devel,linux,x86_64,fedora-gcc,NA,r82792,2022-09-15 08:33:27
+DynTxRegime,r-devel-linux-x86_64-fedora-gcc,4.10,devel,linux,x86_64,fedora-gcc,NA,r82792,2022-09-15 08:33:27
+ghee,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r82792,2022-09-15 08:33:27
+seeds,r-devel-linux-x86_64-fedora-gcc,0.9.1,devel,linux,x86_64,fedora-gcc,NA,r82792,2022-09-15 08:33:27
+baffle,r-oldrel-macos-arm64,0.2.0,oldrel,macos,arm64,,4.1.0,NA,2022-09-15 08:33:27
