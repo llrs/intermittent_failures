@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+iheiddown,r-devel-linux-x86_64-fedora-clang,0.9.3,devel,linux,x86_64,fedora-clang,NA,r82828,2022-09-21 22:58:10
+mdsr,r-devel-linux-x86_64-fedora-clang,0.2.6,devel,linux,x86_64,fedora-clang,NA,r82828,2022-09-21 22:58:10
+hadron,r-oldrel-macos-arm64,3.2.0,oldrel,macos,arm64,,4.1.0,NA,2022-09-21 22:58:10
