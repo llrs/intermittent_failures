@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+breakaway,r-devel-linux-x86_64-fedora-gcc,4.7.9,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-09-24 22:54:27
+clinDataReview,r-devel-linux-x86_64-fedora-gcc,1.2.2,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-09-24 22:54:27
+CovCombR,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-09-24 22:54:27
+epitweetr,r-devel-linux-x86_64-fedora-gcc,2.0.3,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-09-24 22:54:27
+pksensi,r-devel-linux-x86_64-fedora-gcc,1.2.3,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-09-24 22:54:27
+digiRhythm,r-oldrel-macos-arm64,1.0,oldrel,macos,arm64,,4.1.0,NA,2022-09-24 22:54:27
+rgl2gltf,r-release-macos-x86_64,1.0.3,release,macos,x86_64,,4.2.0,NA,2022-09-24 22:54:27
