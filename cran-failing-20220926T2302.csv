@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+DetSel,r-devel-linux-x86_64-fedora-clang,1.0.4,devel,linux,x86_64,fedora-clang,NA,r82903,2022-09-26 23:02:53
+HI,r-devel-linux-x86_64-fedora-clang,0.5,devel,linux,x86_64,fedora-clang,NA,r82903,2022-09-26 23:02:53
+LatticeDesign,r-devel-linux-x86_64-fedora-clang,2.0-4,devel,linux,x86_64,fedora-clang,NA,r82903,2022-09-26 23:02:53
+MLEcens,r-devel-linux-x86_64-fedora-clang,0.1-5,devel,linux,x86_64,fedora-clang,NA,r82903,2022-09-26 23:02:53
+PCICt,r-devel-linux-x86_64-fedora-clang,0.5-4.1,devel,linux,x86_64,fedora-clang,NA,r82903,2022-09-26 23:02:53
+timeDate,r-devel-linux-x86_64-fedora-clang,4021.104,devel,linux,x86_64,fedora-clang,NA,r82903,2022-09-26 23:02:53
+weibull4,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r82903,2022-09-26 23:02:53
+timeDate,r-devel-linux-x86_64-fedora-gcc,4021.104,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-09-26 23:02:53
+weibull4,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-09-26 23:02:53
+geneHapR,r-oldrel-macos-arm64,1.1.1,oldrel,macos,arm64,,4.1.0,NA,2022-09-26 23:02:53
+weibull4,r-release-linux-x86_64,1.0.0,release,linux,x86_64,,4.2.1,NA,2022-09-26 23:02:53
