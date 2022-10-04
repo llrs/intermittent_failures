@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+x13binary,r-devel-linux-x86_64-debian-gcc,1.1.57-3,devel,linux,x86_64,debian-gcc,NA,r82991,2022-10-04 23:01:25
+RApiDatetime,r-devel-linux-x86_64-fedora-clang,0.0.6,devel,linux,x86_64,fedora-clang,NA,r82903,2022-10-04 23:01:25
+RApiDatetime,r-devel-linux-x86_64-fedora-gcc,0.0.6,devel,linux,x86_64,fedora-gcc,NA,r82861,2022-10-04 23:01:25
+inTextSummaryTable,r-release-macos-x86_64,3.2.0,release,macos,x86_64,,4.2.0,NA,2022-10-04 23:01:25
