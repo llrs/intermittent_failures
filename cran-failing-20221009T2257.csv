@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+GeoTcgaData,r-devel-linux-x86_64-fedora-clang,1.1.1.992,devel,linux,x86_64,fedora-clang,NA,r82903,2022-10-09 22:57:27
+ggseqplot,r-devel-linux-x86_64-fedora-gcc,0.8.0,devel,linux,x86_64,fedora-gcc,NA,r83027,2022-10-09 22:57:27
+seqhandbook,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r83027,2022-10-09 22:57:27
