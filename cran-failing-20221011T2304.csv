@@ -1,0 +1,24 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+L1pack,r-devel-linux-x86_64-debian-clang,0.41,devel,linux,x86_64,debian-clang,NA,r83047,2022-10-11 23:04:58
+paletteknife,r-devel-linux-x86_64-debian-clang,0.4.2,devel,linux,x86_64,debian-clang,NA,r83047,2022-10-11 23:04:58
+RApiDatetime,r-devel-linux-x86_64-debian-clang,0.0.6,devel,linux,x86_64,debian-clang,NA,r83047,2022-10-11 23:04:58
+SpatialPack,r-devel-linux-x86_64-debian-clang,0.4,devel,linux,x86_64,debian-clang,NA,r83047,2022-10-11 23:04:58
+stringx,r-devel-linux-x86_64-debian-clang,0.2.2,devel,linux,x86_64,debian-clang,NA,r83047,2022-10-11 23:04:58
+dynr,r-devel-linux-x86_64-debian-gcc,0.1.16-27,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+ggseqplot,r-devel-linux-x86_64-debian-gcc,0.8.0,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+hockeyR,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+mapme.biodiversity,r-devel-linux-x86_64-debian-gcc,0.2.1,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+onmaRg,r-devel-linux-x86_64-debian-gcc,0.1.2,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+rdomains,r-devel-linux-x86_64-debian-gcc,0.2.1,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+read.gt3x,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+sentopics,r-devel-linux-x86_64-debian-gcc,0.7.1,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+tiledb,r-devel-linux-x86_64-debian-gcc,0.15.0,devel,linux,x86_64,debian-gcc,NA,r83047,2022-10-11 23:04:58
+Bmix,r-devel-linux-x86_64-fedora-clang,0.6,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+EL,r-devel-linux-x86_64-fedora-clang,1.1,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+Rrdrand,r-devel-linux-x86_64-fedora-clang,0.1-16,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+rstream,r-devel-linux-x86_64-fedora-clang,1.3.6,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+scuba,r-devel-linux-x86_64-fedora-clang,1.11-0,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+survivalROC,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+tiff,r-devel-linux-x86_64-fedora-clang,0.1-11,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+tkrplot,r-devel-linux-x86_64-fedora-clang,0.0-26,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
+yaml,r-devel-linux-x86_64-fedora-clang,2.3.5,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-11 23:04:58
