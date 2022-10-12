@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+oceanexplorer,r-oldrel-macos-arm64,0.0.2,oldrel,macos,arm64,,4.1.0,NA,2022-10-12 22:58:17
+RcppClassic,r-release-macos-arm64,0.9.12,release,macos,arm64,,NA,r81946,2022-10-12 22:58:17
+Rrdrand,r-release-macos-arm64,0.1-16,release,macos,arm64,,NA,r81946,2022-10-12 22:58:17
