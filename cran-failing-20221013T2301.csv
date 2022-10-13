@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+deforestable,r-oldrel-macos-arm64,3.1.0,oldrel,macos,arm64,,4.1.0,NA,2022-10-13 23:01:30
+bayesQR,r-release-linux-x86_64,2.3,release,linux,x86_64,,4.2.1,NA,2022-10-13 23:01:30
+pawacc,r-release-linux-x86_64,1.2.2,release,linux,x86_64,,4.2.1,NA,2022-10-13 23:01:30
+RcppClassic,r-release-macos-arm64,0.9.12,release,macos,arm64,,NA,r81946,2022-10-13 23:01:30
+Rrdrand,r-release-macos-arm64,0.1-16,release,macos,arm64,,NA,r81946,2022-10-13 23:01:30
+cmhc,r-release-macos-x86_64,0.2.3,release,macos,x86_64,,4.2.0,NA,2022-10-13 23:01:30
