@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+deforestable,r-oldrel-macos-arm64,3.1.0,oldrel,macos,arm64,,4.1.0,NA,2022-10-15 23:18:12
+DynTxRegime,r-oldrel-macos-arm64,4.11,oldrel,macos,arm64,,4.1.0,NA,2022-10-15 23:18:12
+fMRIscrub,r-oldrel-macos-arm64,0.11.2,oldrel,macos,arm64,,4.1.0,NA,2022-10-15 23:18:12
+kazaam,r-oldrel-macos-arm64,0.1-0,oldrel,macos,arm64,,4.1.0,NA,2022-10-15 23:18:12
+pmclust,r-oldrel-macos-x86_64,0.2-1,oldrel,macos,x86_64,,4.1.0,NA,2022-10-15 23:18:12
