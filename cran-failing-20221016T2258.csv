@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+atime,r-devel-linux-x86_64-debian-gcc,2022.9.16,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+carbonate,r-devel-linux-x86_64-debian-gcc,0.1.4,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+colocalized,r-devel-linux-x86_64-debian-gcc,0.2.0,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+dynr,r-devel-linux-x86_64-debian-gcc,0.1.16-27,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+MixAll,r-devel-linux-x86_64-debian-gcc,1.5.1,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+qgcomp,r-devel-linux-x86_64-debian-gcc,2.9.0,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+Rdta,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+shiftR,r-devel-linux-x86_64-debian-gcc,1.5,devel,linux,x86_64,debian-gcc,NA,r83104,2022-10-16 22:58:58
+DynTxRegime,r-oldrel-macos-arm64,4.11,oldrel,macos,arm64,,4.1.0,NA,2022-10-16 22:58:58
+fMRIscrub,r-oldrel-macos-arm64,0.11.2,oldrel,macos,arm64,,4.1.0,NA,2022-10-16 22:58:58
+kazaam,r-oldrel-macos-arm64,0.1-0,oldrel,macos,arm64,,4.1.0,NA,2022-10-16 22:58:58
