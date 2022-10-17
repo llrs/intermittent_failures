@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pcaL1,r-devel-linux-x86_64-fedora-clang,1.5.6,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-17 23:00:00
+pcaL1,r-devel-linux-x86_64-fedora-gcc,1.5.6,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-17 23:00:00
+bayesQR,r-release-linux-x86_64,2.3,release,linux,x86_64,,4.2.1,NA,2022-10-17 23:00:00
