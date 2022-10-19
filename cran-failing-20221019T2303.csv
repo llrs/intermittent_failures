@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+mosmafs,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r83047,2022-10-19 23:03:27
+ggPMX,r-devel-linux-x86_64-fedora-gcc,1.2.8,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-19 23:03:27
+mosmafs,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-19 23:03:27
