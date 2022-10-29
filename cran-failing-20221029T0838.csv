@@ -1,0 +1,19 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dataverse,r-devel-linux-x86_64-debian-gcc,0.3.11,devel,linux,x86_64,debian-gcc,NA,r83164,2022-10-29 08:38:17
+eurlex,r-devel-linux-x86_64-debian-gcc,0.4.2,devel,linux,x86_64,debian-gcc,NA,r83164,2022-10-29 08:38:17
+phreeqc,r-devel-linux-x86_64-debian-gcc,3.7.4,devel,linux,x86_64,debian-gcc,NA,r83164,2022-10-29 08:38:17
+qgcomp,r-devel-linux-x86_64-debian-gcc,2.9.0,devel,linux,x86_64,debian-gcc,NA,r83164,2022-10-29 08:38:17
+r.proxy,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r83164,2022-10-29 08:38:17
+worrrd,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r83164,2022-10-29 08:38:17
+AnnoProbe,r-devel-linux-x86_64-fedora-clang,0.1.6,devel,linux,x86_64,fedora-clang,NA,r83155,2022-10-29 08:38:17
+htmltab,r-devel-linux-x86_64-fedora-clang,0.8.2,devel,linux,x86_64,fedora-clang,NA,r83155,2022-10-29 08:38:17
+kairos,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r83155,2022-10-29 08:38:17
+RBMRB,r-devel-linux-x86_64-fedora-clang,2.1.7,devel,linux,x86_64,fedora-clang,NA,r83155,2022-10-29 08:38:17
+ssrn,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r83155,2022-10-29 08:38:17
+frictionless,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-29 08:38:17
+htmltab,r-devel-linux-x86_64-fedora-gcc,0.8.2,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-29 08:38:17
+kairos,r-devel-linux-x86_64-fedora-gcc,1.1.0,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-29 08:38:17
+RBMRB,r-devel-linux-x86_64-fedora-gcc,2.1.7,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-29 08:38:17
+ssrn,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-29 08:38:17
+usincometaxes,r-devel-linux-x86_64-fedora-gcc,0.5.3,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-29 08:38:17
+viewpoly,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r83104,2022-10-29 08:38:17
