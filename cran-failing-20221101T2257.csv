@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+heatmapFlex,r-oldrel-macos-arm64,0.1.2,oldrel,macos,arm64,,4.1.0,NA,2022-11-01 22:57:44
+mExplorer,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.1.0,NA,2022-11-01 22:57:44
+pbdMPI,r-oldrel-macos-arm64,0.4-6,oldrel,macos,arm64,,4.1.0,NA,2022-11-01 22:57:44
+personalized,r-oldrel-macos-arm64,0.2.7,oldrel,macos,arm64,,4.1.0,NA,2022-11-01 22:57:44
+sgsR,r-oldrel-macos-arm64,1.3.1,oldrel,macos,arm64,,4.1.0,NA,2022-11-01 22:57:44
+Signac,r-oldrel-macos-arm64,1.8.0,oldrel,macos,arm64,,4.1.0,NA,2022-11-01 22:57:44
+sits,r-oldrel-macos-arm64,1.1.0,oldrel,macos,arm64,,4.1.0,NA,2022-11-01 22:57:44
