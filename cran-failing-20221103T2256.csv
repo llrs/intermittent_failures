@@ -1,0 +1,15 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dynamAedes,r-devel-linux-x86_64-fedora-clang,2.1.0,devel,linux,x86_64,fedora-clang,NA,r83155,2022-11-03 22:56:47
+icensBKL,r-devel-linux-x86_64-fedora-clang,1.4,devel,linux,x86_64,fedora-clang,NA,r83155,2022-11-03 22:56:47
+rangeBuilder,r-devel-linux-x86_64-fedora-clang,1.6,devel,linux,x86_64,fedora-clang,NA,r83155,2022-11-03 22:56:47
+SRTsim,r-devel-linux-x86_64-fedora-clang,0.99.2,devel,linux,x86_64,fedora-clang,NA,r83155,2022-11-03 22:56:47
+stablespec,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r83155,2022-11-03 22:56:47
+nlmixr2lib,r-oldrel-macos-arm64,0.1.0,oldrel,macos,arm64,,4.1.0,NA,2022-11-03 22:56:47
+personalized,r-oldrel-macos-arm64,0.2.7,oldrel,macos,arm64,,4.1.0,NA,2022-11-03 22:56:47
+ricu,r-oldrel-macos-arm64,0.5.4,oldrel,macos,arm64,,4.1.0,NA,2022-11-03 22:56:47
+sgsR,r-oldrel-macos-arm64,1.3.1,oldrel,macos,arm64,,4.1.0,NA,2022-11-03 22:56:47
+Signac,r-oldrel-macos-arm64,1.8.0,oldrel,macos,arm64,,4.1.0,NA,2022-11-03 22:56:47
+sits,r-oldrel-macos-arm64,1.1.0,oldrel,macos,arm64,,4.1.0,NA,2022-11-03 22:56:47
+nlmixr2lib,r-oldrel-macos-x86_64,0.1.0,oldrel,macos,x86_64,,4.1.0,NA,2022-11-03 22:56:47
+nlmixr2lib,r-release-macos-arm64,0.1.0,release,macos,arm64,,NA,r81946,2022-11-03 22:56:47
+nlmixr2lib,r-release-macos-x86_64,0.1.0,release,macos,x86_64,,4.2.0,NA,2022-11-03 22:56:47
