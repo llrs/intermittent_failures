@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+adjustedCurves,r-devel-linux-x86_64-fedora-clang,0.9.0,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
+cocktailApp,r-devel-linux-x86_64-fedora-clang,0.2.2,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
+plot3logit,r-devel-linux-x86_64-fedora-clang,3.1.3,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
+seAMLess,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
+sjSDM,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
+tricolore,r-devel-linux-x86_64-fedora-clang,1.2.2,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
+vdar,r-devel-linux-x86_64-fedora-clang,0.1.3-2,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
+voluModel,r-devel-linux-x86_64-fedora-clang,0.1.7,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-19 22:57:55
