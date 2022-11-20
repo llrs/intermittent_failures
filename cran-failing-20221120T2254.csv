@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+helsinki,r-devel-linux-x86_64-fedora-clang,1.0.5,devel,linux,x86_64,fedora-clang,NA,r83353,2022-11-20 22:54:39
+catnet,r-devel-windows-x86_64,1.16.1,devel,windows,x86_64,,NA,r83083,2022-11-20 22:54:39
+gluvarpro,r-release-macos-x86_64,7.0,release,macos,x86_64,,4.2.0,NA,2022-11-20 22:54:39
