@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+palaeoSig,r-devel-linux-x86_64-fedora-clang,2.0-3,devel,linux,x86_64,fedora-clang,NA,r83373,2022-11-26 22:56:00
+palaeoSig,r-devel-linux-x86_64-fedora-gcc,2.0-3,devel,linux,x86_64,fedora-gcc,NA,r83369,2022-11-26 22:56:00
+sos,r-oldrel-macos-x86_64,2.1-4,oldrel,macos,x86_64,,4.1.0,NA,2022-11-26 22:56:00
