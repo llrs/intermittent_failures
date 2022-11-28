@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+himach,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r83373,2022-11-28 22:52:27
+psfmi,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r83373,2022-11-28 22:52:27
+RawHummus,r-devel-linux-x86_64-fedora-clang,0.2.2,devel,linux,x86_64,fedora-clang,NA,r83373,2022-11-28 22:52:27
+RStoolbox,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r83373,2022-11-28 22:52:27
+himach,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r83369,2022-11-28 22:52:27
+RawHummus,r-devel-linux-x86_64-fedora-gcc,0.2.2,devel,linux,x86_64,fedora-gcc,NA,r83369,2022-11-28 22:52:27
+RStoolbox,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r83369,2022-11-28 22:52:27
