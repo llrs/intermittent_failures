@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+RRphylo,r-devel-linux-x86_64-fedora-clang,2.7.0,devel,linux,x86_64,fedora-clang,NA,r83373,2022-11-30 22:57:36
+Landmarking,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r83369,2022-11-30 22:57:36
+RRphylo,r-devel-linux-x86_64-fedora-gcc,2.7.0,devel,linux,x86_64,fedora-gcc,NA,r83369,2022-11-30 22:57:36
