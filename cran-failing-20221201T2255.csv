@@ -1,0 +1,20 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BARIS,r-devel-linux-x86_64-debian-gcc,1.1.3,devel,linux,x86_64,debian-gcc,NA,r83388,2022-12-01 22:55:15
+BFS,r-devel-linux-x86_64-debian-gcc,0.4.3,devel,linux,x86_64,debian-gcc,NA,r83388,2022-12-01 22:55:15
+funcharts,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r83388,2022-12-01 22:55:15
+litterfitter,r-devel-linux-x86_64-debian-gcc,0.1.2,devel,linux,x86_64,debian-gcc,NA,r83388,2022-12-01 22:55:15
+qgcomp,r-devel-linux-x86_64-debian-gcc,2.9.0,devel,linux,x86_64,debian-gcc,NA,r83388,2022-12-01 22:55:15
+safedata,r-devel-linux-x86_64-debian-gcc,1.1.2,devel,linux,x86_64,debian-gcc,NA,r83388,2022-12-01 22:55:15
+xportr,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r83373,2022-12-01 22:55:15
+xportr,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r83369,2022-12-01 22:55:15
+backports,r-devel-windows-x86_64,1.4.1,devel,windows,x86_64,,NA,r83388,2022-12-01 22:55:15
+base64enc,r-devel-windows-x86_64,0.1-3,devel,windows,x86_64,,NA,r83388,2022-12-01 22:55:15
+deldir,r-devel-windows-x86_64,1.0-6,devel,windows,x86_64,,NA,r83388,2022-12-01 22:55:15
+stringi,r-devel-windows-x86_64,1.7.8,devel,windows,x86_64,,NA,r83388,2022-12-01 22:55:15
+yaml,r-devel-windows-x86_64,2.3.6,devel,windows,x86_64,,NA,r83388,2022-12-01 22:55:15
+CRE,r-release-macos-arm64,0.1.1,release,macos,arm64,,NA,r81946,2022-12-01 22:55:15
+eHDPrep,r-release-macos-arm64,1.2.1,release,macos,arm64,,NA,r81946,2022-12-01 22:55:15
+maple,r-release-macos-arm64,0.99.5,release,macos,arm64,,NA,r81946,2022-12-01 22:55:15
+plotBart,r-release-macos-arm64,0.1.7,release,macos,arm64,,NA,r81946,2022-12-01 22:55:15
+riAFTBART,r-release-macos-arm64,0.3.2,release,macos,arm64,,NA,r81946,2022-12-01 22:55:15
+stan4bart,r-release-macos-arm64,0.0-3,release,macos,arm64,,NA,r81946,2022-12-01 22:55:15
