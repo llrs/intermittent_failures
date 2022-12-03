@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+highlight,r-devel-linux-x86_64-fedora-clang,0.5.0,devel,linux,x86_64,fedora-clang,NA,r83373,2022-12-03 22:55:45
+LibOPF,r-devel-linux-x86_64-fedora-clang,2.6.1,devel,linux,x86_64,fedora-clang,NA,r83373,2022-12-03 22:55:45
+PCICt,r-devel-linux-x86_64-fedora-clang,0.5-4.3,devel,linux,x86_64,fedora-clang,NA,r83373,2022-12-03 22:55:45
+phreeqc,r-devel-linux-x86_64-fedora-clang,3.7.4,devel,linux,x86_64,fedora-clang,NA,r83373,2022-12-03 22:55:45
+qmvs,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r83373,2022-12-03 22:55:45
