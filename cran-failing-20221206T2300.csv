@@ -1,0 +1,27 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+argon2,r-devel-linux-x86_64-debian-clang,0.4-0,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+date,r-devel-linux-x86_64-debian-clang,1.2-40,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+filehash,r-devel-linux-x86_64-debian-clang,2.4-3,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+foreign,r-devel-linux-x86_64-debian-clang,0.8-83,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+highlight,r-devel-linux-x86_64-debian-clang,0.5.0,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+JavaGD,r-devel-linux-x86_64-debian-clang,0.6-5,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+LibOPF,r-devel-linux-x86_64-debian-clang,2.6.1,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+logicDT,r-devel-linux-x86_64-debian-clang,1.0.2,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+lpSolve,r-devel-linux-x86_64-debian-clang,5.6.17,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+nanonext,r-devel-linux-x86_64-debian-clang,0.7.1,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+pbdSLAP,r-devel-linux-x86_64-debian-clang,0.3-3,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+pbdZMQ,r-devel-linux-x86_64-debian-clang,0.3-8,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+pcaL1,r-devel-linux-x86_64-debian-clang,1.5.6,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+PCICt,r-devel-linux-x86_64-debian-clang,0.5-4.3,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+phreeqc,r-devel-linux-x86_64-debian-clang,3.7.4,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+qmvs,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+randtoolbox,r-devel-linux-x86_64-debian-clang,2.0.3,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+RApiDatetime,r-devel-linux-x86_64-debian-clang,0.0.7,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+Rbeast,r-devel-linux-x86_64-debian-clang,0.9.5,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+Rfmtool,r-devel-linux-x86_64-debian-clang,4.1.9,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+RhpcBLASctl,r-devel-linux-x86_64-debian-clang,0.21-247.1,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+RODBC,r-devel-linux-x86_64-debian-clang,1.3-19,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+survJamda.data,r-devel-linux-x86_64-debian-clang,1.0.2,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+xptr,r-devel-linux-x86_64-debian-clang,1.1.3,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+yaml,r-devel-linux-x86_64-debian-clang,2.3.6,devel,linux,x86_64,debian-clang,NA,r83401,2022-12-06 23:00:50
+survJamda.data,r-devel-linux-x86_64-debian-gcc,1.0.2,devel,linux,x86_64,debian-gcc,NA,r83401,2022-12-06 23:00:50
