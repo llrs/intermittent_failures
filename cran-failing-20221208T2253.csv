@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+lsplsGlm,r-release-linux-x86_64,1.0,release,linux,x86_64,,4.2.2,NA,2022-12-08 22:53:55
+survJamda.data,r-release-linux-x86_64,1.0.2,release,linux,x86_64,,4.2.2,NA,2022-12-08 22:53:55
+topologyGSA,r-release-macos-arm64,1.4.7,release,macos,arm64,,NA,r81946,2022-12-08 22:53:55
