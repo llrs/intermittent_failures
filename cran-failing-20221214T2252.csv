@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+norgeo,r-devel-linux-x86_64-fedora-clang,2.1.3,devel,linux,x86_64,fedora-clang,NA,r83426,2022-12-14 22:52:37
+silicate,r-devel-linux-x86_64-fedora-clang,0.7.0,devel,linux,x86_64,fedora-clang,NA,r83426,2022-12-14 22:52:37
+spbabel,r-devel-linux-x86_64-fedora-clang,0.5.5,devel,linux,x86_64,fedora-clang,NA,r83426,2022-12-14 22:52:37
+ursa,r-devel-linux-x86_64-fedora-clang,3.9.8,devel,linux,x86_64,fedora-clang,NA,r83426,2022-12-14 22:52:37
+crestr,r-devel-linux-x86_64-fedora-gcc,1.2.0,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
+norgeo,r-devel-linux-x86_64-fedora-gcc,2.1.3,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
+replicatedpp2w,r-devel-linux-x86_64-fedora-gcc,0.1-4,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
+selectspm,r-devel-linux-x86_64-fedora-gcc,0.5,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
+silicate,r-devel-linux-x86_64-fedora-gcc,0.7.0,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
+spbabel,r-devel-linux-x86_64-fedora-gcc,0.5.5,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
+survJamda.data,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
+ursa,r-devel-linux-x86_64-fedora-gcc,3.9.8,devel,linux,x86_64,fedora-gcc,NA,r83397,2022-12-14 22:52:37
