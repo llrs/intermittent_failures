@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+csmaps,r-oldrel-macos-arm64,2022.12.15,oldrel,macos,arm64,,4.1.0,NA,2022-12-21 22:55:54
+GNGTools,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.1.0,NA,2022-12-21 22:55:54
+janus,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.1.0,NA,2022-12-21 22:55:54
+SIMplyBee,r-oldrel-macos-arm64,0.3.0,oldrel,macos,arm64,,4.1.0,NA,2022-12-21 22:55:54
+RGCxGC,r-release-macos-arm64,1.2.0,release,macos,arm64,,NA,r81946,2022-12-21 22:55:54
