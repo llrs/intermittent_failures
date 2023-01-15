@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+jack,r-oldrel-macos-x86_64,4.0.0,oldrel,macos,x86_64,,4.1.0,NA,2023-01-15 22:57:57
+oceanexplorer,r-release-macos-arm64,0.0.2,release,macos,arm64,,NA,r81946,2023-01-15 22:57:57
+jack,r-release-macos-x86_64,4.0.0,release,macos,x86_64,,4.2.0,NA,2023-01-15 22:57:57
