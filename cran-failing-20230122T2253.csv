@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+HTLR,r-devel-linux-x86_64-debian-gcc,0.4-4,devel,linux,x86_64,debian-gcc,NA,r83646,2023-01-22 22:53:36
+ICSsmoothing,r-devel-linux-x86_64-debian-gcc,1.2.7,devel,linux,x86_64,debian-gcc,NA,r83646,2023-01-22 22:53:36
+InteRD,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r83646,2023-01-22 22:53:36
+RAMClustR,r-devel-linux-x86_64-debian-gcc,1.2.4,devel,linux,x86_64,debian-gcc,NA,r83646,2023-01-22 22:53:36
+RBPcurve,r-devel-linux-x86_64-debian-gcc,1.2,devel,linux,x86_64,debian-gcc,NA,r83646,2023-01-22 22:53:36
+ldt,r-release-macos-x86_64,0.1.1.0,release,macos,x86_64,,4.2.0,NA,2023-01-22 22:53:36
