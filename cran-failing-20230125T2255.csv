@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ssrn,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r83612,2023-01-25 22:55:16
+DDD,r-devel-linux-x86_64-fedora-gcc,5.0,devel,linux,x86_64,fedora-gcc,NA,r83646,2023-01-25 22:55:16
+nandb,r-devel-linux-x86_64-fedora-gcc,2.1.0,devel,linux,x86_64,fedora-gcc,NA,r83646,2023-01-25 22:55:16
+ssrn,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r83646,2023-01-25 22:55:16
