@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dsfa,r-oldrel-macos-arm64,2.0.0,oldrel,macos,arm64,,4.1.0,NA,2023-02-08 22:52:06
+EstimationTools,r-oldrel-macos-arm64,4.0.0,oldrel,macos,arm64,,4.1.0,NA,2023-02-08 22:52:06
+fsMTS,r-oldrel-macos-arm64,0.1.7,oldrel,macos,arm64,,4.1.0,NA,2023-02-08 22:52:06
+kfino,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.1.0,NA,2023-02-08 22:52:06
+lmeresampler,r-oldrel-macos-arm64,0.2.3,oldrel,macos,arm64,,4.1.0,NA,2023-02-08 22:52:06
+mcemGLM,r-oldrel-macos-arm64,,oldrel,macos,arm64,,4.1.0,NA,2023-02-08 22:52:06
+SHT,r-oldrel-macos-arm64,0.1.8,oldrel,macos,arm64,,4.1.0,NA,2023-02-08 22:52:06
