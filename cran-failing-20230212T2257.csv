@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Brundle,r-devel-windows-x86_64,1.0.9,devel,windows,x86_64,,NA,r83797,2023-02-12 22:57:04
+falcon,r-patched-linux-x86_64,0.2,patched,linux,x86_64,,4.2.2,r83797,2023-02-12 22:57:04
+cheatsheet,r-release-macos-x86_64,0.1.1,release,macos,x86_64,,4.2.0,NA,2023-02-12 22:57:04
