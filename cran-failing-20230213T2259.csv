@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+MetabolomicsBasics,r-devel-linux-x86_64-fedora-gcc,1.4,devel,linux,x86_64,fedora-gcc,NA,r83750,2023-02-13 22:59:58
+mapplots,r-devel-windows-x86_64,1.5.1,devel,windows,x86_64,,NA,r83797,2023-02-13 22:59:58
+marima,r-devel-windows-x86_64,2.2,devel,windows,x86_64,,NA,r83797,2023-02-13 22:59:58
+rcdd,r-devel-windows-x86_64,1.5,devel,windows,x86_64,,NA,r83797,2023-02-13 22:59:58
+rcdklibs,r-devel-windows-x86_64,2.8,devel,windows,x86_64,,NA,r83797,2023-02-13 22:59:58
+rcheology,r-devel-windows-x86_64,4.2.2.0,devel,windows,x86_64,,NA,r83797,2023-02-13 22:59:58
