@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+clugenr,r-release-macos-arm64,0.2.0,release,macos,arm64,,NA,r81946,2023-02-15 22:52:12
+fsemipar,r-release-macos-arm64,1.0,release,macos,arm64,,NA,r81946,2023-02-15 22:52:12
+mcemGLM,r-release-macos-arm64,1.1.2,release,macos,arm64,,NA,r81946,2023-02-15 22:52:12
+SCpubr,r-release-macos-arm64,1.1.2,release,macos,arm64,,NA,r81946,2023-02-15 22:52:12
