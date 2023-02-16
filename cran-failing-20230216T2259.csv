@@ -1,0 +1,26 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ars,r-devel-linux-x86_64-debian-gcc,0.6,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+BLR,r-devel-linux-x86_64-debian-gcc,1.6,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+decon,r-devel-linux-x86_64-debian-gcc,1.3-4,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+eigenmodel,r-devel-linux-x86_64-debian-gcc,1.11,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+fracprolif,r-devel-linux-x86_64-debian-gcc,1.0.7,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+Fragman,r-devel-linux-x86_64-debian-gcc,1.0.9,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+iapws,r-devel-linux-x86_64-debian-gcc,1.1,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+isopat,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+itsmr,r-devel-linux-x86_64-debian-gcc,1.10,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+nsRFA,r-devel-linux-x86_64-debian-gcc,0.7-15,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+OPI,r-devel-linux-x86_64-debian-gcc,2.10.1,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+PermAlgo,r-devel-linux-x86_64-debian-gcc,1.2,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+ResistorArray,r-devel-linux-x86_64-debian-gcc,1.0-32,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+robeth,r-devel-linux-x86_64-debian-gcc,2.7-6,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+sigclust,r-devel-linux-x86_64-debian-gcc,1.1.0.1,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+sjdbc,r-devel-linux-x86_64-debian-gcc,1.6.1,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+spt,r-devel-linux-x86_64-debian-gcc,2.5.1,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+squash,r-devel-linux-x86_64-debian-gcc,1.0.9,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+ThreeGroups,r-devel-linux-x86_64-debian-gcc,0.21,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+timeDate,r-devel-linux-x86_64-debian-gcc,4022.108,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+tkrplot,r-devel-linux-x86_64-debian-gcc,0.0-27,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+tkRplotR,r-devel-linux-x86_64-debian-gcc,0.1.7,devel,linux,x86_64,debian-gcc,NA,r83833,2023-02-16 22:59:05
+clugenr,r-release-macos-arm64,0.2.0,release,macos,arm64,,NA,r81946,2023-02-16 22:59:05
+fsemipar,r-release-macos-arm64,1.0,release,macos,arm64,,NA,r81946,2023-02-16 22:59:05
+SCpubr,r-release-macos-arm64,1.1.2,release,macos,arm64,,NA,r81946,2023-02-16 22:59:05
