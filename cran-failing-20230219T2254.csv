@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bubbleHeatmap,r-oldrel-macos-arm64,0.1.0,oldrel,macos,arm64,,4.1.0,NA,2023-02-19 22:54:44
+mcemGLM,r-oldrel-macos-x86_64,1.1.2,oldrel,macos,x86_64,,4.1.0,NA,2023-02-19 22:54:44
+mcemGLM,r-release-macos-x86_64,1.1.2,release,macos,x86_64,,4.2.0,NA,2023-02-19 22:54:44
