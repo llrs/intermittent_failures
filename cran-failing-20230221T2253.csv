@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+PsychWordVec,r-oldrel-macos-arm64,0.3.0,oldrel,macos,arm64,,4.1.0,NA,2023-02-21 22:53:59
+bubbleHeatmap,r-oldrel-macos-x86_64,0.1.0,oldrel,macos,x86_64,,4.1.0,NA,2023-02-21 22:53:59
+mcemGLM,r-oldrel-macos-x86_64,1.1.2,oldrel,macos,x86_64,,4.1.0,NA,2023-02-21 22:53:59
+mcemGLM,r-release-macos-x86_64,1.1.2,release,macos,x86_64,,4.2.0,NA,2023-02-21 22:53:59
