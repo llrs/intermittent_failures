@@ -347,7 +347,7 @@ if (nrow(keep_files >= 1)) {
 }
 ```
 
-```{r table-failures, eval=keep_files >= 1}
+```{r table-failures, eval=exists("keep_files") && keep_files >= 1}
 filter(possible_packages, Package %in% packages) |> 
   select(Package, Flavor, Today, Yesterday, -Version.t, -Version.y) |> 
   flextable() |> 
@@ -356,12 +356,12 @@ filter(possible_packages, Package %in% packages) |>
 
 # Conclusion
 
-```{r wo-failures, eval=keep_files == 0, results="asis"}
+```{r wo-failures, eval=exists("keep_files") && keep_files == 0, results="asis"}
 cat("There are no packages detected with differences between yesterday and today attributable to intermittent failures.\n")
 knitr::knit_exit()
 ```
 
-```{r results='asis', eval=length(packages) > 0}
+```{r results='asis', eval=exists("packages") && length(packages) > 0}
 cat("This suggests that these packages might have some problems with random numbers or connectivity:\n\n") 
 if (any(dep_0)) {
   cat("\n## Packages with dependencies\n\n")
