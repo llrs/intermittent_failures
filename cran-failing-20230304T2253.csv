@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+nanonext,r-devel-linux-x86_64-fedora-gcc,0.8.0,devel,linux,x86_64,fedora-gcc,NA,r83864,2023-03-04 22:53:47
+dynwrap,r-oldrel-macos-x86_64,1.2.3,oldrel,macos,x86_64,,4.1.0,NA,2023-03-04 22:53:47
+mcemGLM,r-release-macos-x86_64,1.1.2,release,macos,x86_64,,4.2.0,NA,2023-03-04 22:53:47
