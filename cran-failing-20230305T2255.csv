@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bndesr,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+canadacovid,r-devel-linux-x86_64-debian-gcc,0.3.4,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+dail,r-devel-linux-x86_64-debian-gcc,1.5,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+em,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+etwfe,r-devel-linux-x86_64-debian-gcc,0.3.1,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+noaaoceans,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+panstarrs,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+raveio,r-devel-linux-x86_64-debian-gcc,0.0.9,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+RBPcurve,r-devel-linux-x86_64-debian-gcc,1.2,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+restatapi,r-devel-linux-x86_64-debian-gcc,0.20.3,devel,linux,x86_64,debian-gcc,NA,r83933,2023-03-05 22:55:34
+oceanexplorer,r-release-macos-x86_64,0.0.2,release,macos,x86_64,,4.2.0,NA,2023-03-05 22:55:34
