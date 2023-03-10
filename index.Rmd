@@ -59,6 +59,8 @@ library("flextable", include.only = c("flextable", "autofit"))
 local_build <- as.logical(Sys.getenv("LOCAL", "FALSE"))
 yc <- readRDS("today.RDS")
 tc <- CRAN_check_results()
+# Added 2023/03/09: sometimes some flavors are reported without status: Omit those
+tc <- tc[!is.na(tc$Status),]
 if (!interactive() && !local_build) {
   message("Saving today's file.")
   saveRDS(tc, file = "today.RDS")
@@ -70,6 +72,8 @@ The checks are from multiple flavors release, devel, old release and patched on 
 ```{r flavors-today, fig.cap="Machine configurations and flavors being tested on CRAN."}
 old_flavors <- readRDS("flavors.RDS")
 flavors <- unique(tc$Flavor)
+# One flavor now present in all is the r-devel-windows-x86_64: skip
+flavors <- setdiff(flavors, "r-devel-windows-x86_64")
 proto <- data.frame(r_version = character(),
                     os = character(),
                     architecture = character(),
@@ -80,7 +84,7 @@ flavors_df <- strcapture(
   proto = proto)
 
 # Extract R version used and svn id
-h <- "https://www.r-project.org/nosvn/R.check/%s/A3-00check.html"
+h <- "https://www.r-project.org/nosvn/R.check/%s/ggplot2-00check.html"
 links <- sprintf(h, flavors)
 extract_revision <- function(x) {
   r <- readLines(x, 12)[12]
