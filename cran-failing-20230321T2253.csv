@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+fsemipar,r-release-macos-arm64,1.0,release,macos,arm64,,4.2.0,NA,2023-03-21 22:53:11
+MAGEE,r-release-macos-arm64,1.2.0,release,macos,arm64,,4.2.0,NA,2023-03-21 22:53:11
+RMark,r-release-macos-arm64,3.0.0,release,macos,arm64,,4.2.0,NA,2023-03-21 22:53:11
+SCpubr,r-release-macos-arm64,1.1.2,release,macos,arm64,,4.2.0,NA,2023-03-21 22:53:11
