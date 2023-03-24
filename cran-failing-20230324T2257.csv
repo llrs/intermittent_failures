@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pbdSLAP,r-devel-linux-x86_64-fedora-gcc,0.3-4,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-24 22:57:59
+ivs,r-oldrel-macos-x86_64,0.2.0,oldrel,macos,x86_64,,4.1.2,NA,2023-03-24 22:57:59
+bspm,r-release-macos-arm64,,release,macos,arm64,,4.2.0,NA,2023-03-24 22:57:59
+mcemGLM,r-release-macos-arm64,,release,macos,arm64,,4.2.0,NA,2023-03-24 22:57:59
+ivs,r-release-macos-x86_64,0.2.0,release,macos,x86_64,,4.2.0,NA,2023-03-24 22:57:59
