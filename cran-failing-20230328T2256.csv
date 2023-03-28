@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+GroupTest,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r84051,2023-03-28 22:56:40
+respR,r-devel-linux-x86_64-fedora-clang,2.2.0,devel,linux,x86_64,fedora-clang,NA,r84051,2023-03-28 22:56:40
+GroupTest,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-28 22:56:40
