@@ -1,0 +1,16 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bapred,r-devel-linux-x86_64-fedora-gcc,1.1,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+CoNI,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+dGAselID,r-devel-linux-x86_64-fedora-gcc,1.2,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+digitalDLSorteR,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+DRomics,r-devel-linux-x86_64-fedora-gcc,2.5-0,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+dSVA,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+EMAS,r-devel-linux-x86_64-fedora-gcc,0.2.2,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+INCATome,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+leapp,r-devel-linux-x86_64-fedora-gcc,1.3,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+lmQCM,r-devel-linux-x86_64-fedora-gcc,0.2.4,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+MiDA,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+netgsa,r-devel-linux-x86_64-fedora-gcc,4.0.4,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+oncoPredict,r-devel-linux-x86_64-fedora-gcc,0.2,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+SmartSVA,r-devel-linux-x86_64-fedora-gcc,0.1.3,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
+ttScreening,r-devel-linux-x86_64-fedora-gcc,1.6,devel,linux,x86_64,fedora-gcc,NA,r84017,2023-03-29 22:52:41
