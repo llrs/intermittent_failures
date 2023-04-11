@@ -18,7 +18,7 @@ jobs:
   failures:
     # if: "! contains(github.event.commits.*.message, 'skip ci')"
     runs-on: ubuntu-latest
-    timeout-minuts: 20
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v3
       - uses: r-lib/actions/setup-r@v2
