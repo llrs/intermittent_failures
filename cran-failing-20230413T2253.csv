@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+speaq,r-devel-linux-x86_64-fedora-clang,2.7.0,devel,linux,x86_64,fedora-clang,NA,r84202,2023-04-13 22:53:13
+timeperiodsR,r-devel-linux-x86_64-fedora-clang,0.6.2,devel,linux,x86_64,fedora-clang,NA,r84202,2023-04-13 22:53:13
+speaq,r-devel-linux-x86_64-fedora-gcc,2.7.0,devel,linux,x86_64,fedora-gcc,NA,r84202,2023-04-13 22:53:13
+GauPro,r-devel-macos-arm64,0.2.11,devel,macos,arm64,,4.3.0,r84137,2023-04-13 22:53:13
+OLCPM,r-release-macos-arm64,0.1.0,release,macos,arm64,,4.2.0,NA,2023-04-13 22:53:13
