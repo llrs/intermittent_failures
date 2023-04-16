@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+assertive.code,r-devel-linux-x86_64-fedora-clang,0.0-3,devel,linux,x86_64,fedora-clang,NA,r84202,2023-04-16 22:54:15
+mirai,r-devel-linux-x86_64-fedora-clang,0.8.2,devel,linux,x86_64,fedora-clang,NA,r84202,2023-04-16 22:54:15
+rworkflows,r-devel-linux-x86_64-fedora-clang,0.99.5,devel,linux,x86_64,fedora-clang,NA,r84202,2023-04-16 22:54:15
+simcausal,r-devel-linux-x86_64-fedora-clang,0.5.6,devel,linux,x86_64,fedora-clang,NA,r84202,2023-04-16 22:54:15
+mirai,r-release-windows-x86_64,0.8.2,release,windows,x86_64,,4.2.3,NA,2023-04-16 22:54:15
