@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BOJ,r-devel-linux-x86_64-fedora-gcc,0.3,devel,linux,x86_64,fedora-gcc,NA,r84265,2023-04-17 22:54:38
+TrustVDJ,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r84265,2023-04-17 22:54:38
+mirai,r-release-linux-x86_64,0.8.2,release,linux,x86_64,,4.2.3,NA,2023-04-17 22:54:38
