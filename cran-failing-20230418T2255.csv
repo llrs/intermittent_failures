@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AlgebraicHaploPackage,r-devel-macos-x86_64,1.2,devel,macos,x86_64,,4.3.0,r84200,2023-04-18 22:55:48
+gumbel,r-devel-macos-x86_64,1.10-2,devel,macos,x86_64,,4.3.0,r84200,2023-04-18 22:55:48
+locatexec,r-devel-macos-x86_64,0.1.1,devel,macos,x86_64,,4.3.0,r84200,2023-04-18 22:55:48
+memuse,r-devel-macos-x86_64,4.2-3,devel,macos,x86_64,,4.3.0,r84200,2023-04-18 22:55:48
+ngram,r-devel-macos-x86_64,3.2.2,devel,macos,x86_64,,4.3.0,r84200,2023-04-18 22:55:48
