@@ -26,19 +26,19 @@ This report checks if the status of packages on CRAN are due to intermittent fai
 
 Failures defined as warnings, notes or errors without change on:
 
- - R version used (if not stable the same svn snapshot)
+- R version used (if not stable the same svn snapshot)
 
- - The package version (Note that CRAN might modify a package without changing the version)
+- The package version (Note that CRAN might modify a package without changing the version)
 
- - Their dependencies
+- Their dependencies
 
 Reasons of these failures might be because the packages depend on:
 
- - Random generation numbers
+- Random generation numbers
 
- - Flacky external resources
+- Flacky external resources
 
- - Other ?
+- Other ?
 
 Why is this important?
 
@@ -91,11 +91,11 @@ extract_revision <- function(x) {
   version <- strcapture(pattern = "([[:digit:]]\\.[[:digit:]]\\.[[:digit:]])",  
                         x = r, proto = data.frame(version = character()))
   revision <- strcapture(pattern = "(r[[:digit:]]+)",  x = r,
-             proto = data.frame(revision = character()))
+                         proto = data.frame(revision = character()))
   cbind(version, revision)
 }
 revision <- data.frame(version = character(),
-                      revision = character())
+                       revision = character())
 for (i in links) {
   revision <- rbind(revision, extract_revision(i))
 }
@@ -195,7 +195,7 @@ tc |>
   ggplot() +
   geom_tile(aes(Flavors, Versions, fill = log10(Packages))) +
   scale_x_continuous(expand = expansion())
-  
+
 ```
 
 But focusing on those that have just one version of the package being tested, most of the machines have packages either OK or with some notes.
@@ -300,18 +300,18 @@ possible_packages |>
 If the machine and R versions is the same but the check of the package is different there might be some discrepancy between the dependencies.
 
 ```{r packages-dependencies, eval=length(unique(possible_packages$Package)) < 1000}
-  # Extract dependencies
-  dependencies <- package_dependencies(unique(possible_packages$Package),
-                                       # Should it check all the recursive dependencies or only direct?
-                                       db = ap, # Only considering those dependencies on CRAN and Bioconductor but not any Additional_repositories. 
-                                       recursive = TRUE, 
-                                       which = c("Depends", "Imports", "LinkingTo", "Suggests"))
-  
-  # Prepare to compare versions (as they are sorted by everything else we can compare directly)
-  intermittent_failures <- rep(FALSE, length(dependencies))
-  names(intermittent_failures) <- names(dependencies)
-  dep_0 <- lengths(dependencies) == 0
-  intermittent_failures[dep_0] <- TRUE
+# Extract dependencies
+dependencies <- package_dependencies(unique(possible_packages$Package),
+                                     # Should it check all the recursive dependencies or only direct?
+                                     db = ap, # Only considering those dependencies on CRAN and Bioconductor but not any Additional_repositories. 
+                                     recursive = TRUE, 
+                                     which = c("Depends", "Imports", "LinkingTo", "Suggests"))
+
+# Prepare to compare versions (as they are sorted by everything else we can compare directly)
+intermittent_failures <- rep(FALSE, length(dependencies))
+names(intermittent_failures) <- names(dependencies)
+dep_0 <- lengths(dependencies) == 0
+intermittent_failures[dep_0] <- TRUE
 ```
 
 If they do not have any recursive dependency on Depends, Imports, LinkingTo and Suggests they might be have some intermittent problems on the packages. 
@@ -351,7 +351,7 @@ if (nrow(keep_files >= 1)) {
 }
 ```
 
-```{r table-failures, eval=exists("keep_files") && keep_files >= 1}
+```{r table-failures, eval=exists("keep_files") && NROW(keep_files) >= 1}
 filter(possible_packages, Package %in% packages) |> 
   select(Package, Flavor, Today, Yesterday, -Version.t, -Version.y) |> 
   flextable() |> 
@@ -360,7 +360,7 @@ filter(possible_packages, Package %in% packages) |>
 
 # Conclusion
 
-```{r wo-failures, eval=exists("keep_files") && keep_files == 0, results="asis"}
+```{r wo-failures, eval=exists("keep_files") && NROW(keep_files) == 0, results="asis"}
 cat("There are no packages detected with differences between yesterday and today attributable to intermittent failures.\n")
 knitr::knit_exit()
 ```
