@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+SCpubr,r-devel-linux-x86_64-fedora-clang,1.1.2,devel,linux,x86_64,fedora-clang,NA,r84658,2023-07-15 22:54:36.759583
+TOmicsVis,r-devel-linux-x86_64-fedora-clang,1.1.8,devel,linux,x86_64,fedora-clang,NA,r84658,2023-07-15 22:54:36.759583
+SCpubr,r-devel-linux-x86_64-fedora-gcc,1.1.2,devel,linux,x86_64,fedora-gcc,NA,r84629,2023-07-15 22:54:36.759583
