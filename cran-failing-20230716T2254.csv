@@ -1,0 +1,3 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+rglobi,r-devel-linux-x86_64-fedora-clang,0.2.28,devel,linux,x86_64,fedora-clang,NA,r84658,2023-07-16 22:54:21.701791
+rphylopic,r-devel-linux-x86_64-fedora-clang,1.1.1,devel,linux,x86_64,fedora-clang,NA,r84658,2023-07-16 22:54:21.701791
