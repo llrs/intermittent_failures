@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+PCICt,r-devel-linux-x86_64-fedora-clang,0.5-4.4,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-20 22:53:58.641754
+timeDate,r-devel-linux-x86_64-fedora-clang,4022.108,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-20 22:53:58.641754
+PCICt,r-devel-linux-x86_64-fedora-gcc,0.5-4.4,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-20 22:53:58.641754
+timeDate,r-devel-linux-x86_64-fedora-gcc,4022.108,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-20 22:53:58.641754
