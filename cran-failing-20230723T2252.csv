@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BlackCarbon,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+comclim,r-devel-linux-x86_64-fedora-gcc,0.9.5,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+holdem,r-devel-linux-x86_64-fedora-gcc,1.2,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+NormExpression,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+pawacc,r-devel-linux-x86_64-fedora-gcc,1.2.2,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+PCICt,r-devel-linux-x86_64-fedora-gcc,0.5-4.4,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+ProfessR,r-devel-linux-x86_64-fedora-gcc,2.4-1,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+qgtools,r-devel-linux-x86_64-fedora-gcc,2.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+RSEIS,r-devel-linux-x86_64-fedora-gcc,4.1-4,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+seqmon,r-devel-linux-x86_64-fedora-gcc,2.4,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+timeDate,r-devel-linux-x86_64-fedora-gcc,4022.108,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
+weightedZdiff,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-23 22:52:31.949482
