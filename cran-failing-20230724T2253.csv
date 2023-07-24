@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BlackCarbon,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+comclim,r-devel-linux-x86_64-fedora-clang,0.9.5,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+holdem,r-devel-linux-x86_64-fedora-clang,1.2,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+NormExpression,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+pawacc,r-devel-linux-x86_64-fedora-clang,1.2.2,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+ProfessR,r-devel-linux-x86_64-fedora-clang,2.4-1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+qgtools,r-devel-linux-x86_64-fedora-clang,2.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+RSEIS,r-devel-linux-x86_64-fedora-clang,4.1-4,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+seqmon,r-devel-linux-x86_64-fedora-clang,2.4,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
+weightedZdiff,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-24 22:53:15.292065
