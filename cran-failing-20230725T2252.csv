@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+GPArotation,r-devel-linux-x86_64-fedora-clang,2023.3-1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+grplassocat,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+knotR,r-devel-linux-x86_64-fedora-clang,1.0-2,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+pedSimulate,r-devel-linux-x86_64-fedora-clang,1.4.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+pipeGS,r-devel-linux-x86_64-fedora-clang,0.4,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+randtests,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+rkt,r-devel-linux-x86_64-fedora-clang,1.6,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+Sample.Size,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-25 22:52:12.261493
+GenBinomApps,r-devel-linux-x86_64-fedora-gcc,1.2,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-25 22:52:12.261493
