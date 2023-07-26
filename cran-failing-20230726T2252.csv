@@ -1,0 +1,18 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+alabama,r-devel-linux-x86_64-fedora-clang,2022.4-1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-26 22:52:42.023607
+CompoundEvents,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-26 22:52:42.023607
+eMLEloglin,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-26 22:52:42.023607
+iRepro,r-devel-linux-x86_64-fedora-clang,1.1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-26 22:52:42.023607
+rjazz,r-devel-linux-x86_64-fedora-clang,0.1.7,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-26 22:52:42.023607
+alabama,r-devel-linux-x86_64-fedora-gcc,2022.4-1,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+CompoundEvents,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+eMLEloglin,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+grplassocat,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+iRepro,r-devel-linux-x86_64-fedora-gcc,1.1,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+knotR,r-devel-linux-x86_64-fedora-gcc,1.0-2,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+pedSimulate,r-devel-linux-x86_64-fedora-gcc,1.4.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+pipeGS,r-devel-linux-x86_64-fedora-gcc,0.4,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+randtests,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+rjazz,r-devel-linux-x86_64-fedora-gcc,0.1.7,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+rkt,r-devel-linux-x86_64-fedora-gcc,1.6,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
+Sample.Size,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-26 22:52:42.023607
