@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+r.proxy,r-oldrel-macos-x86_64,0.1.2,oldrel,macos,x86_64,,4.2.0,NA,2023-07-27 22:51:15.503217
+MixAll,r-release-windows-x86_64,1.5.1,release,windows,x86_64,,4.3.1,NA,2023-07-27 22:51:15.503217
+SIGN,r-release-windows-x86_64,0.1.0,release,windows,x86_64,,4.3.1,NA,2023-07-27 22:51:15.503217
+uCAREChemSuiteCLI,r-release-windows-x86_64,0.2.0,release,windows,x86_64,,4.3.1,NA,2023-07-27 22:51:15.503217
