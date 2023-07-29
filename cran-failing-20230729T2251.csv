@@ -1,0 +1,19 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+alabama,r-devel-linux-x86_64-debian-clang,2022.4-1,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+ChIPtest,r-devel-linux-x86_64-debian-clang,1.0,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+CompoundEvents,r-devel-linux-x86_64-debian-clang,0.2.0,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+eMLEloglin,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+GenBinomApps,r-devel-linux-x86_64-debian-clang,1.2,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+GPArotation,r-devel-linux-x86_64-debian-clang,2023.3-1,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+grplassocat,r-devel-linux-x86_64-debian-clang,1.0,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+iRepro,r-devel-linux-x86_64-debian-clang,1.1,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+ivprobit,r-devel-linux-x86_64-debian-clang,1.1,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+knotR,r-devel-linux-x86_64-debian-clang,1.0-2,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+pedSimulate,r-devel-linux-x86_64-debian-clang,1.4.0,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+pipeGS,r-devel-linux-x86_64-debian-clang,0.4,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+randtests,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+rjazz,r-devel-linux-x86_64-debian-clang,0.1.7,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+rkt,r-devel-linux-x86_64-debian-clang,1.6,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+Sample.Size,r-devel-linux-x86_64-debian-clang,1.0,devel,linux,x86_64,debian-clang,NA,r84754,2023-07-29 22:51:22.026752
+heemod,r-devel-linux-x86_64-fedora-clang,0.16.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-29 22:51:22.026752
+heemod,r-devel-linux-x86_64-fedora-gcc,0.16.0,devel,linux,x86_64,fedora-gcc,NA,r84710,2023-07-29 22:51:22.026752
