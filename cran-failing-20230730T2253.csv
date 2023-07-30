@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AlphaHull3D,r-devel-linux-x86_64-fedora-clang,2.0.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-30 22:53:12.251848
+bolsec,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-30 22:53:12.251848
+cgalMeshes,r-devel-linux-x86_64-fedora-clang,2.2.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-30 22:53:12.251848
+delaunay,r-devel-linux-x86_64-fedora-clang,2.0.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-30 22:53:12.251848
+PolygonSoup,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-07-30 22:53:12.251848
