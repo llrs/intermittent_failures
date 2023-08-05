@@ -1,0 +1,3 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+tempdisagg,r-devel-linux-x86_64-fedora-clang,1.1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-05 22:52:32.811524
+tempdisagg,r-devel-linux-x86_64-fedora-gcc,1.1,devel,linux,x86_64,fedora-gcc,NA,r84779,2023-08-05 22:52:32.811524
