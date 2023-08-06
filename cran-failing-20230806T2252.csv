@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+genepi,r-devel-linux-x86_64-fedora-clang,1.0.2,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-06 22:52:38.806467
+mmeln,r-devel-linux-x86_64-fedora-clang,1.4,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-06 22:52:38.806467
+netie,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-06 22:52:38.806467
+noise,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-06 22:52:38.806467
+nose,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-06 22:52:38.806467
+RApiDatetime,r-devel-linux-x86_64-fedora-clang,0.0.8,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-06 22:52:38.806467
+snowfall,r-devel-linux-x86_64-fedora-clang,1.84-6.2,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-06 22:52:38.806467
