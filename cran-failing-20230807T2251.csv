@@ -1,0 +1,19 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dCovTS,r-devel-linux-x86_64-fedora-clang,1.3,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-07 22:51:12.531136
+Directional,r-devel-linux-x86_64-fedora-clang,6.1,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-07 22:51:12.531136
+MXM,r-devel-linux-x86_64-fedora-clang,1.5.5,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-07 22:51:12.531136
+nlgm,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-07 22:51:12.531136
+pchc,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-07 22:51:12.531136
+PNAR,r-devel-linux-x86_64-fedora-clang,1.4,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-07 22:51:12.531136
+rworkflows,r-devel-linux-x86_64-fedora-clang,0.99.5,devel,linux,x86_64,fedora-clang,NA,r84707,2023-08-07 22:51:12.531136
+genepi,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r84865,2023-08-07 22:51:12.531136
+mmeln,r-devel-linux-x86_64-fedora-gcc,1.4,devel,linux,x86_64,fedora-gcc,NA,r84865,2023-08-07 22:51:12.531136
+netie,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r84865,2023-08-07 22:51:12.531136
+noise,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r84865,2023-08-07 22:51:12.531136
+nose,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r84865,2023-08-07 22:51:12.531136
+RApiDatetime,r-devel-linux-x86_64-fedora-gcc,0.0.8,devel,linux,x86_64,fedora-gcc,NA,r84865,2023-08-07 22:51:12.531136
+snowfall,r-devel-linux-x86_64-fedora-gcc,1.84-6.2,devel,linux,x86_64,fedora-gcc,NA,r84865,2023-08-07 22:51:12.531136
+annmatrix,r-release-windows-x86_64,0.1.2,release,windows,x86_64,,4.3.1,NA,2023-08-07 22:51:12.531136
+Cairo,r-release-windows-x86_64,1.6-0,release,windows,x86_64,,4.3.1,NA,2023-08-07 22:51:12.531136
+proj4,r-release-windows-x86_64,1.0-12,release,windows,x86_64,,4.3.1,NA,2023-08-07 22:51:12.531136
+tiff,r-release-windows-x86_64,0.1-11,release,windows,x86_64,,4.3.1,NA,2023-08-07 22:51:12.531136
