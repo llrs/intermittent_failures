@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+crosstalkr,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r84945,2023-08-16 22:52:29.471891
+ICAMS,r-devel-linux-x86_64-fedora-gcc,2.3.10,devel,linux,x86_64,fedora-gcc,NA,r84945,2023-08-16 22:52:29.471891
+mudata2,r-devel-linux-x86_64-fedora-gcc,1.1.3,devel,linux,x86_64,fedora-gcc,NA,r84945,2023-08-16 22:52:29.471891
+sigQC,r-release-macos-arm64,0.1.23,release,macos,arm64,,4.3.0,NA,2023-08-16 22:52:29.471891
