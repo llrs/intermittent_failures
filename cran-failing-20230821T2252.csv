@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bspm,r-devel-linux-x86_64-debian-gcc,0.5.4,devel,linux,x86_64,debian-gcc,NA,r84989,2023-08-21 22:52:38.895311
+pipebind,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r84989,2023-08-21 22:52:38.895311
+TouRnament,r-devel-linux-x86_64-debian-gcc,0.2.5,devel,linux,x86_64,debian-gcc,NA,r84989,2023-08-21 22:52:38.895311
+TouRnament,r-release-linux-x86_64,0.2.5,release,linux,x86_64,,4.3.1,NA,2023-08-21 22:52:38.895311
