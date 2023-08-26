@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bayesQR,r-devel-linux-x86_64-debian-clang,2.3,devel,linux,x86_64,debian-clang,NA,r85001,2023-08-26 22:53:31.362301
+crimCV,r-devel-linux-x86_64-debian-clang,0.9.6,devel,linux,x86_64,debian-clang,NA,r85001,2023-08-26 22:53:31.362301
+DRIP,r-devel-linux-x86_64-debian-clang,1.7,devel,linux,x86_64,debian-clang,NA,r85001,2023-08-26 22:53:31.362301
+numOSL,r-devel-linux-x86_64-debian-clang,2.6,devel,linux,x86_64,debian-clang,NA,r85001,2023-08-26 22:53:31.362301
+JFE,r-devel-linux-x86_64-fedora-gcc,2.5.4,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-26 22:53:31.362301
+multibiasmeta,r-devel-linux-x86_64-fedora-gcc,0.2.2,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-26 22:53:31.362301
