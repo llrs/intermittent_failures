@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bioRad,r-devel-linux-x86_64-fedora-gcc,0.7.1,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-27 22:51:17.068575
+cpi,r-devel-linux-x86_64-fedora-gcc,0.1.4,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-27 22:51:17.068575
+groupsubsetselection,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-27 22:51:17.068575
+oscar,r-devel-linux-x86_64-fedora-gcc,1.1.7,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-27 22:51:17.068575
+pliman,r-devel-linux-x86_64-fedora-gcc,2.0.0,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-27 22:51:17.068575
+plotHMM,r-devel-linux-x86_64-fedora-gcc,2022.1.25,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-08-27 22:51:17.068575
+reproducible,r-oldrel-macos-x86_64,2.0.8,oldrel,macos,x86_64,,4.2.0,NA,2023-08-27 22:51:17.068575
