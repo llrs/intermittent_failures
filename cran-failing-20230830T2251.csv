@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+regressinator,r-oldrel-macos-arm64,0.1.2,oldrel,macos,arm64,,4.2.0,NA,2023-08-30 22:51:22.778516
+theft,r-oldrel-macos-arm64,0.5.3,oldrel,macos,arm64,,4.2.0,NA,2023-08-30 22:51:22.778516
+treediff,r-oldrel-macos-arm64,0.2,oldrel,macos,arm64,,4.2.0,NA,2023-08-30 22:51:22.778516
