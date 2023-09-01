@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+palmid,r-devel-linux-x86_64-fedora-clang,0.0.3,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-01 22:52:59.616313
+penppml,r-devel-linux-x86_64-fedora-clang,0.2.2,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-01 22:52:59.616313
+reReg,r-devel-linux-x86_64-fedora-clang,1.4.5,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-01 22:52:59.616313
+penppml,r-devel-linux-x86_64-fedora-gcc,0.2.2,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-09-01 22:52:59.616313
+reReg,r-devel-linux-x86_64-fedora-gcc,1.4.5,devel,linux,x86_64,fedora-gcc,NA,r84997,2023-09-01 22:52:59.616313
+CDMConnector,r-oldrel-macos-x86_64,1.1.2,oldrel,macos,x86_64,,4.2.0,NA,2023-09-01 22:52:59.616313
+sos,r-release-macos-x86_64,2.1-7,release,macos,x86_64,,4.3.0,NA,2023-09-01 22:52:59.616313
