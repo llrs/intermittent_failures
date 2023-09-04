@@ -1,0 +1,16 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+baggr,r-release-linux-x86_64,0.7.6,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+bayesGAM,r-release-linux-x86_64,0.0.2,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+bmgarch,r-release-linux-x86_64,1.1.0,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+changeRangeR,r-release-linux-x86_64,1.0.2,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+ctsem,r-release-linux-x86_64,3.7.6,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+dataversionr,r-release-linux-x86_64,0.9.0,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+duckdbfs,r-release-linux-x86_64,0.0.1,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+GauPro,r-release-linux-x86_64,0.2.11,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+maskRangeR,r-release-linux-x86_64,1.1,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+MetaStan,r-release-linux-x86_64,1.0.0,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+networkscaleup,r-release-linux-x86_64,0.1-1,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+nomisr,r-release-linux-x86_64,0.4.7,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+parquetize,r-release-linux-x86_64,0.5.6.1,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+pcFactorStan,r-release-linux-x86_64,1.5.3,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
+rglobi,r-release-linux-x86_64,0.2.28,release,linux,x86_64,,4.3.1,NA,2023-09-04 22:51:53.354567
