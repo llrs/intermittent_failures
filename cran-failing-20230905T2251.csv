@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BIOMASS,r-devel-linux-x86_64-fedora-clang,2.1.9,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-05 22:51:25.920971
+genSEIR,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-05 22:51:25.920971
+ISRaD,r-devel-linux-x86_64-fedora-clang,2.5.4,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-05 22:51:25.920971
+LDATS,r-devel-linux-x86_64-fedora-clang,0.2.7,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-05 22:51:25.920971
+S7,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-05 22:51:25.920971
+mcemGLM,r-oldrel-macos-arm64,1.1.3,oldrel,macos,arm64,,4.2.0,NA,2023-09-05 22:51:25.920971
