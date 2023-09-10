@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+sassy,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r85011,2023-09-10 22:52:57.475842
+geobr,r-devel-linux-x86_64-fedora-gcc,1.8.0,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-10 22:52:57.475842
+pbdSLAP,r-devel-linux-x86_64-fedora-gcc,0.3-4,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-10 22:52:57.475842
+x13binary,r-oldrel-macos-x86_64,1.1.57-4,oldrel,macos,x86_64,,4.2.0,NA,2023-09-10 22:52:57.475842
