@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AgroR,r-devel-linux-x86_64-fedora-gcc,1.3.4,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+ANTs,r-devel-linux-x86_64-fedora-gcc,0.0.16,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+apa,r-devel-linux-x86_64-fedora-gcc,0.3.3,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+atable,r-devel-linux-x86_64-fedora-gcc,0.1.13,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+condir,r-devel-linux-x86_64-fedora-gcc,0.1.3,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+DBERlibR,r-devel-linux-x86_64-fedora-gcc,0.1.3,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+exploratory,r-devel-linux-x86_64-fedora-gcc,0.3.13,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+ExprNet,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+eyetrackingR,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+momr,r-devel-linux-x86_64-fedora-gcc,1.1,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+PSAboot,r-devel-linux-x86_64-fedora-gcc,1.3.6,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+PupillometryR,r-devel-linux-x86_64-fedora-gcc,0.0.4,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+rMisbeta,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+roistats,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+tidystats,r-devel-linux-x86_64-fedora-gcc,0.5.2,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-12 22:51:11.815049
+rusquant,r-oldrel-macos-x86_64,1.0.2,oldrel,macos,x86_64,,4.2.0,NA,2023-09-12 22:51:11.815049
