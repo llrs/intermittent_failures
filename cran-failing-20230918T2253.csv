@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+goeveg,r-devel-linux-x86_64-fedora-clang,0.6.5,devel,linux,x86_64,fedora-clang,NA,r85120,2023-09-18 22:53:26.482616
+goeveg,r-devel-linux-x86_64-fedora-gcc,0.6.5,devel,linux,x86_64,fedora-gcc,NA,r85045,2023-09-18 22:53:26.482616
+crctStepdown,r-oldrel-macos-x86_64,0.5.1,oldrel,macos,x86_64,,4.2.0,NA,2023-09-18 22:53:26.482616
+lisrelToR,r-release-linux-x86_64,0.1.5,release,linux,x86_64,,4.3.1,NA,2023-09-18 22:53:26.482616
