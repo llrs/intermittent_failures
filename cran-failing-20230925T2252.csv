@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CDLasso,r-devel-linux-x86_64-fedora-clang,1.1,devel,linux,x86_64,fedora-clang,NA,r85204,2023-09-25 22:52:02.229517
+ezglm,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r85204,2023-09-25 22:52:02.229517
+PropClust,r-devel-linux-x86_64-fedora-clang,1.4-6,devel,linux,x86_64,fedora-clang,NA,r85204,2023-09-25 22:52:02.229517
+RaschSampler,r-devel-linux-x86_64-fedora-clang,0.8-9,devel,linux,x86_64,fedora-clang,NA,r85204,2023-09-25 22:52:02.229517
+timsac,r-devel-linux-x86_64-fedora-clang,1.3.8-3,devel,linux,x86_64,fedora-clang,NA,r85204,2023-09-25 22:52:02.229517
+TSSS,r-devel-linux-x86_64-fedora-clang,1.3.4-4,devel,linux,x86_64,fedora-clang,NA,r85204,2023-09-25 22:52:02.229517
+CDLasso,r-devel-linux-x86_64-fedora-gcc,1.1,devel,linux,x86_64,fedora-gcc,NA,r85201,2023-09-25 22:52:02.229517
+ezglm,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r85201,2023-09-25 22:52:02.229517
+pbdSLAP,r-devel-linux-x86_64-fedora-gcc,0.3-4,devel,linux,x86_64,fedora-gcc,NA,r85201,2023-09-25 22:52:02.229517
+PropClust,r-devel-linux-x86_64-fedora-gcc,1.4-6,devel,linux,x86_64,fedora-gcc,NA,r85201,2023-09-25 22:52:02.229517
+RaschSampler,r-devel-linux-x86_64-fedora-gcc,0.8-9,devel,linux,x86_64,fedora-gcc,NA,r85201,2023-09-25 22:52:02.229517
+timsac,r-devel-linux-x86_64-fedora-gcc,1.3.8-3,devel,linux,x86_64,fedora-gcc,NA,r85201,2023-09-25 22:52:02.229517
+TSSS,r-devel-linux-x86_64-fedora-gcc,1.3.4-4,devel,linux,x86_64,fedora-gcc,NA,r85201,2023-09-25 22:52:02.229517
