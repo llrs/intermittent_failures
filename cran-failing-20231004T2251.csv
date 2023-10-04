@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+aides,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+chemdeg,r-devel-linux-x86_64-debian-gcc,0.1.2,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+dampack,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+eechidna,r-devel-linux-x86_64-debian-gcc,1.4.1,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+expowo,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+git2rdata,r-devel-linux-x86_64-debian-gcc,0.4.0,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+mapmisc,r-devel-linux-x86_64-debian-gcc,2.0.1,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+nomisr,r-devel-linux-x86_64-debian-gcc,0.4.7,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+tinytiger,r-devel-linux-x86_64-debian-gcc,0.0.4,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
+zctaCrosswalk,r-devel-linux-x86_64-debian-gcc,2.0.0,devel,linux,x86_64,debian-gcc,NA,r85253,2023-10-04 22:51:22.270973
