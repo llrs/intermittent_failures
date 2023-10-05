@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+GhostKnockoff,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r85253,2023-10-05 22:51:26.086342
+MaximinInfer,r-devel-linux-x86_64-fedora-clang,2.0.0,devel,linux,x86_64,fedora-clang,NA,r85253,2023-10-05 22:51:26.086342
+renderthis,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r85253,2023-10-05 22:51:26.086342
