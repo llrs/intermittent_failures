@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+IsoCorr,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r85322,2023-10-14 22:51:54.544517
+ragt2ridges,r-devel-linux-x86_64-fedora-gcc,0.3.4,devel,linux,x86_64,fedora-gcc,NA,r85322,2023-10-14 22:51:54.544517
+tRophicPosition,r-devel-linux-x86_64-fedora-gcc,0.8.0,devel,linux,x86_64,fedora-gcc,NA,r85322,2023-10-14 22:51:54.544517
+dartR,r-release-windows-x86_64,2.9.7,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+DIscBIO,r-release-windows-x86_64,1.2.1,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+dm,r-release-windows-x86_64,1.0.6,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+DrugExposureDiagnostics,r-release-windows-x86_64,0.4.6,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+DrugUtilisation,r-release-windows-x86_64,0.3.3,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+eiCompare,r-release-windows-x86_64,3.0.4,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+gtfstools,r-release-windows-x86_64,1.2.0,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+hereR,r-release-windows-x86_64,1.0.0,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+mlr3db,r-release-windows-x86_64,0.5.0,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+neurobase,r-release-windows-x86_64,1.32.3,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+permubiome,r-release-windows-x86_64,1.3.1,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+restez,r-release-windows-x86_64,2.1.3,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
+spatialsample,r-release-windows-x86_64,0.4.0,release,windows,x86_64,,4.3.1,NA,2023-10-14 22:51:54.544517
