@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dataframes2xls,r-devel-linux-x86_64-fedora-clang,0.4.7,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-18 22:51:22.339376
+LMMstar,r-devel-linux-x86_64-fedora-clang,0.9.0,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-18 22:51:22.339376
+voi,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-18 22:51:22.339376
+dataframes2xls,r-devel-linux-x86_64-fedora-gcc,0.4.7,devel,linux,x86_64,fedora-gcc,NA,r85322,2023-10-18 22:51:22.339376
+fwi.fbp,r-devel-linux-x86_64-fedora-gcc,1.7,devel,linux,x86_64,fedora-gcc,NA,r85322,2023-10-18 22:51:22.339376
+hetGP,r-oldrel-macos-x86_64,1.1.6,oldrel,macos,x86_64,,4.2.0,NA,2023-10-18 22:51:22.339376
