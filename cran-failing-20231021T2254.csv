@@ -1,0 +1,20 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dataframes2xls,r-devel-linux-x86_64-debian-clang,0.4.7,devel,linux,x86_64,debian-clang,NA,r85349,2023-10-21 22:54:05.383132
+phonTools,r-devel-linux-x86_64-fedora-clang,0.2-2.1,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-21 22:54:05.383132
+plotrix,r-devel-linux-x86_64-fedora-clang,3.8-2,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-21 22:54:05.383132
+poker,r-devel-linux-x86_64-fedora-clang,0.8.8,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-21 22:54:05.383132
+visualize,r-devel-linux-x86_64-fedora-clang,4.4.0,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-21 22:54:05.383132
+baldur,r-oldrel-macos-arm64,0.0.3,oldrel,macos,arm64,,4.2.0,NA,2023-10-21 22:54:05.383132
+CAMML,r-oldrel-macos-arm64,0.2.3,oldrel,macos,arm64,,4.2.0,NA,2023-10-21 22:54:05.383132
+aTSA,r-release-windows-x86_64,3.1.2,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+CVD,r-release-windows-x86_64,1.0.2,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+dataframes2xls,r-release-windows-x86_64,0.4.7,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+GiniWegNeg,r-release-windows-x86_64,1.0.1,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+highTtest,r-release-windows-x86_64,1.3,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+hive,r-release-windows-x86_64,0.2-2,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+pbdSLAP,r-release-windows-x86_64,0.3-4,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+pcaL1,r-release-windows-x86_64,1.5.7,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+pro,r-release-windows-x86_64,0.1.1,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+RConics,r-release-windows-x86_64,1.1.1,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+Rsymphony,r-release-windows-x86_64,0.1-33,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
+tkrplot,r-release-windows-x86_64,0.0-27,release,windows,x86_64,,4.3.1,NA,2023-10-21 22:54:05.383132
