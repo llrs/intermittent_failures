@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+EPGMr,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+gridpattern,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+IOHanalyzer,r-devel-linux-x86_64-fedora-clang,0.1.8.2,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+mark,r-devel-linux-x86_64-fedora-clang,0.6.1,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+piglet,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+SimRAD,r-devel-linux-x86_64-fedora-clang,0.96,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+tectonicr,r-devel-linux-x86_64-fedora-clang,0.2.93,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+washi,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-22 22:52:50.355641
+jrSiCKLSNMF,r-oldrel-macos-x86_64,1.2.1,oldrel,macos,x86_64,,4.2.0,NA,2023-10-22 22:52:50.355641
+Surrogate,r-oldrel-macos-x86_64,3.2.1,oldrel,macos,x86_64,,4.2.0,NA,2023-10-22 22:52:50.355641
+dataframes2xls,r-release-linux-x86_64,0.4.7,release,linux,x86_64,,4.3.1,NA,2023-10-22 22:52:50.355641
+fwi.fbp,r-release-linux-x86_64,1.7,release,linux,x86_64,,4.3.1,NA,2023-10-22 22:52:50.355641
+ctsem,r-release-macos-arm64,3.9.0,release,macos,arm64,,4.3.1,NA,2023-10-22 22:52:50.355641
