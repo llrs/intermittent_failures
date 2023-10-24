@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+lares,r-devel-linux-x86_64-fedora-gcc,5.2.2,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-24 22:52:12.005151
+MIIVefa,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-24 22:52:12.005151
+mmstat4,r-devel-linux-x86_64-fedora-gcc,0.1.6,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-24 22:52:12.005151
+octopus,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-24 22:52:12.005151
+stacomiR,r-devel-linux-x86_64-fedora-gcc,0.6.0.7,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-24 22:52:12.005151
+timeplyr,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-24 22:52:12.005151
