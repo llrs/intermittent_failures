@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+lares,r-devel-linux-x86_64-fedora-clang,5.2.2,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-25 22:52:29.144077
+dsfa,r-oldrel-macos-arm64,2.0.2,oldrel,macos,arm64,,4.2.0,NA,2023-10-25 22:52:29.144077
+fairadapt,r-oldrel-macos-arm64,0.2.7,oldrel,macos,arm64,,4.2.0,NA,2023-10-25 22:52:29.144077
+ctsem,r-release-macos-arm64,3.9.0,release,macos,arm64,,4.3.1,NA,2023-10-25 22:52:29.144077
