@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pgam,r-devel-linux-x86_64-fedora-clang,0.4.17,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-27 22:52:01.910786
+scagnostics,r-devel-linux-x86_64-fedora-clang,0.2-6,devel,linux,x86_64,fedora-clang,NA,r85327,2023-10-27 22:52:01.910786
+pgam,r-devel-linux-x86_64-fedora-gcc,0.4.17,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-27 22:52:01.910786
+scagnostics,r-devel-linux-x86_64-fedora-gcc,0.2-6,devel,linux,x86_64,fedora-gcc,NA,r85361,2023-10-27 22:52:01.910786
+RGN,r-release-macos-x86_64,1.0.0,release,macos,x86_64,,4.3.0,NA,2023-10-27 22:52:01.910786
