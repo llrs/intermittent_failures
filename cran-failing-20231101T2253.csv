@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ensemblQueryR,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r85441,2023-11-01 22:53:32.046346
+ddsPLS,r-oldrel-macos-arm64,1.2.0,oldrel,macos,arm64,,4.2.0,NA,2023-11-01 22:53:32.046346
+hyd1d,r-oldrel-macos-arm64,0.5.0,oldrel,macos,arm64,,4.2.0,NA,2023-11-01 22:53:32.046346
+ctsem,r-release-macos-arm64,3.9.1,release,macos,arm64,,4.3.1,NA,2023-11-01 22:53:32.046346
+gdalraster,r-release-macos-x86_64,1.6.0,release,macos,x86_64,,4.3.0,NA,2023-11-01 22:53:32.046346
