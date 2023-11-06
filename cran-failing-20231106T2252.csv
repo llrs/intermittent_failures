@@ -1,0 +1,18 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ausplotsR,r-devel-linux-x86_64-debian-gcc,2.0.4,devel,linux,x86_64,debian-gcc,NA,r85465,2023-11-06 22:52:32.089792
+datagovsgR,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r85465,2023-11-06 22:52:32.089792
+goldilocks,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r85465,2023-11-06 22:52:32.089792
+myCRAN,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r85465,2023-11-06 22:52:32.089792
+rphylopic,r-devel-linux-x86_64-debian-gcc,1.2.2,devel,linux,x86_64,debian-gcc,NA,r85465,2023-11-06 22:52:32.089792
+snSMART,r-devel-linux-x86_64-debian-gcc,0.2.3,devel,linux,x86_64,debian-gcc,NA,r85465,2023-11-06 22:52:32.089792
+CoTiMA,r-devel-linux-x86_64-fedora-clang,0.6.2,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+kfa,r-devel-linux-x86_64-fedora-clang,0.2.2,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+manymome,r-devel-linux-x86_64-fedora-clang,0.1.13,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+metavcov,r-devel-linux-x86_64-fedora-clang,2.1.5,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+papaja,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+proverbs,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+psychonetrics,r-devel-linux-x86_64-fedora-clang,0.11.5,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+rbenvo,r-devel-linux-x86_64-fedora-clang,1.0.5,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+regsem,r-devel-linux-x86_64-fedora-clang,1.9.5,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+rosetta,r-devel-linux-x86_64-fedora-clang,0.3.12,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
+usdoj,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-06 22:52:32.089792
