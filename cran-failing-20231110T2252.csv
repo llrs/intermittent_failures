@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ABCanalysis,r-devel-linux-x86_64-fedora-clang,1.2.1,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-10 22:52:09.890502
+MVQuickGraphs,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-10 22:52:09.890502
+rasterImage,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-10 22:52:09.890502
+shuffleCI,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-10 22:52:09.890502
+simplexreg,r-devel-linux-x86_64-fedora-clang,1.3,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-10 22:52:09.890502
+SitesInterest,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r85466,2023-11-10 22:52:09.890502
+ABCanalysis,r-devel-linux-x86_64-fedora-gcc,1.2.1,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-10 22:52:09.890502
+MVQuickGraphs,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-10 22:52:09.890502
+rasterImage,r-devel-linux-x86_64-fedora-gcc,0.4.0,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-10 22:52:09.890502
+shuffleCI,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-10 22:52:09.890502
+simplexreg,r-devel-linux-x86_64-fedora-gcc,1.3,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-10 22:52:09.890502
+SitesInterest,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-10 22:52:09.890502
+RGN,r-release-macos-x86_64,1.0.0,release,macos,x86_64,,4.3.0,NA,2023-11-10 22:52:09.890502
