@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+MatrixEQTL,r-devel-linux-x86_64-debian-clang,2.3,devel,linux,x86_64,debian-clang,NA,r85496,2023-11-11 22:51:06.444432
+bskyr,r-devel-linux-x86_64-fedora-gcc,0.0.4,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-11 22:51:06.444432
+MazamaCoreUtils,r-devel-linux-x86_64-fedora-gcc,0.5.0,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-11 22:51:06.444432
+MIIVefa,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r85470,2023-11-11 22:51:06.444432
+RGN,r-release-macos-x86_64,1.0.0,release,macos,x86_64,,4.3.0,NA,2023-11-11 22:51:06.444432
