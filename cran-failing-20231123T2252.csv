@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+clinDataReview,r-devel-linux-x86_64-fedora-clang,1.4.0,devel,linux,x86_64,fedora-clang,NA,r85507,2023-11-23 22:52:02.317613
+mcboost,r-devel-linux-x86_64-fedora-clang,0.4.2,devel,linux,x86_64,fedora-clang,NA,r85507,2023-11-23 22:52:02.317613
+clinDataReview,r-devel-linux-x86_64-fedora-gcc,1.4.0,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-23 22:52:02.317613
+mcboost,r-devel-linux-x86_64-fedora-gcc,0.4.2,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-23 22:52:02.317613
