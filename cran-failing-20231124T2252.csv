@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Cairo,r-devel-linux-x86_64-fedora-gcc,1.6-1,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-24 22:52:55.327662
+GenSA,r-devel-linux-x86_64-fedora-gcc,1.1.10.1,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-24 22:52:55.327662
+OpenCL,r-devel-linux-x86_64-fedora-gcc,0.2-2,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-24 22:52:55.327662
+PMA,r-devel-linux-x86_64-fedora-gcc,1.2-2,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-24 22:52:55.327662
+RMVL,r-devel-linux-x86_64-fedora-gcc,0.0.4.9,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-24 22:52:55.327662
