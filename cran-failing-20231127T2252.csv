@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+RSclient,r-devel-linux-x86_64-fedora-gcc,0.7-9,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-27 22:52:00.514002
+scagnostics,r-devel-linux-x86_64-fedora-gcc,0.2-6,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-27 22:52:00.514002
+WienR,r-devel-linux-x86_64-fedora-gcc,0.3-14,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-27 22:52:00.514002
