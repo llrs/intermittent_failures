@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BeeBDC,r-oldrel-macos-arm64,1.0.1,oldrel,macos,arm64,,4.2.0,NA,2023-11-28 22:53:13.472993
+GEC,r-oldrel-macos-arm64,0.1.0,oldrel,macos,arm64,,4.2.0,NA,2023-11-28 22:53:13.472993
+HhP,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.2.0,NA,2023-11-28 22:53:13.472993
+mcemGLM,r-oldrel-macos-arm64,,oldrel,macos,arm64,,4.2.0,NA,2023-11-28 22:53:13.472993
