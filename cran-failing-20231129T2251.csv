@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dynr,r-devel-linux-x86_64-fedora-gcc,0.1.16-105,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-29 22:51:09.479503
+move2,r-devel-linux-x86_64-fedora-gcc,0.2.6,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-29 22:51:09.479503
+rusquant,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-29 22:51:09.479503
+revert,r-oldrel-windows-x86_64,0.0.1,oldrel,windows,x86_64,,4.2.3,NA,2023-11-29 22:51:09.479503
