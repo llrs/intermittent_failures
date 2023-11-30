@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cwbtools,r-devel-linux-x86_64-fedora-clang,0.3.9,devel,linux,x86_64,fedora-clang,NA,r85626,2023-11-30 22:50:55.957571
+geoAr,r-devel-linux-x86_64-fedora-clang,0.0.1.4.2,devel,linux,x86_64,fedora-clang,NA,r85626,2023-11-30 22:50:55.957571
+geofi,r-devel-linux-x86_64-fedora-clang,1.0.10,devel,linux,x86_64,fedora-clang,NA,r85626,2023-11-30 22:50:55.957571
+kselection,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r85626,2023-11-30 22:50:55.957571
+liayson,r-devel-linux-x86_64-fedora-clang,1.0.5,devel,linux,x86_64,fedora-clang,NA,r85626,2023-11-30 22:50:55.957571
+rusquant,r-devel-linux-x86_64-fedora-clang,1.0.2,devel,linux,x86_64,fedora-clang,NA,r85626,2023-11-30 22:50:55.957571
+scellpam,r-devel-linux-x86_64-fedora-clang,1.4.5,devel,linux,x86_64,fedora-clang,NA,r85626,2023-11-30 22:50:55.957571
+geoAr,r-devel-linux-x86_64-fedora-gcc,0.0.1.4.2,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-30 22:50:55.957571
+geofi,r-devel-linux-x86_64-fedora-gcc,1.0.10,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-30 22:50:55.957571
+kselection,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-30 22:50:55.957571
+move2,r-devel-linux-x86_64-fedora-gcc,0.2.6,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-30 22:50:55.957571
+RQuantLib,r-devel-linux-x86_64-fedora-gcc,0.4.20,devel,linux,x86_64,fedora-gcc,NA,r85550,2023-11-30 22:50:55.957571
