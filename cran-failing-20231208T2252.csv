@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+eurlex,r-devel-linux-x86_64-debian-gcc,0.4.6,devel,linux,x86_64,debian-gcc,NA,r85659,2023-12-08 22:52:07.069861
+filteRjsats,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r85659,2023-12-08 22:52:07.069861
+rethnicity,r-devel-linux-x86_64-debian-gcc,0.2.4,devel,linux,x86_64,debian-gcc,NA,r85659,2023-12-08 22:52:07.069861
+snSMART,r-devel-linux-x86_64-debian-gcc,0.2.3,devel,linux,x86_64,debian-gcc,NA,r85659,2023-12-08 22:52:07.069861
