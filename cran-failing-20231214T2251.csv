@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+abn,r-devel-linux-x86_64-fedora-gcc,3.0.4,devel,linux,x86_64,fedora-gcc,NA,r85665,2023-12-14 22:51:02.759883
+otargen,r-devel-linux-x86_64-fedora-gcc,1.1.0,devel,linux,x86_64,fedora-gcc,NA,r85665,2023-12-14 22:51:02.759883
+stapler,r-devel-linux-x86_64-fedora-gcc,0.7.1,devel,linux,x86_64,fedora-gcc,NA,r85665,2023-12-14 22:51:02.759883
+mcemGLM,r-oldrel-macos-arm64,1.1.3,oldrel,macos,arm64,,4.2.0,NA,2023-12-14 22:51:02.759883
