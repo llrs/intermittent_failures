@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+latexpdf,r-devel-linux-x86_64-debian-gcc,0.1.7,devel,linux,x86_64,debian-gcc,NA,r85690,2023-12-18 22:51:00.640399
+Distance,r-devel-linux-x86_64-fedora-clang,1.0.8,devel,linux,x86_64,fedora-clang,NA,r85666,2023-12-18 22:51:00.640399
+Distance,r-devel-linux-x86_64-fedora-gcc,1.0.8,devel,linux,x86_64,fedora-gcc,NA,r85688,2023-12-18 22:51:00.640399
+OlinkAnalyze,r-devel-linux-x86_64-fedora-gcc,3.6.0,devel,linux,x86_64,fedora-gcc,NA,r85688,2023-12-18 22:51:00.640399
+mcemGLM,r-oldrel-macos-arm64,1.1.3,oldrel,macos,arm64,,4.2.0,NA,2023-12-18 22:51:00.640399
+ctsem,r-release-macos-arm64,3.9.1,release,macos,arm64,,4.3.1,NA,2023-12-18 22:51:00.640399
+BoomSpikeSlab,r-release-macos-x86_64,1.2.6,release,macos,x86_64,,4.3.0,NA,2023-12-18 22:51:00.640399
