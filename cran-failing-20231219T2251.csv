@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pcds.ugraph,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r85666,2023-12-19 22:51:40.030609
+sassy,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r85666,2023-12-19 22:51:40.030609
+Boom,r-devel-linux-x86_64-fedora-gcc,0.9.14,devel,linux,x86_64,fedora-gcc,NA,r85688,2023-12-19 22:51:40.030609
+OlinkAnalyze,r-devel-linux-x86_64-fedora-gcc,3.6.0,devel,linux,x86_64,fedora-gcc,NA,r85688,2023-12-19 22:51:40.030609
+pcds.ugraph,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r85688,2023-12-19 22:51:40.030609
