@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cryptotrackr,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
+diseasystore,r-devel-linux-x86_64-debian-gcc,0.1,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
+noaaoceans,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
+profoc,r-devel-linux-x86_64-debian-gcc,1.2.1,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
+rethnicity,r-devel-linux-x86_64-debian-gcc,0.2.4,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
+tidypmc,r-devel-linux-x86_64-debian-gcc,1.7,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
+uniswappeR,r-devel-linux-x86_64-debian-gcc,0.6.1,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
+vsp,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r85732,2023-12-27 22:50:48.658135
