@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+DLSSM,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r85751,2024-01-01 22:51:03.266834
+exDE,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r85751,2024-01-01 22:51:03.266834
+git2rdata,r-devel-linux-x86_64-debian-gcc,0.4.0,devel,linux,x86_64,debian-gcc,NA,r85751,2024-01-01 22:51:03.266834
+NeuroDecodeR,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r85751,2024-01-01 22:51:03.266834
+ontophylo,r-devel-linux-x86_64-debian-gcc,1.1.2,devel,linux,x86_64,debian-gcc,NA,r85751,2024-01-01 22:51:03.266834
+outerbase,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r85751,2024-01-01 22:51:03.266834
+phreeqc,r-devel-linux-x86_64-debian-gcc,3.7.6,devel,linux,x86_64,debian-gcc,NA,r85751,2024-01-01 22:51:03.266834
