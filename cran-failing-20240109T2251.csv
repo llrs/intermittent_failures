@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+adiv,r-devel-linux-x86_64-fedora-clang,2.2,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-09 22:51:21.765016
+dtComb,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-09 22:51:21.765016
+plot3logit,r-devel-linux-x86_64-fedora-clang,3.1.4,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-09 22:51:21.765016
+scGate,r-devel-linux-x86_64-fedora-clang,1.6.0,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-09 22:51:21.765016
+adiv,r-devel-linux-x86_64-fedora-gcc,2.2,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-09 22:51:21.765016
+dtComb,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-09 22:51:21.765016
+g3viz,r-devel-linux-x86_64-fedora-gcc,1.1.5,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-09 22:51:21.765016
+plot3logit,r-devel-linux-x86_64-fedora-gcc,3.1.4,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-09 22:51:21.765016
