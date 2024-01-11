@@ -1,0 +1,21 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+mcemGLM,r-oldrel-macos-arm64,1.1.3,oldrel,macos,arm64,,4.2.0,NA,2024-01-11 22:52:38.133764
+changeRangeR,r-oldrel-windows-x86_64,1.1.0,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+eiCompare,r-oldrel-windows-x86_64,3.0.4,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+eph,r-oldrel-windows-x86_64,1.0.0,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+fflr,r-oldrel-windows-x86_64,2.2.0,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+growthcleanr,r-oldrel-windows-x86_64,2.1.1,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+ICSsmoothing,r-oldrel-windows-x86_64,1.2.7,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+klassR,r-oldrel-windows-x86_64,0.2.1,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+lvmisc,r-oldrel-windows-x86_64,0.1.1,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+mwTensor,r-oldrel-windows-x86_64,1.1.0,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+QuantBondCurves,r-oldrel-windows-x86_64,0.1.0,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+restoptr,r-oldrel-windows-x86_64,1.0.6,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+rgho,r-oldrel-windows-x86_64,3.0.1,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+RobLoxBioC,r-oldrel-windows-x86_64,1.2.1,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+seqmagick,r-oldrel-windows-x86_64,0.1.7,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+SIGN,r-oldrel-windows-x86_64,0.1.0,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+TCGAretriever,r-oldrel-windows-x86_64,1.7,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+tosr,r-oldrel-windows-x86_64,0.1.3,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+UKB.COVID19,r-oldrel-windows-x86_64,0.1.3,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
+usincometaxes,r-oldrel-windows-x86_64,0.7.0,oldrel,windows,x86_64,,4.2.3,NA,2024-01-11 22:52:38.133764
