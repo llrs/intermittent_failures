@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+LibOPF,r-devel-linux-x86_64-debian-gcc,2.6.2,devel,linux,x86_64,debian-gcc,NA,r85796,2024-01-12 22:52:35.588037
+ecoreg,r-devel-linux-x86_64-fedora-clang,0.2.3,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-12 22:52:35.588037
+g.data,r-devel-linux-x86_64-fedora-clang,2.4,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-12 22:52:35.588037
+MiRSEA,r-devel-linux-x86_64-fedora-clang,1.1,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-12 22:52:35.588037
+shape,r-devel-linux-x86_64-fedora-clang,1.4.6,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-12 22:52:35.588037
+ecoreg,r-devel-linux-x86_64-fedora-gcc,0.2.3,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-12 22:52:35.588037
+g.data,r-devel-linux-x86_64-fedora-gcc,2.4,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-12 22:52:35.588037
+shape,r-devel-linux-x86_64-fedora-gcc,1.4.6,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-12 22:52:35.588037
