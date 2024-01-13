@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+diceR,r-devel-linux-x86_64-fedora-clang,2.1.0,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-13 22:51:09.123154
+fastcpd,r-devel-linux-x86_64-fedora-clang,0.10.1,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-13 22:51:09.123154
+fPortfolio,r-devel-linux-x86_64-fedora-clang,4023.84,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-13 22:51:09.123154
+rock,r-devel-linux-x86_64-fedora-clang,0.6.7,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-13 22:51:09.123154
+sphereTessellation,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r85751,2024-01-13 22:51:09.123154
+filteRjsats,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-13 22:51:09.123154
+scCustomize,r-devel-linux-x86_64-fedora-gcc,2.0.1,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-13 22:51:09.123154
+ROI.plugin.cplex,r-oldrel-macos-arm64,0.3-0,oldrel,macos,arm64,,4.2.0,NA,2024-01-13 22:51:09.123154
