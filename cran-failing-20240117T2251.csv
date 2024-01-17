@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+g3viz,r-devel-linux-x86_64-fedora-gcc,1.1.5,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-17 22:51:24.825682
+ROI.plugin.cplex,r-oldrel-macos-arm64,0.3-0,oldrel,macos,arm64,,4.2.0,NA,2024-01-17 22:51:24.825682
+rlibkriging,r-release-macos-arm64,0.8-0.1,release,macos,arm64,,4.3.1,NA,2024-01-17 22:51:24.825682
