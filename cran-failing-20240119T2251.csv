@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+NMsim,r-devel-linux-x86_64-fedora-clang,0.0.7,devel,linux,x86_64,fedora-clang,NA,r85803,2024-01-19 22:51:06.565262
+malariaAtlas,r-devel-linux-x86_64-fedora-gcc,1.5.1,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-19 22:51:06.565262
+NMsim,r-devel-linux-x86_64-fedora-gcc,0.0.7,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-19 22:51:06.565262
+phylosem,r-devel-linux-x86_64-fedora-gcc,1.1.2,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-19 22:51:06.565262
+RRphylo,r-devel-linux-x86_64-fedora-gcc,2.8.0,devel,linux,x86_64,fedora-gcc,NA,r85782,2024-01-19 22:51:06.565262
+EMAS,r-release-macos-arm64,0.2.2,release,macos,arm64,,4.3.1,NA,2024-01-19 22:51:06.565262
+opGMMassessment,r-release-macos-arm64,0.3.5,release,macos,arm64,,4.3.1,NA,2024-01-19 22:51:06.565262
+rlibkriging,r-release-macos-arm64,0.8-0.1,release,macos,arm64,,4.3.1,NA,2024-01-19 22:51:06.565262
