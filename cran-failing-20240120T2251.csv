@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+k5,r-devel-linux-x86_64-debian-gcc,0.0.5,devel,linux,x86_64,debian-gcc,NA,r85813,2024-01-20 22:51:33.600865
+litterfitter,r-devel-linux-x86_64-debian-gcc,0.1.3,devel,linux,x86_64,debian-gcc,NA,r85813,2024-01-20 22:51:33.600865
+phylosem,r-devel-linux-x86_64-debian-gcc,1.1.2,devel,linux,x86_64,debian-gcc,NA,r85813,2024-01-20 22:51:33.600865
+RRphylo,r-devel-linux-x86_64-debian-gcc,2.8.0,devel,linux,x86_64,debian-gcc,NA,r85813,2024-01-20 22:51:33.600865
+weed,r-devel-linux-x86_64-debian-gcc,1.1.2,devel,linux,x86_64,debian-gcc,NA,r85813,2024-01-20 22:51:33.600865
+EMAS,r-release-macos-arm64,0.2.2,release,macos,arm64,,4.3.1,NA,2024-01-20 22:51:33.600865
+opGMMassessment,r-release-macos-arm64,0.3.5,release,macos,arm64,,4.3.1,NA,2024-01-20 22:51:33.600865
