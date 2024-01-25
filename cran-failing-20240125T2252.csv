@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+mapboxapi,r-devel-linux-x86_64-fedora-clang,0.5.3,devel,linux,x86_64,fedora-clang,NA,r85803,2024-01-25 22:52:03.26964
+sassy,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r85803,2024-01-25 22:52:03.26964
+mapboxapi,r-devel-linux-x86_64-fedora-gcc,0.5.3,devel,linux,x86_64,fedora-gcc,NA,r85813,2024-01-25 22:52:03.26964
+paws.analytics,r-release-macos-x86_64,0.5.0,release,macos,x86_64,,4.3.0,NA,2024-01-25 22:52:03.26964
