@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+causalBatch,r-oldrel-macos-arm64,1.0,oldrel,macos,arm64,,4.2.0,NA,2024-01-26 22:52:14.758701
+geofi,r-release-macos-arm64,1.0.13,release,macos,arm64,,4.3.1,NA,2024-01-26 22:52:14.758701
+paws.analytics,r-release-macos-x86_64,0.5.0,release,macos,x86_64,,4.3.0,NA,2024-01-26 22:52:14.758701
+RGN,r-release-macos-x86_64,1.0.0,release,macos,x86_64,,4.3.0,NA,2024-01-26 22:52:14.758701
