@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cwbtools,r-devel-linux-x86_64-debian-gcc,0.3.9,devel,linux,x86_64,debian-gcc,NA,r85832,2024-01-29 22:52:05.143633
+flowml,r-devel-linux-x86_64-debian-gcc,0.1.2,devel,linux,x86_64,debian-gcc,NA,r85832,2024-01-29 22:52:05.143633
+gbm3,r-devel-linux-x86_64-debian-gcc,3.0,devel,linux,x86_64,debian-gcc,NA,r85832,2024-01-29 22:52:05.143633
+sentopics,r-devel-linux-x86_64-debian-gcc,0.7.2,devel,linux,x86_64,debian-gcc,NA,r85832,2024-01-29 22:52:05.143633
+realTimeloads,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.2.0,NA,2024-01-29 22:52:05.143633
+SpatialDDLS,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.2.0,NA,2024-01-29 22:52:05.143633
