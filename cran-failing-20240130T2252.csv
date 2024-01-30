@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+realTimeloads,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.2.0,NA,2024-01-30 22:52:58.94513
+SpatialDDLS,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.2.0,NA,2024-01-30 22:52:58.94513
+sigQC,r-release-macos-arm64,0.1.23,release,macos,arm64,,4.3.1,NA,2024-01-30 22:52:58.94513
+eHOF,r-release-macos-x86_64,1.15,release,macos,x86_64,,4.3.0,NA,2024-01-30 22:52:58.94513
