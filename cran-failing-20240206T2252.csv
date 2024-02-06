@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+afthd,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+bayesrules,r-devel-linux-x86_64-debian-gcc,0.0.2,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+BIOMASS,r-devel-linux-x86_64-debian-gcc,2.1.11,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+causalBatch,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+CDMConnector,r-devel-linux-x86_64-debian-gcc,1.2.1,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+CDNmoney,r-devel-linux-x86_64-debian-gcc,2012.4-2,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+clustermole,r-devel-linux-x86_64-debian-gcc,1.1.1,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+longit,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+rsleep,r-devel-linux-x86_64-debian-gcc,1.0.11,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+VC2copula,r-devel-linux-x86_64-debian-gcc,0.1.3,devel,linux,x86_64,debian-gcc,NA,r85859,2024-02-06 22:52:03.18727
+TreatmentPatterns,r-devel-linux-x86_64-fedora-clang,2.6.4,devel,linux,x86_64,fedora-clang,NA,r85828,2024-02-06 22:52:03.18727
+MicrobiomeSurv,r-oldrel-macos-arm64,0.1.0,oldrel,macos,arm64,,4.2.0,NA,2024-02-06 22:52:03.18727
+realTimeloads,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.2.0,NA,2024-02-06 22:52:03.18727
+TOmicsVis,r-oldrel-macos-arm64,2.0.0,oldrel,macos,arm64,,4.2.0,NA,2024-02-06 22:52:03.18727
+conos,r-release-macos-arm64,1.5.1,release,macos,arm64,,4.3.1,NA,2024-02-06 22:52:03.18727
+EMAS,r-release-macos-arm64,0.2.2,release,macos,arm64,,4.3.1,NA,2024-02-06 22:52:03.18727
