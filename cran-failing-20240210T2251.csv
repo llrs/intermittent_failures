@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bdsmatrix,r-devel-linux-x86_64-debian-clang,1.3-6,devel,linux,x86_64,debian-clang,NA,r85873,2024-02-10 22:51:00.393714
+colorRamps,r-devel-linux-x86_64-debian-clang,2.3.1,devel,linux,x86_64,debian-clang,NA,r85873,2024-02-10 22:51:00.393714
+mixreg,r-devel-linux-x86_64-debian-clang,2.0-10,devel,linux,x86_64,debian-clang,NA,r85873,2024-02-10 22:51:00.393714
+setRNG,r-devel-linux-x86_64-debian-clang,2022.4-1,devel,linux,x86_64,debian-clang,NA,r85873,2024-02-10 22:51:00.393714
+splus2R,r-devel-linux-x86_64-debian-clang,1.3-4,devel,linux,x86_64,debian-clang,NA,r85873,2024-02-10 22:51:00.393714
+ora,r-release-macos-arm64,2.0-1,release,macos,arm64,,4.3.1,NA,2024-02-10 22:51:00.393714
+bulkAnalyseR,r-release-macos-x86_64,1.1.0,release,macos,x86_64,,4.3.0,NA,2024-02-10 22:51:00.393714
+paws.analytics,r-release-macos-x86_64,0.5.0,release,macos,x86_64,,4.3.0,NA,2024-02-10 22:51:00.393714
