@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+atime,r-devel-linux-x86_64-fedora-clang,2024.1.31,devel,linux,x86_64,fedora-clang,NA,r85879,2024-02-15 22:50:51.363435
+causalOT,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r85879,2024-02-15 22:50:51.363435
+mlr3resampling,r-devel-linux-x86_64-fedora-clang,2024.1.23,devel,linux,x86_64,fedora-clang,NA,r85879,2024-02-15 22:50:51.363435
+atime,r-devel-linux-x86_64-fedora-gcc,2024.1.31,devel,linux,x86_64,fedora-gcc,NA,r85855,2024-02-15 22:50:51.363435
+batchmix,r-devel-linux-x86_64-fedora-gcc,2.0.0,devel,linux,x86_64,fedora-gcc,NA,r85855,2024-02-15 22:50:51.363435
+causalOT,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r85855,2024-02-15 22:50:51.363435
+mlr3resampling,r-devel-linux-x86_64-fedora-gcc,2024.1.23,devel,linux,x86_64,fedora-gcc,NA,r85855,2024-02-15 22:50:51.363435
