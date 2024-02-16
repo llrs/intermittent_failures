@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+baggr,r-release-macos-x86_64,0.7.8,release,macos,x86_64,,4.3.0,NA,2024-02-16 22:51:55.274896
+CovRegRF,r-release-macos-x86_64,2.0.0,release,macos,x86_64,,4.3.0,NA,2024-02-16 22:51:55.274896
+filibustr,r-release-macos-x86_64,0.1.1,release,macos,x86_64,,4.3.0,NA,2024-02-16 22:51:55.274896
+paws.analytics,r-release-macos-x86_64,0.5.0,release,macos,x86_64,,4.3.0,NA,2024-02-16 22:51:55.274896
+TestGenerator,r-release-macos-x86_64,0.2.5,release,macos,x86_64,,4.3.0,NA,2024-02-16 22:51:55.274896
