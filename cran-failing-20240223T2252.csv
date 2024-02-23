@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+SC.MEB,r-oldrel-macos-arm64,1.1,oldrel,macos,arm64,,4.2.3,NA,2024-02-23 22:52:07.115597
+SeedMatchR,r-oldrel-macos-arm64,1.1.1,oldrel,macos,arm64,,4.2.3,NA,2024-02-23 22:52:07.115597
+SeqFeatR,r-oldrel-macos-arm64,0.3.1,oldrel,macos,arm64,,4.2.3,NA,2024-02-23 22:52:07.115597
