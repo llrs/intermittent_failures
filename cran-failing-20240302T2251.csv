@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+caschrono,r-devel-linux-x86_64-fedora-clang,2.4,devel,linux,x86_64,fedora-clang,NA,r85978,2024-03-02 22:51:16.349734
+changeRangeR,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r85978,2024-03-02 22:51:16.349734
+EMAtools,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r85978,2024-03-02 22:51:16.349734
+caschrono,r-devel-linux-x86_64-fedora-gcc,2.4,devel,linux,x86_64,fedora-gcc,NA,r85975,2024-03-02 22:51:16.349734
+oncomsm,r-devel-linux-x86_64-fedora-gcc,0.1.4,devel,linux,x86_64,fedora-gcc,NA,r85975,2024-03-02 22:51:16.349734
