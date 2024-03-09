@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+codetools,r-devel-linux-x86_64-fedora-clang,0.2-19,devel,linux,x86_64,fedora-clang,NA,r85978,2024-03-09 22:50:49.603173
+Table1Heatmap,r-devel-linux-x86_64-fedora-clang,1.2,devel,linux,x86_64,fedora-clang,NA,r85978,2024-03-09 22:50:49.603173
+codetools,r-devel-linux-x86_64-fedora-gcc,0.2-19,devel,linux,x86_64,fedora-gcc,NA,r86029,2024-03-09 22:50:49.603173
+Table1Heatmap,r-devel-linux-x86_64-fedora-gcc,1.2,devel,linux,x86_64,fedora-gcc,NA,r86029,2024-03-09 22:50:49.603173
+FastJM,r-oldrel-macos-arm64,1.4.2,oldrel,macos,arm64,,4.2.3,NA,2024-03-09 22:50:49.603173
+iNEXT.3D,r-release-macos-arm64,1.0.2,release,macos,arm64,,4.3.1,NA,2024-03-09 22:50:49.603173
+MetricGraph,r-release-macos-arm64,1.3.0,release,macos,arm64,,4.3.1,NA,2024-03-09 22:50:49.603173
+multilevelmediation,r-release-macos-arm64,0.3.1,release,macos,arm64,,4.3.1,NA,2024-03-09 22:50:49.603173
+RGN,r-release-macos-x86_64,1.0.0,release,macos,x86_64,,4.3.2,NA,2024-03-09 22:50:49.603173
