@@ -1,0 +1,2 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+resampledata,r-devel-linux-x86_64-debian-gcc,0.3.1,devel,linux,x86_64,debian-gcc,NA,r86113,2024-03-15 22:50:51.265019
