@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+concrete,r-devel-linux-x86_64-fedora-clang,1.0.5,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-17 22:50:48.971879
+MCARtest,r-devel-linux-x86_64-fedora-clang,1.2,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-17 22:50:48.971879
+mop,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-17 22:50:48.971879
