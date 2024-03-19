@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+resampledata,r-devel-linux-x86_64-debian-clang,0.3.1,devel,linux,x86_64,debian-clang,NA,r86144,2024-03-19 22:51:09.874806
+Andromeda,r-devel-linux-x86_64-fedora-gcc,0.6.5,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-19 22:51:09.874806
+SCDB,r-devel-linux-x86_64-fedora-gcc,0.3,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-19 22:51:09.874806
+tsdistributions,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.2.3,NA,2024-03-19 22:51:09.874806
+regRSM,r-release-macos-arm64,0.5,release,macos,arm64,,4.3.1,NA,2024-03-19 22:51:09.874806
