@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Andromeda,r-devel-linux-x86_64-fedora-clang,0.6.5,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-20 22:50:57.025747
+bayesnec,r-devel-linux-x86_64-fedora-clang,2.1.1.0,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-20 22:50:57.025747
+etwfe,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-20 22:50:57.025747
+multilevelcoda,r-devel-linux-x86_64-fedora-clang,1.2.3,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-20 22:50:57.025747
+SCDB,r-devel-linux-x86_64-fedora-clang,0.3,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-20 22:50:57.025747
+bayesnec,r-devel-linux-x86_64-fedora-gcc,2.1.1.0,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-20 22:50:57.025747
+multilevelcoda,r-devel-linux-x86_64-fedora-gcc,1.2.3,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-20 22:50:57.025747
