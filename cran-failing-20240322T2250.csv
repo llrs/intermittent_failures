@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+etwfe,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-22 22:50:57.632591
+meteo,r-devel-linux-x86_64-fedora-clang,2.0-2,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-22 22:50:57.632591
+psychonetrics,r-devel-linux-x86_64-fedora-clang,0.11.5,devel,linux,x86_64,fedora-clang,NA,r86113,2024-03-22 22:50:57.632591
+ausplotsR,r-devel-linux-x86_64-fedora-gcc,2.0.5,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-22 22:50:57.632591
+mapmisc,r-devel-linux-x86_64-fedora-gcc,2.0.6,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-22 22:50:57.632591
+meteo,r-devel-linux-x86_64-fedora-gcc,2.0-2,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-22 22:50:57.632591
+psychonetrics,r-devel-linux-x86_64-fedora-gcc,0.11.5,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-22 22:50:57.632591
+RcppMeCab,r-oldrel-macos-arm64,0.0.1.2,oldrel,macos,arm64,,4.2.3,NA,2024-03-22 22:50:57.632591
+revert,r-oldrel-macos-arm64,0.0.1,oldrel,macos,arm64,,4.2.3,NA,2024-03-22 22:50:57.632591
