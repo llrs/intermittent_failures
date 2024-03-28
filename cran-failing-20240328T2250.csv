@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+DFD,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-28 22:50:51.957198
+MOCHA,r-devel-linux-x86_64-fedora-gcc,1.1.0,devel,linux,x86_64,fedora-gcc,NA,r86142,2024-03-28 22:50:51.957198
+cubar,r-oldrel-macos-arm64,0.5.0,oldrel,macos,arm64,,4.2.3,NA,2024-03-28 22:50:51.957198
