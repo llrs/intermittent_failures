@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+eia,r-devel-linux-x86_64-fedora-clang,0.4.1,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-08 22:50:47.705721
+f1dataR,r-devel-linux-x86_64-fedora-clang,1.5.1,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-08 22:50:47.705721
+LSX,r-devel-linux-x86_64-fedora-clang,1.4.0,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-08 22:50:47.705721
+mlr3spatiotempcv,r-devel-linux-x86_64-fedora-clang,2.3.0,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-08 22:50:47.705721
+newsmap,r-devel-linux-x86_64-fedora-clang,0.8.3,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-08 22:50:47.705721
