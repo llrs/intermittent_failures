@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+clugenr,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-09 22:51:25.244925
+diseasemapping,r-devel-linux-x86_64-fedora-clang,2.0.6,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-09 22:51:25.244925
+nhdR,r-devel-linux-x86_64-fedora-clang,0.6.1,devel,linux,x86_64,fedora-clang,NA,r86265,2024-04-09 22:51:25.244925
+diseasemapping,r-devel-linux-x86_64-fedora-gcc,2.0.6,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-09 22:51:25.244925
