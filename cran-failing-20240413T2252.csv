@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+parallelly,r-devel-linux-x86_64-debian-clang,1.37.1,devel,linux,x86_64,debian-clang,NA,r86396,2024-04-13 22:52:06.5485
+causalBatch,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r86396,2024-04-13 22:52:06.5485
+fqar,r-devel-linux-x86_64-debian-gcc,0.5.2,devel,linux,x86_64,debian-gcc,NA,r86396,2024-04-13 22:52:06.5485
+preregr,r-devel-linux-x86_64-debian-gcc,0.2.9,devel,linux,x86_64,debian-gcc,NA,r86396,2024-04-13 22:52:06.5485
+PTXQC,r-devel-linux-x86_64-debian-gcc,1.1.1,devel,linux,x86_64,debian-gcc,NA,r86396,2024-04-13 22:52:06.5485
+rcpptimer,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r86396,2024-04-13 22:52:06.5485
+SSDM,r-devel-linux-x86_64-debian-gcc,0.2.9,devel,linux,x86_64,debian-gcc,NA,r86396,2024-04-13 22:52:06.5485
+diseasemapping,r-devel-linux-x86_64-fedora-gcc,2.0.6,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-13 22:52:06.5485
+icensBKL,r-devel-linux-x86_64-fedora-gcc,1.5,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-13 22:52:06.5485
+INLAjoint,r-devel-linux-x86_64-fedora-gcc,24.3.25,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-13 22:52:06.5485
