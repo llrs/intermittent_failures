@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+chevron,r-devel-linux-x86_64-fedora-clang,0.2.5,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-17 22:51:09.231389
+diseasemapping,r-devel-linux-x86_64-fedora-clang,2.0.6,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-17 22:51:09.231389
+chevron,r-devel-linux-x86_64-fedora-gcc,0.2.5,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-17 22:51:09.231389
+diseasemapping,r-devel-linux-x86_64-fedora-gcc,2.0.6,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-17 22:51:09.231389
+BeeBDC,r-oldrel-macos-arm64,1.1.1,oldrel,macos,arm64,,4.2.3,NA,2024-04-17 22:51:09.231389
+CAST,r-release-macos-arm64,1.0.0,release,macos,arm64,,4.3.1,NA,2024-04-17 22:51:09.231389
+comradesOO,r-release-macos-arm64,0.1.1,release,macos,arm64,,4.3.1,NA,2024-04-17 22:51:09.231389
