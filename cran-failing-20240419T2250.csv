@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+madshapR,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-19 22:50:44.81018
+CDMConnector,r-devel-linux-x86_64-fedora-gcc,1.3.1,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-19 22:50:44.81018
+madshapR,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-19 22:50:44.81018
