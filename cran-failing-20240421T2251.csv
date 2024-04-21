@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+declared,r-devel-linux-x86_64-fedora-clang,0.24,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-21 22:51:34.718716
+mmap,r-devel-linux-x86_64-fedora-clang,0.6-22,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-21 22:51:34.718716
+slam,r-devel-linux-x86_64-fedora-clang,0.1-50,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-21 22:51:34.718716
+declared,r-devel-linux-x86_64-fedora-gcc,0.24,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-21 22:51:34.718716
+mmap,r-devel-linux-x86_64-fedora-gcc,0.6-22,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-21 22:51:34.718716
+slam,r-devel-linux-x86_64-fedora-gcc,0.1-50,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-21 22:51:34.718716
+inldata,r-release-macos-arm64,1.1.5,release,macos,arm64,,4.3.1,NA,2024-04-21 22:51:34.718716
