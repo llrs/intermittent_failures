@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+enviPat,r-devel-linux-x86_64-fedora-clang,2.6,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-22 22:50:35.986748
+fastmatch,r-devel-linux-x86_64-fedora-clang,1.1-4,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-22 22:50:35.986748
+PKI,r-devel-linux-x86_64-fedora-clang,0.1-12,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-22 22:50:35.986748
+RMVL,r-devel-linux-x86_64-fedora-clang,1.0.0.1,devel,linux,x86_64,fedora-clang,NA,r86412,2024-04-22 22:50:35.986748
+enviPat,r-devel-linux-x86_64-fedora-gcc,2.6,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-22 22:50:35.986748
+fastmatch,r-devel-linux-x86_64-fedora-gcc,1.1-4,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-22 22:50:35.986748
+PKI,r-devel-linux-x86_64-fedora-gcc,0.1-12,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-22 22:50:35.986748
+RMVL,r-devel-linux-x86_64-fedora-gcc,1.0.0.1,devel,linux,x86_64,fedora-gcc,NA,r86344,2024-04-22 22:50:35.986748
+scDHA,r-release-macos-arm64,1.2.2,release,macos,arm64,,4.3.1,NA,2024-04-22 22:50:35.986748
+shide,r-release-macos-arm64,0.2.0,release,macos,arm64,,4.3.1,NA,2024-04-22 22:50:35.986748
