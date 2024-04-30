@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+kappalab,r-devel-linux-x86_64-debian-clang,0.4-12,devel,linux,x86_64,debian-clang,NA,r86487,2024-04-30 22:51:18.215672
+alphaci,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+AnnoProbe,r-devel-linux-x86_64-debian-gcc,0.1.7,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+archeoViz,r-devel-linux-x86_64-debian-gcc,1.3.4,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+changeRangeR,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+didimputation,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+dynamAedes,r-devel-linux-x86_64-debian-gcc,2.2.9,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+ElevDistr,r-devel-linux-x86_64-debian-gcc,1.0.8,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+rcpptimer,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
+resilience,r-devel-linux-x86_64-debian-gcc,2023.1.1,devel,linux,x86_64,debian-gcc,NA,r86487,2024-04-30 22:51:18.215672
