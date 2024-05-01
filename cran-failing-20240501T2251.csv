@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+DGCA,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r86484,2024-05-01 22:51:17.658041
+germinationmetrics,r-devel-linux-x86_64-fedora-clang,0.1.8,devel,linux,x86_64,fedora-clang,NA,r86484,2024-05-01 22:51:17.658041
+dataverse,r-devel-linux-x86_64-fedora-gcc,0.3.13,devel,linux,x86_64,fedora-gcc,NA,r86471,2024-05-01 22:51:17.658041
+sim.BA,r-oldrel-macos-arm64,0.1.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-01 22:51:17.658041
+sonicscrewdriver,r-oldrel-macos-arm64,0.0.6,oldrel,macos,arm64,,4.3.1,NA,2024-05-01 22:51:17.658041
