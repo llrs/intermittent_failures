@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+GeneSelectR,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r86484,2024-05-04 22:50:59.396521
+kyotil,r-devel-linux-x86_64-fedora-clang,2024.1-30,devel,linux,x86_64,fedora-clang,NA,r86484,2024-05-04 22:50:59.396521
+PhViD,r-devel-linux-x86_64-fedora-clang,1.0.8,devel,linux,x86_64,fedora-clang,NA,r86484,2024-05-04 22:50:59.396521
+ExpImage,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.3.2,NA,2024-05-04 22:50:59.396521
