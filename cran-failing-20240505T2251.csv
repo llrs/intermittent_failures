@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+databraryr,r-devel-linux-x86_64-debian-gcc,0.6.4,devel,linux,x86_64,debian-gcc,NA,r86495,2024-05-05 22:51:23.836858
+luz,r-devel-linux-x86_64-debian-gcc,0.4.0,devel,linux,x86_64,debian-gcc,NA,r86495,2024-05-05 22:51:23.836858
+RMSDp,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r86495,2024-05-05 22:51:23.836858
+rxode2,r-devel-linux-x86_64-debian-gcc,2.1.2,devel,linux,x86_64,debian-gcc,NA,r86495,2024-05-05 22:51:23.836858
+UCSCXenaTools,r-devel-linux-x86_64-debian-gcc,1.4.8,devel,linux,x86_64,debian-gcc,NA,r86495,2024-05-05 22:51:23.836858
+wikilake,r-devel-linux-x86_64-debian-gcc,0.7.0,devel,linux,x86_64,debian-gcc,NA,r86495,2024-05-05 22:51:23.836858
+Rcplex,r-release-linux-x86_64,0.3-6,release,linux,x86_64,,4.4.0,NA,2024-05-05 22:51:23.836858
