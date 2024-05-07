@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Rcplex,r-devel-linux-x86_64-debian-gcc,0.3-6,devel,linux,x86_64,debian-gcc,NA,r86495,2024-05-07 22:51:00.665201
+changeRangeR,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r86526,2024-05-07 22:51:00.665201
+FeatureExtraction,r-release-macos-x86_64,3.5.2,release,macos,x86_64,,4.4.0,r86304,2024-05-07 22:51:00.665201
