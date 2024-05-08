@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+algaeClassify,r-devel-linux-x86_64-debian-gcc,2.0.2,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+bulkreadr,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+cvmdisc,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+educationdata,r-devel-linux-x86_64-debian-gcc,0.1.3,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+fedregs,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+glmMisrep,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+mapsFinland,r-devel-linux-x86_64-debian-gcc,0.2.2,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+mark,r-devel-linux-x86_64-debian-gcc,0.7.0,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+PhViD,r-devel-linux-x86_64-debian-gcc,1.0.8,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+posologyr,r-devel-linux-x86_64-debian-gcc,1.2.4,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+rcpptimer,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+readrba,r-devel-linux-x86_64-debian-gcc,0.1.8,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+redist,r-devel-linux-x86_64-debian-gcc,4.2.0,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+rpaleoclim,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+rsleep,r-devel-linux-x86_64-debian-gcc,1.0.12,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
+wikilake,r-devel-linux-x86_64-debian-gcc,0.7.0,devel,linux,x86_64,debian-gcc,NA,r86526,2024-05-08 22:51:21.317733
