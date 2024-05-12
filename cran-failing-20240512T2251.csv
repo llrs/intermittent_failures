@@ -1,0 +1,26 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dfsaneacc,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r86526,2024-05-12 22:51:26.162755
+adaptiveGPCA,r-oldrel-macos-arm64,0.1.3,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+bioRad,r-oldrel-macos-arm64,0.7.3,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+breakaway,r-oldrel-macos-arm64,4.8.4,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+chem16S,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+databraryr,r-oldrel-macos-arm64,0.6.4,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+fastTopics,r-oldrel-macos-arm64,0.6-163,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+file2meco,r-oldrel-macos-arm64,0.7.1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+HTSSIP,r-oldrel-macos-arm64,1.4.1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+HybridMicrobiomes,r-oldrel-macos-arm64,0.1.1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+karyotapR,r-oldrel-macos-arm64,1.0.1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+LOMAR,r-oldrel-macos-arm64,0.4.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+microbial,r-oldrel-macos-arm64,0.0.20,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+mixKernel,r-oldrel-macos-arm64,0.9-1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+NEONiso,r-oldrel-macos-arm64,0.7.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+NMRphasing,r-oldrel-macos-arm64,1.0.4,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+ondisc,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+phyloseqGraphTest,r-oldrel-macos-arm64,0.1.1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+praatpicture,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+RapidoPGS,r-oldrel-macos-arm64,2.3.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+rDataPipeline,r-oldrel-macos-arm64,0.54.1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+santaR,r-oldrel-macos-arm64,1.2.4,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+SigTree,r-oldrel-macos-arm64,1.10.6,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+speedytax,r-oldrel-macos-arm64,1.0.3,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
+vaccine,r-oldrel-macos-arm64,1.2.1,oldrel,macos,arm64,,4.3.1,NA,2024-05-12 22:51:26.162755
