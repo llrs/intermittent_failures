@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BASiNET,r-devel-linux-x86_64-fedora-clang,0.0.5,devel,linux,x86_64,fedora-clang,NA,r86529,2024-05-14 22:50:37.706835
+fdaPDE,r-devel-linux-x86_64-fedora-clang,1.1-17,devel,linux,x86_64,fedora-clang,NA,r86529,2024-05-14 22:50:37.706835
+remstats,r-devel-linux-x86_64-fedora-clang,3.2.1,devel,linux,x86_64,fedora-clang,NA,r86529,2024-05-14 22:50:37.706835
+wallace,r-oldrel-macos-arm64,2.1.2,oldrel,macos,arm64,,4.3.1,NA,2024-05-14 22:50:37.706835
+paws.analytics,r-oldrel-macos-x86_64,0.6.0,oldrel,macos,x86_64,,4.3.2,NA,2024-05-14 22:50:37.706835
