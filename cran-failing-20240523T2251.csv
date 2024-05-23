@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+predhy.GUI,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r86554,2024-05-23 22:51:05.664413
+samadb,r-devel-linux-x86_64-fedora-clang,0.2.6,devel,linux,x86_64,fedora-clang,NA,r86554,2024-05-23 22:51:05.664413
+ausplotsR,r-devel-linux-x86_64-fedora-gcc,2.0.5,devel,linux,x86_64,fedora-gcc,NA,r86565,2024-05-23 22:51:05.664413
+predhy.GUI,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r86565,2024-05-23 22:51:05.664413
+paws.analytics,r-oldrel-macos-x86_64,0.6.0,oldrel,macos,x86_64,,4.3.2,NA,2024-05-23 22:51:05.664413
