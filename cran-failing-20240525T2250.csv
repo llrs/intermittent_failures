@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cnmap,r-oldrel-windows-x86_64,0.1.0,oldrel,windows,x86_64,,4.3.3,NA,2024-05-25 22:50:51.553558
+ExpImage,r-oldrel-windows-x86_64,0.10.1,oldrel,windows,x86_64,,4.3.3,NA,2024-05-25 22:50:51.553558
+MXM,r-oldrel-windows-x86_64,1.5.5,oldrel,windows,x86_64,,4.3.3,NA,2024-05-25 22:50:51.553558
+RclusTool,r-oldrel-windows-x86_64,0.91.6,oldrel,windows,x86_64,,4.3.3,NA,2024-05-25 22:50:51.553558
+RMSDp,r-oldrel-windows-x86_64,0.1.0,oldrel,windows,x86_64,,4.3.3,NA,2024-05-25 22:50:51.553558
+SIGN,r-oldrel-windows-x86_64,0.1.0,oldrel,windows,x86_64,,4.3.3,NA,2024-05-25 22:50:51.553558
