@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+mulea,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.3.1,NA,2024-05-29 22:52:11.927584
+pgenlibr,r-oldrel-macos-arm64,0.3.6,oldrel,macos,arm64,,4.3.1,NA,2024-05-29 22:52:11.927584
+wallace,r-oldrel-macos-arm64,2.1.2,oldrel,macos,arm64,,4.3.1,NA,2024-05-29 22:52:11.927584
