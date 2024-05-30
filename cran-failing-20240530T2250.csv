@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+akc,r-devel-linux-x86_64-fedora-clang,0.9.9,devel,linux,x86_64,fedora-clang,NA,r86633,2024-05-30 22:50:27.807865
+scicomptools,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r86633,2024-05-30 22:50:27.807865
+SpaDES.core,r-devel-linux-x86_64-fedora-clang,2.0.5,devel,linux,x86_64,fedora-clang,NA,r86633,2024-05-30 22:50:27.807865
+WhatsR,r-devel-linux-x86_64-fedora-clang,1.0.4,devel,linux,x86_64,fedora-clang,NA,r86633,2024-05-30 22:50:27.807865
+wpa,r-devel-linux-x86_64-fedora-clang,1.9.0,devel,linux,x86_64,fedora-clang,NA,r86633,2024-05-30 22:50:27.807865
+akc,r-devel-linux-x86_64-fedora-gcc,0.9.9,devel,linux,x86_64,fedora-gcc,NA,r86627,2024-05-30 22:50:27.807865
+scicomptools,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r86627,2024-05-30 22:50:27.807865
+SpaDES.core,r-devel-linux-x86_64-fedora-gcc,2.0.5,devel,linux,x86_64,fedora-gcc,NA,r86627,2024-05-30 22:50:27.807865
+WhatsR,r-devel-linux-x86_64-fedora-gcc,1.0.4,devel,linux,x86_64,fedora-gcc,NA,r86627,2024-05-30 22:50:27.807865
+wpa,r-devel-linux-x86_64-fedora-gcc,1.9.0,devel,linux,x86_64,fedora-gcc,NA,r86627,2024-05-30 22:50:27.807865
