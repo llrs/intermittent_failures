@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+admiral,r-devel-linux-x86_64-fedora-clang,1.0.2,devel,linux,x86_64,fedora-clang,NA,r86633,2024-06-06 22:50:43.454065
+evoTS,r-devel-linux-x86_64-fedora-clang,1.0.2,devel,linux,x86_64,fedora-clang,NA,r86633,2024-06-06 22:50:43.454065
+admiral,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r86658,2024-06-06 22:50:43.454065
+evoTS,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r86658,2024-06-06 22:50:43.454065
+ceas,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
+ctsem,r-oldrel-macos-arm64,3.10.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
+GUD,r-oldrel-macos-arm64,0.0.5,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
+mulea,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
+multe,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
+optimizeR,r-oldrel-macos-arm64,1.1.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
+sim.BA,r-oldrel-macos-arm64,0.1.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
+socialranking,r-oldrel-macos-arm64,1.2.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-06 22:50:43.454065
