@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+adaptivetau,r-devel-linux-x86_64-fedora-clang,2.3-1,devel,linux,x86_64,fedora-clang,NA,r86633,2024-06-18 22:50:55.084269
+dauphin,r-devel-linux-x86_64-fedora-clang,0.3.1,devel,linux,x86_64,fedora-clang,NA,r86633,2024-06-18 22:50:55.084269
+kit,r-devel-linux-x86_64-fedora-clang,0.0.18,devel,linux,x86_64,fedora-clang,NA,r86633,2024-06-18 22:50:55.084269
+lazy,r-devel-linux-x86_64-fedora-clang,1.2-18,devel,linux,x86_64,fedora-clang,NA,r86633,2024-06-18 22:50:55.084269
+yaml,r-devel-linux-x86_64-fedora-clang,2.3.8,devel,linux,x86_64,fedora-clang,NA,r86633,2024-06-18 22:50:55.084269
+adaptivetau,r-devel-linux-x86_64-fedora-gcc,2.3-1,devel,linux,x86_64,fedora-gcc,NA,r86745,2024-06-18 22:50:55.084269
+dauphin,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r86745,2024-06-18 22:50:55.084269
+kit,r-devel-linux-x86_64-fedora-gcc,0.0.18,devel,linux,x86_64,fedora-gcc,NA,r86745,2024-06-18 22:50:55.084269
+lazy,r-devel-linux-x86_64-fedora-gcc,1.2-18,devel,linux,x86_64,fedora-gcc,NA,r86745,2024-06-18 22:50:55.084269
+yaml,r-devel-linux-x86_64-fedora-gcc,2.3.8,devel,linux,x86_64,fedora-gcc,NA,r86745,2024-06-18 22:50:55.084269
