@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+adaptivetau,r-devel-linux-x86_64-debian-clang,2.3-1,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+cofid,r-devel-linux-x86_64-debian-clang,1.0.0,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+dauphin,r-devel-linux-x86_64-debian-clang,0.3.1,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+kit,r-devel-linux-x86_64-debian-clang,0.0.18,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+lazy,r-devel-linux-x86_64-debian-clang,1.2-18,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+RJSONIO,r-devel-linux-x86_64-debian-clang,1.3-1.9,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+rrapply,r-devel-linux-x86_64-debian-clang,1.2.6,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+rusquant,r-devel-linux-x86_64-debian-clang,1.1.1,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+yaml,r-devel-linux-x86_64-debian-clang,2.3.8,devel,linux,x86_64,debian-clang,NA,r86793,2024-06-22 22:50:44.854806
+sonicscrewdriver,r-oldrel-macos-arm64,0.0.7,oldrel,macos,arm64,,4.3.1,NA,2024-06-22 22:50:44.854806
+aIc,r-oldrel-windows-x86_64,1.0,oldrel,windows,x86_64,,4.3.3,NA,2024-06-22 22:50:44.854806
+visR,r-release-windows-x86_64,0.4.1,release,windows,x86_64,,4.4.1,NA,2024-06-22 22:50:44.854806
