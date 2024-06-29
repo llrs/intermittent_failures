@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pbdMPI,r-devel-linux-x86_64-debian-clang,0.5-1,devel,linux,x86_64,debian-clang,NA,r86840,2024-06-29 22:50:57.856588
+ctsem,r-oldrel-macos-arm64,3.10.0,oldrel,macos,arm64,,4.3.1,NA,2024-06-29 22:50:57.856588
+mgi.report.reader,r-oldrel-macos-x86_64,0.0.1,oldrel,macos,x86_64,,4.3.2,NA,2024-06-29 22:50:57.856588
