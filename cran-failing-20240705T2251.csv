@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bioRad,r-devel-linux-x86_64-fedora-clang,0.7.3,devel,linux,x86_64,fedora-clang,NA,r86808,2024-07-05 22:51:47.157336
+CoDiNA,r-devel-linux-x86_64-fedora-clang,1.1.2,devel,linux,x86_64,fedora-clang,NA,r86808,2024-07-05 22:51:47.157336
+rqti,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r86808,2024-07-05 22:51:47.157336
+bioRad,r-devel-linux-x86_64-fedora-gcc,0.7.3,devel,linux,x86_64,fedora-gcc,NA,r86850,2024-07-05 22:51:47.157336
+CoDiNA,r-devel-linux-x86_64-fedora-gcc,1.1.2,devel,linux,x86_64,fedora-gcc,NA,r86850,2024-07-05 22:51:47.157336
+rqti,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r86850,2024-07-05 22:51:47.157336
