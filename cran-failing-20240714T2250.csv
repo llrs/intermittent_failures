@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+abn,r-devel-linux-x86_64-fedora-clang,3.1.1,devel,linux,x86_64,fedora-clang,NA,r86808,2024-07-14 22:50:43.834946
+iheiddown,r-devel-linux-x86_64-fedora-clang,0.9.7,devel,linux,x86_64,fedora-clang,NA,r86808,2024-07-14 22:50:43.834946
+ivgets,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r86808,2024-07-14 22:50:43.834946
+prophet,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r86808,2024-07-14 22:50:43.834946
+abn,r-devel-linux-x86_64-fedora-gcc,3.1.1,devel,linux,x86_64,fedora-gcc,NA,r86873,2024-07-14 22:50:43.834946
+clusteredinterference,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r86873,2024-07-14 22:50:43.834946
+ivgets,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r86873,2024-07-14 22:50:43.834946
+PubChemR,r-devel-linux-x86_64-fedora-gcc,2.0,devel,linux,x86_64,fedora-gcc,NA,r86873,2024-07-14 22:50:43.834946
