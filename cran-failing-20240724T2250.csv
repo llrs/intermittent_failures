@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+mnis,r-oldrel-windows-x86_64,0.3.1,oldrel,windows,x86_64,,4.3.3,NA,2024-07-24 22:50:56.079653
+revert,r-oldrel-windows-x86_64,0.0.1,oldrel,windows,x86_64,,4.3.3,NA,2024-07-24 22:50:56.079653
+shinylight,r-oldrel-windows-x86_64,1.2,oldrel,windows,x86_64,,4.3.3,NA,2024-07-24 22:50:56.079653
+threshr,r-oldrel-windows-x86_64,1.0.6,oldrel,windows,x86_64,,4.3.3,NA,2024-07-24 22:50:56.079653
