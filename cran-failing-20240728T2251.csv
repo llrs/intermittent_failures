@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ATAforecasting,r-devel-linux-x86_64-fedora-gcc,0.0.60,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-28 22:51:39.11775
+jack,r-devel-linux-x86_64-fedora-gcc,6.0.0,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-28 22:51:39.11775
+IceSat2R,r-release-macos-x86_64,1.0.5,release,macos,x86_64,,4.4.0,NA,2024-07-28 22:51:39.11775
