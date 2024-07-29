@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+em,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r86926,2024-07-29 22:51:37.442968
+JGL,r-devel-linux-x86_64-debian-gcc,2.3.2,devel,linux,x86_64,debian-gcc,NA,r86926,2024-07-29 22:51:37.442968
+r311,r-devel-linux-x86_64-debian-gcc,0.3.7,devel,linux,x86_64,debian-gcc,NA,r86926,2024-07-29 22:51:37.442968
+rcpptimer,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r86926,2024-07-29 22:51:37.442968
+sched,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r86926,2024-07-29 22:51:37.442968
+SeedMatchR,r-devel-linux-x86_64-debian-gcc,1.1.1,devel,linux,x86_64,debian-gcc,NA,r86926,2024-07-29 22:51:37.442968
+symbolicQspray,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r86926,2024-07-29 22:51:37.442968
+circle,r-devel-linux-x86_64-fedora-gcc,0.7.2,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-29 22:51:37.442968
+exampletestr,r-devel-linux-x86_64-fedora-gcc,1.7.1,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-29 22:51:37.442968
+ModTools,r-devel-linux-x86_64-fedora-gcc,0.9.6,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-29 22:51:37.442968
+odbr,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-29 22:51:37.442968
+ready4,r-devel-linux-x86_64-fedora-gcc,0.1.14,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-29 22:51:37.442968
+timeplyr,r-devel-linux-x86_64-fedora-gcc,0.8.1,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-29 22:51:37.442968
