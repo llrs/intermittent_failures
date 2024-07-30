@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ecoreg,r-devel-linux-x86_64-fedora-clang,0.2.4,devel,linux,x86_64,fedora-clang,NA,r86925,2024-07-30 22:51:53.809012
+ecoreg,r-devel-linux-x86_64-fedora-gcc,0.2.4,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-07-30 22:51:53.809012
+precommit,r-oldrel-macos-arm64,0.4.3,oldrel,macos,arm64,,4.3.1,NA,2024-07-30 22:51:53.809012
+regRSM,r-oldrel-macos-arm64,0.5,oldrel,macos,arm64,,4.3.1,NA,2024-07-30 22:51:53.809012
