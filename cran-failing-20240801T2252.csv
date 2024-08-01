@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cocorresp,r-devel-linux-x86_64-fedora-clang,0.4-4,devel,linux,x86_64,fedora-clang,NA,r86925,2024-08-01 22:52:04.894852
+ATQ,r-devel-linux-x86_64-fedora-gcc,0.2.2,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-08-01 22:52:04.894852
+cocorresp,r-devel-linux-x86_64-fedora-gcc,0.4-4,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-08-01 22:52:04.894852
+IceSat2R,r-devel-linux-x86_64-fedora-gcc,1.0.5,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-08-01 22:52:04.894852
+ready4,r-devel-linux-x86_64-fedora-gcc,0.1.14,devel,linux,x86_64,fedora-gcc,NA,r86905,2024-08-01 22:52:04.894852
