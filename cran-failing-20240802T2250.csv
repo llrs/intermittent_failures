@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+SpaDES.core,r-oldrel-macos-arm64,2.1.0,oldrel,macos,arm64,,4.3.1,NA,2024-08-02 22:50:57.564601
+aIc,r-oldrel-windows-x86_64,1.0,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+bsynth,r-oldrel-windows-x86_64,1.0,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+circle,r-oldrel-windows-x86_64,0.7.2,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+convey,r-oldrel-windows-x86_64,1.0.0,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+DRviaSPCN,r-oldrel-windows-x86_64,0.1.4,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+exampletestr,r-oldrel-windows-x86_64,1.7.1,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+ExpImage,r-oldrel-windows-x86_64,0.10.1,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+ICDS,r-oldrel-windows-x86_64,0.1.2,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+ModTools,r-oldrel-windows-x86_64,0.9.6,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+SHELF,r-oldrel-windows-x86_64,1.10.0,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+TaxaNorm,r-oldrel-windows-x86_64,2.4,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
+timeplyr,r-oldrel-windows-x86_64,0.8.1,oldrel,windows,x86_64,,4.3.3,NA,2024-08-02 22:50:57.564601
