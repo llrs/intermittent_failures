@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+copulaData,r-devel-linux-x86_64-debian-clang,0.0-2,devel,linux,x86_64,debian-clang,NA,r86984,2024-08-09 22:51:10.831542
+AIUQ,r-devel-linux-x86_64-debian-gcc,0.5.3,devel,linux,x86_64,debian-gcc,NA,r86984,2024-08-09 22:51:10.831542
+GauPro,r-devel-linux-x86_64-debian-gcc,0.2.12,devel,linux,x86_64,debian-gcc,NA,r86984,2024-08-09 22:51:10.831542
+glmMisrep,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r86984,2024-08-09 22:51:10.831542
+refseqR,r-devel-linux-x86_64-debian-gcc,1.1.2,devel,linux,x86_64,debian-gcc,NA,r86984,2024-08-09 22:51:10.831542
