@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+emdist,r-patched-linux-x86_64,0.3-3,patched,linux,x86_64,,4.4.1,r86980,2024-08-14 22:51:56.10469
+gmfd,r-patched-linux-x86_64,1.0.1,patched,linux,x86_64,,4.4.1,r86980,2024-08-14 22:51:56.10469
+metajam,r-patched-linux-x86_64,0.3.0,patched,linux,x86_64,,4.4.1,r86980,2024-08-14 22:51:56.10469
+polyglotr,r-patched-linux-x86_64,1.5.1,patched,linux,x86_64,,4.4.1,r86980,2024-08-14 22:51:56.10469
+restoptr,r-patched-linux-x86_64,1.0.6,patched,linux,x86_64,,4.4.1,r86980,2024-08-14 22:51:56.10469
+spotifyr,r-patched-linux-x86_64,2.2.4,patched,linux,x86_64,,4.4.1,r86980,2024-08-14 22:51:56.10469
