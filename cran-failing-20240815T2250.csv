@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+emdist,r-release-linux-x86_64,0.3-3,release,linux,x86_64,,4.4.1,NA,2024-08-15 22:50:32.824762
+BonEV,r-release-windows-x86_64,1.0,release,windows,x86_64,,4.4.1,NA,2024-08-15 22:50:32.824762
+fdrDiscreteNull,r-release-windows-x86_64,1.4,release,windows,x86_64,,4.4.1,NA,2024-08-15 22:50:32.824762
+khisr,r-release-windows-x86_64,1.0.5,release,windows,x86_64,,4.4.1,NA,2024-08-15 22:50:32.824762
