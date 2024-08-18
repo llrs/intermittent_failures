@@ -1,0 +1,19 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+modsem,r-oldrel-macos-x86_64,1.0.2,oldrel,macos,x86_64,,4.3.2,NA,2024-08-18 22:51:10.120288
+ssh,r-oldrel-macos-x86_64,0.9.2,oldrel,macos,x86_64,,4.3.2,NA,2024-08-18 22:51:10.120288
+wikkitidy,r-oldrel-macos-x86_64,0.1.13,oldrel,macos,x86_64,,4.3.2,NA,2024-08-18 22:51:10.120288
+fitzRoy,r-release-linux-x86_64,1.5.0,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+galah,r-release-linux-x86_64,2.0.2,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+GetTDData,r-release-linux-x86_64,1.5.5,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+lfc,r-release-linux-x86_64,0.2.3,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+mstDIF,r-release-linux-x86_64,0.1.7,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+mulea,r-release-linux-x86_64,1.0.1,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+natmanager,r-release-linux-x86_64,0.5.1,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+neurobase,r-release-linux-x86_64,1.32.4,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+nplyr,r-release-linux-x86_64,0.2.0,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+saeSim,r-release-linux-x86_64,0.11.0,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+scholar,r-release-linux-x86_64,0.2.4,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+spotifyr,r-release-linux-x86_64,2.2.4,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+tidyquant,r-release-linux-x86_64,1.0.7,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+worldbank,r-release-linux-x86_64,0.2.0,release,linux,x86_64,,4.4.1,NA,2024-08-18 22:51:10.120288
+ssh,r-release-macos-x86_64,0.9.2,release,macos,x86_64,,4.4.0,NA,2024-08-18 22:51:10.120288
