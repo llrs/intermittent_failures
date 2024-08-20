@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+modsem,r-oldrel-macos-x86_64,1.0.2,oldrel,macos,x86_64,,4.3.2,NA,2024-08-20 22:50:30.741386
+easyDifferentialGeneCoexpression,r-release-macos-arm64,1.4,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+ggaligner,r-release-macos-arm64,0.1,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+gmoTree,r-release-macos-arm64,1.1.0,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+longreadvqs,r-release-macos-arm64,0.1.2,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+pathfindR,r-release-macos-arm64,2.4.1,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+RVA,r-release-macos-arm64,0.0.5,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+SCdeconR,r-release-macos-arm64,1.0.0,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+SCIntRuler,r-release-macos-arm64,0.99.6,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
+SeedMatchR,r-release-macos-arm64,1.1.1,release,macos,arm64,,4.4.0,r86238,2024-08-20 22:50:30.741386
