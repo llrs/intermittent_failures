@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gatoRs,r-devel-linux-x86_64-fedora-clang,1.0.2,devel,linux,x86_64,fedora-clang,NA,r86999,2024-08-21 22:50:33.419542
+tern.gee,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r86999,2024-08-21 22:50:33.419542
+tern.gee,r-devel-linux-x86_64-fedora-gcc,0.1.4,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-21 22:50:33.419542
