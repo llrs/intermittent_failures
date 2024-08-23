@@ -1,0 +1,19 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+circhelp,r-devel-linux-x86_64-debian-clang,1.1,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+dartR,r-devel-linux-x86_64-debian-clang,2.9.7,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+dartR.base,r-devel-linux-x86_64-debian-clang,0.65,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+EthSEQ,r-devel-linux-x86_64-debian-clang,3.0.2,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+frictionless,r-devel-linux-x86_64-debian-clang,1.1.0,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+GMMAT,r-devel-linux-x86_64-debian-clang,1.4.2,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+gwid,r-devel-linux-x86_64-debian-clang,0.2.0,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+Mega2R,r-devel-linux-x86_64-debian-clang,1.1.0,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+moreparty,r-devel-linux-x86_64-debian-clang,0.4,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+OpenTreeChronograms,r-devel-linux-x86_64-debian-clang,2022.1.28,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+pluscode,r-devel-linux-x86_64-debian-clang,0.1.0,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+restoptr,r-devel-linux-x86_64-debian-clang,1.0.6,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+SHELF,r-devel-linux-x86_64-debian-clang,1.10.0,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+simplePHENOTYPES,r-devel-linux-x86_64-debian-clang,1.3.0,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+snplinkage,r-devel-linux-x86_64-debian-clang,1.0.0,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+tern.gee,r-devel-linux-x86_64-debian-clang,0.1.4,devel,linux,x86_64,debian-clang,NA,r87038,2024-08-23 22:50:35.965263
+ctsem,r-oldrel-macos-arm64,3.10.1,oldrel,macos,arm64,,4.3.1,NA,2024-08-23 22:50:35.965263
+smdi,r-oldrel-macos-x86_64,0.3.0,oldrel,macos,x86_64,,4.3.2,NA,2024-08-23 22:50:35.965263
