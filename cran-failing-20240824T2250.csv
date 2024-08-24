@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+frictionless,r-devel-linux-x86_64-fedora-gcc,1.1.0,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-24 22:50:31.738735
+ReporterScore,r-devel-linux-x86_64-fedora-gcc,0.1.7,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-24 22:50:31.738735
+mvgam,r-oldrel-macos-arm64,1.1.2,oldrel,macos,arm64,,4.3.1,NA,2024-08-24 22:50:31.738735
+CDCPLACES,r-patched-linux-x86_64,1.1.6,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+EloSteepness,r-patched-linux-x86_64,0.5.0,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+glmMisrep,r-patched-linux-x86_64,0.1.1,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+ptools,r-patched-linux-x86_64,2.0.0,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+PVplr,r-patched-linux-x86_64,0.1.2,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+ROCsurf,r-patched-linux-x86_64,0.1.1,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+T2DFitTailor,r-patched-linux-x86_64,3.0.0,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+TPCselect,r-patched-linux-x86_64,0.8.3,patched,linux,x86_64,,4.4.1,r86980,2024-08-24 22:50:31.738735
+ymd,r-release-macos-x86_64,0.1.2,release,macos,x86_64,,4.4.0,NA,2024-08-24 22:50:31.738735
