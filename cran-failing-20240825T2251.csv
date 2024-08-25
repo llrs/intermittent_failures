@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+hopkins,r-devel-linux-x86_64-fedora-gcc,1.1,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-25 22:51:24.605628
+nat,r-devel-linux-x86_64-fedora-gcc,1.8.24,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-25 22:51:24.605628
+MOCHA,r-oldrel-macos-arm64,1.1.0,oldrel,macos,arm64,,4.3.1,NA,2024-08-25 22:51:24.605628
+mvgam,r-oldrel-macos-arm64,1.1.2,oldrel,macos,arm64,,4.3.1,NA,2024-08-25 22:51:24.605628
+myClim,r-oldrel-macos-arm64,1.2.0,oldrel,macos,arm64,,4.3.1,NA,2024-08-25 22:51:24.605628
+o2geosocial,r-oldrel-macos-arm64,1.1.3,oldrel,macos,arm64,,4.3.1,NA,2024-08-25 22:51:24.605628
