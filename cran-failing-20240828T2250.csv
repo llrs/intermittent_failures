@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+washi,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r87049,2024-08-28 22:50:38.425639
+analogue,r-devel-linux-x86_64-fedora-gcc,0.17-6,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-28 22:50:38.425639
+teal.widgets,r-devel-linux-x86_64-fedora-gcc,0.4.2,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-28 22:50:38.425639
