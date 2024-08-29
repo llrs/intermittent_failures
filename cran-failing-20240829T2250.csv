@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ctsem,r-oldrel-macos-arm64,3.10.1,oldrel,macos,arm64,,4.3.1,NA,2024-08-29 22:50:28.944966
+APCalign,r-release-linux-x86_64,1.1.0,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+DATAstudio,r-release-linux-x86_64,1.1,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+DrugUtilisation,r-release-linux-x86_64,0.7.0,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+exams.forge,r-release-linux-x86_64,1.0.10,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+geneExpressionFromGEO,r-release-linux-x86_64,0.9,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+grafzahl,r-release-linux-x86_64,0.0.11,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+mixopt,r-release-linux-x86_64,0.1.2,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+NADA2,r-release-linux-x86_64,1.1.6,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+NeuroDecodeR,r-release-linux-x86_64,0.2.0,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+RKorAPClient,r-release-linux-x86_64,0.8.1,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+SHELF,r-release-linux-x86_64,1.10.0,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
+TestFunctions,r-release-linux-x86_64,0.2.1,release,linux,x86_64,,4.4.1,NA,2024-08-29 22:50:28.944966
