@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+phreeqc,r-devel-linux-x86_64-debian-clang,3.8.0,devel,linux,x86_64,debian-clang,NA,r87049,2024-08-30 22:51:05.719831
+AIUQ,r-devel-linux-x86_64-debian-gcc,0.5.3,devel,linux,x86_64,debian-gcc,NA,r87049,2024-08-30 22:51:05.719831
+bigergm,r-devel-linux-x86_64-debian-gcc,1.2.1,devel,linux,x86_64,debian-gcc,NA,r87049,2024-08-30 22:51:05.719831
+etwfe,r-devel-linux-x86_64-debian-gcc,0.4.0,devel,linux,x86_64,debian-gcc,NA,r87049,2024-08-30 22:51:05.719831
+potential,r-devel-linux-x86_64-debian-gcc,0.2.0,devel,linux,x86_64,debian-gcc,NA,r87049,2024-08-30 22:51:05.719831
+abind,r-devel-linux-x86_64-fedora-clang,1.4-5,devel,linux,x86_64,fedora-clang,NA,r87049,2024-08-30 22:51:05.719831
+hellorust,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r87049,2024-08-30 22:51:05.719831
+abind,r-devel-linux-x86_64-fedora-gcc,1.4-5,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-30 22:51:05.719831
+hellorust,r-devel-linux-x86_64-fedora-gcc,1.2.0,devel,linux,x86_64,fedora-gcc,NA,r87026,2024-08-30 22:51:05.719831
