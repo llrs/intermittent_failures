@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ATbounds,r-release-linux-x86_64,0.1.0,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+convey,r-release-linux-x86_64,1.0.0,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+DFBA,r-release-linux-x86_64,0.1.0,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+exams.forge,r-release-linux-x86_64,1.0.10,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+git2rdata,r-release-linux-x86_64,0.4.0,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+NeuroDecodeR,r-release-linux-x86_64,0.2.0,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+RKorAPClient,r-release-linux-x86_64,0.8.1,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+SHELF,r-release-linux-x86_64,1.10.0,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
+Statsomat,r-release-linux-x86_64,1.1.0,release,linux,x86_64,,4.4.1,NA,2024-09-01 22:50:21.034096
