@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+abind,r-devel-linux-x86_64-debian-clang,1.4-5,devel,linux,x86_64,debian-clang,NA,r87083,2024-09-03 22:50:32.104908
+hellorust,r-devel-linux-x86_64-debian-clang,1.2.0,devel,linux,x86_64,debian-clang,NA,r87083,2024-09-03 22:50:32.104908
+driveR,r-release-macos-arm64,0.4.1,release,macos,arm64,,4.4.0,r86238,2024-09-03 22:50:32.104908
+opGMMassessment,r-release-macos-arm64,0.4,release,macos,arm64,,4.4.0,r86238,2024-09-03 22:50:32.104908
+pbdSLAP,r-release-macos-x86_64,0.3-5,release,macos,x86_64,,4.4.0,NA,2024-09-03 22:50:32.104908
