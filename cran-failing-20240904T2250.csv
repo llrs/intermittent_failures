@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ctsem,r-oldrel-macos-arm64,3.10.1,oldrel,macos,arm64,,4.3.1,NA,2024-09-04 22:50:26.26867
+autoScorecard,r-patched-linux-x86_64,0.3.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+databraryr,r-patched-linux-x86_64,0.6.6,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+epigrowthfit,r-patched-linux-x86_64,0.15.3,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+etwfe,r-patched-linux-x86_64,0.4.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+fastSOM,r-patched-linux-x86_64,1.0.1,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+lingmatch,r-patched-linux-x86_64,1.0.7,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+qMRI,r-patched-linux-x86_64,1.2.7.6,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+r5r,r-patched-linux-x86_64,2.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+Statsomat,r-patched-linux-x86_64,1.1.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-04 22:50:26.26867
+pbdSLAP,r-release-macos-x86_64,0.3-5,release,macos,x86_64,,4.4.0,NA,2024-09-04 22:50:26.26867
