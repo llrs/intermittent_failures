@@ -1,0 +1,20 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+animint2,r-devel-linux-x86_64-fedora-clang,2024.1.24,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+bnclassify,r-devel-linux-x86_64-fedora-clang,0.4.8,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+dttr2,r-devel-linux-x86_64-fedora-clang,0.5.0,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+faux,r-devel-linux-x86_64-fedora-clang,1.2.1,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+fmdates,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+rworkflows,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+sentopics,r-devel-linux-x86_64-fedora-clang,0.7.3,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+statgenGWAS,r-devel-linux-x86_64-fedora-clang,1.0.9,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+timeordered,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-05 22:51:11.734079
+animint2,r-devel-linux-x86_64-fedora-gcc,2024.1.24,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+bigergm,r-devel-linux-x86_64-fedora-gcc,1.2.1,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+bnclassify,r-devel-linux-x86_64-fedora-gcc,0.4.8,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+dttr2,r-devel-linux-x86_64-fedora-gcc,0.5.0,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+faux,r-devel-linux-x86_64-fedora-gcc,1.2.1,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+fmdates,r-devel-linux-x86_64-fedora-gcc,0.1.4,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+rworkflows,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+sentopics,r-devel-linux-x86_64-fedora-gcc,0.7.3,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+statgenGWAS,r-devel-linux-x86_64-fedora-gcc,1.0.9,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
+timeordered,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r87094,2024-09-05 22:51:11.734079
