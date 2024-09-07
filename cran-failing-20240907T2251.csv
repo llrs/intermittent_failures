@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+MantaID,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r87094,2024-09-07 22:51:07.282771
+hetGP,r-oldrel-macos-arm64,1.1.7,oldrel,macos,arm64,,4.3.1,NA,2024-09-07 22:51:07.282771
+etwfe,r-patched-linux-x86_64,0.4.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+exams.forge,r-patched-linux-x86_64,1.0.10,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+fastSOM,r-patched-linux-x86_64,1.0.1,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+hesim,r-patched-linux-x86_64,0.5.4,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+jackstraw,r-patched-linux-x86_64,1.3.15,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+ojsr,r-patched-linux-x86_64,0.1.2,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+RColetum,r-patched-linux-x86_64,0.2.2,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+sparseGAM,r-patched-linux-x86_64,1.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-07 22:51:07.282771
+BeeBDC,r-release-macos-arm64,1.2.0,release,macos,arm64,,4.4.0,r86238,2024-09-07 22:51:07.282771
