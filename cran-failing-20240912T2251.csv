@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+image.dlib,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r87117,2024-09-12 22:51:05.781061
+kappalab,r-devel-linux-x86_64-fedora-clang,0.4-12,devel,linux,x86_64,fedora-clang,NA,r87117,2024-09-12 22:51:05.781061
+RcppFastAD,r-devel-linux-x86_64-fedora-clang,0.0.2,devel,linux,x86_64,fedora-clang,NA,r87117,2024-09-12 22:51:05.781061
+RQuantLib,r-oldrel-macos-arm64,0.4.24,oldrel,macos,arm64,,4.3.1,NA,2024-09-12 22:51:05.781061
+scDHA,r-oldrel-macos-arm64,1.2.2,oldrel,macos,arm64,,4.3.1,NA,2024-09-12 22:51:05.781061
