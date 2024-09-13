@@ -1,0 +1,23 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+aebdata,r-devel-linux-x86_64-debian-clang,0.1.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+arcgisutils,r-devel-linux-x86_64-debian-clang,0.3.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+b64,r-devel-linux-x86_64-debian-clang,0.1.2,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+base.rms,r-devel-linux-x86_64-debian-clang,1.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+bmm,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+covidcast,r-devel-linux-x86_64-debian-clang,0.5.2,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+databraryr,r-devel-linux-x86_64-debian-clang,0.6.6,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+lacunaritycovariance,r-devel-linux-x86_64-debian-clang,1.1-7,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+log4r,r-devel-linux-x86_64-debian-clang,0.4.3,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+nomogramFormula,r-devel-linux-x86_64-debian-clang,1.2.0.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+paws,r-devel-linux-x86_64-debian-clang,0.6.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+PubChemR,r-devel-linux-x86_64-debian-clang,2.0.1,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+ridigbio,r-devel-linux-x86_64-debian-clang,0.4.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+rnpn,r-devel-linux-x86_64-debian-clang,1.2.9.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+ROCsurf,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+set,r-devel-linux-x86_64-debian-clang,1.2,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+TestFunctions,r-devel-linux-x86_64-debian-clang,0.2.1,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+yfR,r-devel-linux-x86_64-debian-clang,1.1.0,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+zoomerjoin,r-devel-linux-x86_64-debian-clang,0.1.5,devel,linux,x86_64,debian-clang,NA,r87117,2024-09-13 22:50:12.450043
+kappalab,r-devel-linux-x86_64-fedora-clang,0.4-12,devel,linux,x86_64,fedora-clang,NA,r87117,2024-09-13 22:50:12.450043
+lassoshooting,r-devel-linux-x86_64-fedora-gcc,0.1.5-1.1,devel,linux,x86_64,fedora-gcc,NA,r87117,2024-09-13 22:50:12.450043
+scDHA,r-oldrel-macos-arm64,1.2.2,oldrel,macos,arm64,,4.3.1,NA,2024-09-13 22:50:12.450043
