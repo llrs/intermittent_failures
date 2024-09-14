@@ -1,0 +1,16 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+hetGP,r-oldrel-macos-arm64,1.1.7,oldrel,macos,arm64,,4.3.1,NA,2024-09-14 22:50:50.650384
+LocalCop,r-oldrel-macos-arm64,0.0.2,oldrel,macos,arm64,,4.3.1,NA,2024-09-14 22:50:50.650384
+patterncausality,r-oldrel-macos-arm64,0.1.2,oldrel,macos,arm64,,4.3.1,NA,2024-09-14 22:50:50.650384
+pmclust,r-oldrel-macos-arm64,0.2-1,oldrel,macos,arm64,,4.3.1,NA,2024-09-14 22:50:50.650384
+hetGP,r-oldrel-macos-x86_64,1.1.7,oldrel,macos,x86_64,,4.3.2,NA,2024-09-14 22:50:50.650384
+amadeus,r-patched-linux-x86_64,1.0.7,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+ATbounds,r-patched-linux-x86_64,0.1.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+coil,r-patched-linux-x86_64,1.2.4,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+cvmdisc,r-patched-linux-x86_64,0.1.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+dhlabR,r-patched-linux-x86_64,1.0.6,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+OPI,r-patched-linux-x86_64,3.0.2,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+PubChemR,r-patched-linux-x86_64,2.0.1,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+ROCsurf,r-patched-linux-x86_64,0.1.1,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+TestFunctions,r-patched-linux-x86_64,0.2.1,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
+wintime,r-patched-linux-x86_64,0.1.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-14 22:50:50.650384
