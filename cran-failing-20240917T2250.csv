@@ -1,0 +1,16 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+arcgisgeocode,r-devel-linux-x86_64-debian-clang,0.2.1,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+bmm,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+boutliers,r-devel-linux-x86_64-debian-clang,1.1-2,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+box.lsp,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+convey,r-devel-linux-x86_64-debian-clang,1.0.0,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+databraryr,r-devel-linux-x86_64-debian-clang,0.6.6,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+DataPackageR,r-devel-linux-x86_64-debian-clang,0.16.0,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+image.dlib,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+lacunaritycovariance,r-devel-linux-x86_64-debian-clang,1.1-7,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+path.chain,r-devel-linux-x86_64-debian-clang,0.2.0,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+ROCsurf,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+snSMART,r-devel-linux-x86_64-debian-clang,0.2.3,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+wordmap,r-devel-linux-x86_64-debian-clang,0.9.0,devel,linux,x86_64,debian-clang,NA,r87152,2024-09-17 22:50:27.204153
+SeqFeatR,r-devel-linux-x86_64-fedora-clang,0.3.1,devel,linux,x86_64,fedora-clang,NA,r87146,2024-09-17 22:50:27.204153
+shrinkTVPVAR,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r87146,2024-09-17 22:50:27.204153
