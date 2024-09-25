@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AIUQ,r-devel-linux-x86_64-debian-gcc,0.5.3,devel,linux,x86_64,debian-gcc,NA,r87189,2024-09-25 22:50:31.175914
+algaeClassify,r-devel-linux-x86_64-debian-gcc,2.0.2,devel,linux,x86_64,debian-gcc,NA,r87189,2024-09-25 22:50:31.175914
+autoGO,r-devel-linux-x86_64-debian-gcc,0.9.1,devel,linux,x86_64,debian-gcc,NA,r87189,2024-09-25 22:50:31.175914
+BOJ,r-devel-linux-x86_64-debian-gcc,0.3,devel,linux,x86_64,debian-gcc,NA,r87189,2024-09-25 22:50:31.175914
+nflverse,r-devel-linux-x86_64-debian-gcc,1.0.3,devel,linux,x86_64,debian-gcc,NA,r87189,2024-09-25 22:50:31.175914
+readrba,r-devel-linux-x86_64-debian-gcc,0.1.10,devel,linux,x86_64,debian-gcc,NA,r87189,2024-09-25 22:50:31.175914
