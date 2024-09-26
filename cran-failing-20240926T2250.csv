@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+arcgisgeocode,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r87181,2024-09-26 22:50:37.601149
+databraryr,r-devel-linux-x86_64-fedora-clang,0.6.6,devel,linux,x86_64,fedora-clang,NA,r87181,2024-09-26 22:50:37.601149
+arcgisgeocode,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r87181,2024-09-26 22:50:37.601149
+shipunov,r-devel-linux-x86_64-fedora-gcc,1.17.1,devel,linux,x86_64,fedora-gcc,NA,r87181,2024-09-26 22:50:37.601149
