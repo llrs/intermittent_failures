@@ -1,0 +1,24 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AIUQ,r-devel-linux-x86_64-debian-gcc,0.5.3,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+infoelectoral,r-devel-linux-x86_64-debian-gcc,1.0.2,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+kDGLM,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+ltertools,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+parquetize,r-devel-linux-x86_64-debian-gcc,0.5.7,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+refseqR,r-devel-linux-x86_64-debian-gcc,1.1.4,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+rpaleoclim,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+rusquant,r-devel-linux-x86_64-debian-gcc,1.1.4,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+Superpower,r-devel-linux-x86_64-debian-gcc,0.2.0,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+washex,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r87194,2024-09-28 22:50:32.538142
+databraryr,r-devel-linux-x86_64-fedora-clang,0.6.6,devel,linux,x86_64,fedora-clang,NA,r87181,2024-09-28 22:50:32.538142
+g3viz,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r87181,2024-09-28 22:50:32.538142
+covid19.analytics,r-patched-linux-x86_64,2.1.3.3,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+etwfe,r-patched-linux-x86_64,0.4.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+grandR,r-patched-linux-x86_64,0.2.5,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+infoelectoral,r-patched-linux-x86_64,1.0.2,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+khroma,r-patched-linux-x86_64,1.14.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+MetaIntegrator,r-patched-linux-x86_64,2.1.3,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+rusquant,r-patched-linux-x86_64,1.1.4,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+trelloR,r-patched-linux-x86_64,0.8.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+UniprotR,r-patched-linux-x86_64,2.4.0,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+weed,r-patched-linux-x86_64,1.1.2,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
+WhatsR,r-patched-linux-x86_64,1.0.4,patched,linux,x86_64,,4.4.1,r86980,2024-09-28 22:50:32.538142
