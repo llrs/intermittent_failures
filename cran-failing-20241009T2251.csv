@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gRaven,r-devel-linux-x86_64-fedora-clang,1.1.8,devel,linux,x86_64,fedora-clang,NA,r87204,2024-10-09 22:51:46.598147
+gRaven,r-devel-linux-x86_64-fedora-gcc,1.1.8,devel,linux,x86_64,fedora-gcc,NA,r87205,2024-10-09 22:51:46.598147
+phreeqc,r-patched-linux-x86_64,3.8.0,patched,linux,x86_64,,4.4.1,r86980,2024-10-09 22:51:46.598147
