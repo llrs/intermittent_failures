@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BENMMI,r-devel-linux-x86_64-fedora-clang,4.3-7,devel,linux,x86_64,fedora-clang,NA,r87204,2024-10-11 22:50:26.932098
+exams.forge,r-devel-linux-x86_64-fedora-clang,1.0.10,devel,linux,x86_64,fedora-clang,NA,r87204,2024-10-11 22:50:26.932098
+flowr,r-devel-linux-x86_64-fedora-clang,0.9.11,devel,linux,x86_64,fedora-clang,NA,r87204,2024-10-11 22:50:26.932098
+GSODR,r-devel-linux-x86_64-fedora-clang,4.1.2,devel,linux,x86_64,fedora-clang,NA,r87204,2024-10-11 22:50:26.932098
+washi,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r87204,2024-10-11 22:50:26.932098
