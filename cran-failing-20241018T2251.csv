@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+RTaxometrics,r-devel-linux-x86_64-debian-clang,3.2.1,devel,linux,x86_64,debian-clang,NA,r87241,2024-10-18 22:51:02.767087
+CAST,r-oldrel-windows-x86_64,1.0.2,oldrel,windows,x86_64,,4.3.3,NA,2024-10-18 22:51:02.767087
+ICDS,r-oldrel-windows-x86_64,0.1.3,oldrel,windows,x86_64,,4.3.3,NA,2024-10-18 22:51:02.767087
+IceSat2R,r-oldrel-windows-x86_64,1.0.6,oldrel,windows,x86_64,,4.3.3,NA,2024-10-18 22:51:02.767087
+LearnPCA,r-oldrel-windows-x86_64,0.3.4,oldrel,windows,x86_64,,4.3.3,NA,2024-10-18 22:51:02.767087
+LOMAR,r-oldrel-windows-x86_64,0.5.0,oldrel,windows,x86_64,,4.3.3,NA,2024-10-18 22:51:02.767087
+REDCapR,r-oldrel-windows-x86_64,1.2.0,oldrel,windows,x86_64,,4.3.3,NA,2024-10-18 22:51:02.767087
+RRBoost,r-oldrel-windows-x86_64,0.1,oldrel,windows,x86_64,,4.3.3,NA,2024-10-18 22:51:02.767087
