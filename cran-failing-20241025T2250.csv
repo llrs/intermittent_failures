@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bartMan,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-25 22:50:39.746492
+bioregion,r-devel-linux-x86_64-fedora-clang,1.1.1,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-25 22:50:39.746492
+gratia,r-devel-linux-x86_64-fedora-clang,0.9.2,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-25 22:50:39.746492
+sequoia,r-devel-linux-x86_64-fedora-clang,2.11.2,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-25 22:50:39.746492
+gratia,r-devel-linux-x86_64-fedora-gcc,0.9.2,devel,linux,x86_64,fedora-gcc,NA,r87265,2024-10-25 22:50:39.746492
