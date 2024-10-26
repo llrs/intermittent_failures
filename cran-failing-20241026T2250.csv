@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ogrdbstats,r-devel-linux-x86_64-fedora-gcc,0.5.0,devel,linux,x86_64,fedora-gcc,NA,r87265,2024-10-26 22:50:10.61588
+TOmicsVis,r-devel-linux-x86_64-fedora-gcc,2.0.0,devel,linux,x86_64,fedora-gcc,NA,r87265,2024-10-26 22:50:10.61588
+Xplortext,r-devel-linux-x86_64-fedora-gcc,1.5.3,devel,linux,x86_64,fedora-gcc,NA,r87265,2024-10-26 22:50:10.61588
