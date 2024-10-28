@@ -1,0 +1,26 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AIUQ,r-devel-linux-x86_64-debian-gcc,0.5.3,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+BIOMASS,r-devel-linux-x86_64-debian-gcc,2.1.11,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+ColOpenData,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+etwfe,r-devel-linux-x86_64-debian-gcc,0.4.0,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+fedregs,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+galah,r-devel-linux-x86_64-debian-gcc,2.0.2,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+OPI,r-devel-linux-x86_64-debian-gcc,3.0.2,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+read.gt3x,r-devel-linux-x86_64-debian-gcc,1.2.0,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+TNRS,r-devel-linux-x86_64-debian-gcc,0.3.6,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+weyl,r-devel-linux-x86_64-debian-gcc,0.0-5,devel,linux,x86_64,debian-gcc,NA,r87273,2024-10-28 22:51:15.39986
+clusterCrit,r-devel-linux-x86_64-fedora-clang,1.3.0,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+dfsaneacc,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+fangs,r-devel-linux-x86_64-fedora-clang,0.2.17,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+grpnet,r-devel-linux-x86_64-fedora-clang,0.6,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+HDtweedie,r-devel-linux-x86_64-fedora-clang,1.2,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+HiddenMarkov,r-devel-linux-x86_64-fedora-clang,1.8-13,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+ISOcodes,r-devel-linux-x86_64-fedora-clang,2024.02.12,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+numOSL,r-devel-linux-x86_64-fedora-clang,2.8,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+pathfindR.data,r-devel-linux-x86_64-fedora-clang,2.1.0,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+PropClust,r-devel-linux-x86_64-fedora-clang,1.4-7,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+PRTree,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+salso,r-devel-linux-x86_64-fedora-clang,0.3.42,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+sylcount,r-devel-linux-x86_64-fedora-clang,0.2-6,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+x13binary,r-devel-linux-x86_64-fedora-clang,1.1.61,devel,linux,x86_64,fedora-clang,NA,r87265,2024-10-28 22:51:15.39986
+future.mirai,r-devel-linux-x86_64-fedora-gcc,0.2.2,devel,linux,x86_64,fedora-gcc,NA,r87265,2024-10-28 22:51:15.39986
