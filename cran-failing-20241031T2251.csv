@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+minired,r-oldrel-macos-x86_64,1.0.0,oldrel,macos,x86_64,,4.3.2,NA,2024-10-31 22:51:02.959745
+aebdata,r-patched-linux-x86_64,0.1.1,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+ColOpenData,r-patched-linux-x86_64,0.3.0,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+ebreg,r-patched-linux-x86_64,0.1.3,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+ogrdbstats,r-patched-linux-x86_64,0.5.0,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+refseqR,r-patched-linux-x86_64,1.1.4,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+TOmicsVis,r-patched-linux-x86_64,2.0.0,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+webdav,r-patched-linux-x86_64,0.1.1,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+Xplortext,r-patched-linux-x86_64,1.5.3,patched,linux,x86_64,,4.4.1,r86980,2024-10-31 22:51:02.959745
+minired,r-release-macos-x86_64,1.0.0,release,macos,x86_64,,4.4.0,NA,2024-10-31 22:51:02.959745
