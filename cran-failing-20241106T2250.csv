@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+modehunt,r-devel-linux-x86_64-fedora-clang,1.0.7,devel,linux,x86_64,fedora-clang,NA,r87265,2024-11-06 22:50:13.213654
+cTMed,r-oldrel-macos-arm64,1.0.1,oldrel,macos,arm64,,4.3.1,NA,2024-11-06 22:50:13.213654
+ctsemOMX,r-oldrel-macos-arm64,1.0.6,oldrel,macos,arm64,,4.3.1,NA,2024-11-06 22:50:13.213654
