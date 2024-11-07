@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+fr,r-devel-linux-x86_64-fedora-clang,0.5.1,devel,linux,x86_64,fedora-clang,NA,r87265,2024-11-07 22:50:54.035427
+galah,r-devel-linux-x86_64-fedora-clang,2.0.2,devel,linux,x86_64,fedora-clang,NA,r87265,2024-11-07 22:50:54.035427
+cTMed,r-oldrel-macos-arm64,1.0.1,oldrel,macos,arm64,,4.3.1,NA,2024-11-07 22:50:54.035427
+ctsemOMX,r-oldrel-macos-arm64,1.0.6,oldrel,macos,arm64,,4.3.1,NA,2024-11-07 22:50:54.035427
