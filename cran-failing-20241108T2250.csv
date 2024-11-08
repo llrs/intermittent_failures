@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bayesMig,r-devel-linux-x86_64-fedora-clang,0.4-6,devel,linux,x86_64,fedora-clang,NA,r87265,2024-11-08 22:50:29.91077
+geoidep,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r87265,2024-11-08 22:50:29.91077
+Rcssplot,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r87265,2024-11-08 22:50:29.91077
+bayesMig,r-devel-linux-x86_64-fedora-gcc,0.4-6,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+elect,r-devel-linux-x86_64-fedora-gcc,1.2,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+fic,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+geoidep,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+hesim,r-devel-linux-x86_64-fedora-gcc,0.5.5,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+icmstate,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+markovchain,r-devel-linux-x86_64-fedora-gcc,0.9.5,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+Rcssplot,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-08 22:50:29.91077
+ctsem,r-oldrel-macos-arm64,3.10.1,oldrel,macos,arm64,,4.3.1,NA,2024-11-08 22:50:29.91077
+ceas,r-release-macos-arm64,1.0.0,release,macos,arm64,,4.4.0,r86238,2024-11-08 22:50:29.91077
