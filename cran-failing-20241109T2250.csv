@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+compHclust,r-devel-linux-x86_64-fedora-gcc,1.0-3,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-09 22:50:42.708662
+fastdigest,r-devel-linux-x86_64-fedora-gcc,0.6-4,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-09 22:50:42.708662
+interpret,r-devel-linux-x86_64-fedora-gcc,0.1.33,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-09 22:50:42.708662
+modehunt,r-devel-linux-x86_64-fedora-gcc,1.0.7,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-09 22:50:42.708662
+pwrFDR,r-devel-linux-x86_64-fedora-gcc,2.8.9,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-09 22:50:42.708662
+topmodel,r-devel-linux-x86_64-fedora-gcc,0.7.5,devel,linux,x86_64,fedora-gcc,NA,r87285,2024-11-09 22:50:42.708662
