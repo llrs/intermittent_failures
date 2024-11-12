@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+greta.dynamics,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r87316,2024-11-12 22:50:19.353662
+greta.gp,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r87316,2024-11-12 22:50:19.353662
+greta.dynamics,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r87315,2024-11-12 22:50:19.353662
+greta.gp,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r87315,2024-11-12 22:50:19.353662
+InteractionPoweR,r-devel-linux-x86_64-fedora-gcc,0.2.2,devel,linux,x86_64,fedora-gcc,NA,r87315,2024-11-12 22:50:19.353662
+pssmooth,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r87315,2024-11-12 22:50:19.353662
+autogam,r-oldrel-macos-arm64,0.0.1,oldrel,macos,arm64,,4.3.1,NA,2024-11-12 22:50:19.353662
+rjaf,r-release-macos-arm64,0.1.0,release,macos,arm64,,4.4.0,r86238,2024-11-12 22:50:19.353662
+Rpoppler,r-release-windows-x86_64,0.1-3,release,windows,x86_64,,4.4.2,NA,2024-11-12 22:50:19.353662
