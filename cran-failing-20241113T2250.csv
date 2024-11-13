@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+InteractionPoweR,r-devel-linux-x86_64-fedora-clang,0.2.2,devel,linux,x86_64,fedora-clang,NA,r87316,2024-11-13 22:50:59.302848
+pssmooth,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r87316,2024-11-13 22:50:59.302848
+autogam,r-oldrel-macos-arm64,0.0.1,oldrel,macos,arm64,,4.3.1,NA,2024-11-13 22:50:59.302848
+modehunt,r-patched-linux-x86_64,1.0.7,patched,linux,x86_64,,4.4.1,r86980,2024-11-13 22:50:59.302848
