@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+fedregs,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r87338,2024-11-17 22:50:18.384634
+Pandora,r-devel-linux-x86_64-debian-gcc,24.2.0,devel,linux,x86_64,debian-gcc,NA,r87338,2024-11-17 22:50:18.384634
+valet,r-devel-linux-x86_64-debian-gcc,0.9.0,devel,linux,x86_64,debian-gcc,NA,r87338,2024-11-17 22:50:18.384634
+wordmap,r-devel-linux-x86_64-debian-gcc,0.9.1,devel,linux,x86_64,debian-gcc,NA,r87338,2024-11-17 22:50:18.384634
