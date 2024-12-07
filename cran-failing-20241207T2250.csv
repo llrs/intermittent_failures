@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+appnn,r-devel-linux-x86_64-debian-clang,1.0-0,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+AssocAFC,r-devel-linux-x86_64-debian-clang,1.0.2,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+CHFF,r-devel-linux-x86_64-debian-clang,0.1.0,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+CompareTests,r-devel-linux-x86_64-debian-clang,1.2,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+Dodge,r-devel-linux-x86_64-debian-clang,0.9-2,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+HMMpa,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+MultAlloc,r-devel-linux-x86_64-debian-clang,1.2,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+NLRoot,r-devel-linux-x86_64-debian-clang,1.0,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+pco,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+ridittools,r-devel-linux-x86_64-debian-clang,0.1,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+RPPairwiseDesign,r-devel-linux-x86_64-debian-clang,1.0,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+Simile,r-devel-linux-x86_64-debian-clang,1.3.3,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+suRtex,r-devel-linux-x86_64-debian-clang,0.9,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+XRSCC,r-devel-linux-x86_64-debian-clang,0.1,devel,linux,x86_64,debian-clang,NA,r87420,2024-12-07 22:50:14.568245
+atime,r-devel-linux-x86_64-fedora-clang,2024.11.29,devel,linux,x86_64,fedora-clang,NA,r87365,2024-12-07 22:50:14.568245
+GDILM.SEIRS,r-oldrel-macos-arm64,0.0.1,oldrel,macos,arm64,,4.3.1,NA,2024-12-07 22:50:14.568245
