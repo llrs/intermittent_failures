@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Rmpi,r-devel-linux-x86_64-debian-clang,0.7-2.1,devel,linux,x86_64,debian-clang,NA,r87428,2024-12-10 22:50:13.753585
+epiCo,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-10 22:50:13.753585
+madrat,r-devel-linux-x86_64-fedora-gcc,3.6.4,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-10 22:50:13.753585
+vines,r-devel-linux-x86_64-fedora-gcc,1.1.5,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-10 22:50:13.753585
+xpose,r-devel-linux-x86_64-fedora-gcc,0.4.18,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-10 22:50:13.753585
