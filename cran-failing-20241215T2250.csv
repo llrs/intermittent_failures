@@ -1,0 +1,16 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AIUQ,r-devel-linux-x86_64-debian-gcc,0.5.3,devel,linux,x86_64,debian-gcc,NA,r87441,2024-12-15 22:50:18.776473
+detrendr,r-devel-linux-x86_64-debian-gcc,0.6.15,devel,linux,x86_64,debian-gcc,NA,r87441,2024-12-15 22:50:18.776473
+netdiffuseR,r-devel-linux-x86_64-debian-gcc,1.22.6,devel,linux,x86_64,debian-gcc,NA,r87441,2024-12-15 22:50:18.776473
+parabar,r-devel-linux-x86_64-debian-gcc,1.3.0,devel,linux,x86_64,debian-gcc,NA,r87441,2024-12-15 22:50:18.776473
+tidyfinance,r-devel-linux-x86_64-debian-gcc,0.4.2,devel,linux,x86_64,debian-gcc,NA,r87441,2024-12-15 22:50:18.776473
+nlmixr2extra,r-devel-linux-x86_64-fedora-clang,3.0.1,devel,linux,x86_64,fedora-clang,NA,r87437,2024-12-15 22:50:18.776473
+nlmixr2lib,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r87437,2024-12-15 22:50:18.776473
+posologyr,r-devel-linux-x86_64-fedora-clang,1.2.7,devel,linux,x86_64,fedora-clang,NA,r87437,2024-12-15 22:50:18.776473
+nlmixr2extra,r-devel-linux-x86_64-fedora-gcc,3.0.1,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-15 22:50:18.776473
+nlmixr2lib,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-15 22:50:18.776473
+posologyr,r-devel-linux-x86_64-fedora-gcc,1.2.7,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-15 22:50:18.776473
+AnnoProbe,r-release-linux-x86_64,0.1.7,release,linux,x86_64,,4.4.2,NA,2024-12-15 22:50:18.776473
+exams.forge,r-release-linux-x86_64,1.0.10,release,linux,x86_64,,4.4.2,NA,2024-12-15 22:50:18.776473
+RegrCoeffsExplorer,r-release-linux-x86_64,1.1.0,release,linux,x86_64,,4.4.2,NA,2024-12-15 22:50:18.776473
+rhoR,r-release-linux-x86_64,1.3.0.3,release,linux,x86_64,,4.4.2,NA,2024-12-15 22:50:18.776473
