@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+shinyMixR,r-devel-linux-x86_64-fedora-clang,0.5.0,devel,linux,x86_64,fedora-clang,NA,r87437,2024-12-16 22:50:57.370294
+ggfields,r-devel-linux-x86_64-fedora-gcc,0.0.6,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-16 22:50:57.370294
+shinyMixR,r-devel-linux-x86_64-fedora-gcc,0.5.0,devel,linux,x86_64,fedora-gcc,NA,r87423,2024-12-16 22:50:57.370294
