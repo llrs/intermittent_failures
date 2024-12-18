@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AutoWMM,r-patched-linux-x86_64,1.0.1,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+bayesrules,r-patched-linux-x86_64,0.0.2,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+CAST,r-patched-linux-x86_64,1.0.2,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+fucom,r-patched-linux-x86_64,0.0.2,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+gmfd,r-patched-linux-x86_64,1.0.1,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+networkscaleup,r-patched-linux-x86_64,0.1-2,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+openalexR,r-patched-linux-x86_64,1.4.0,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+rasciidoc,r-patched-linux-x86_64,4.1.1,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
+rusquant,r-patched-linux-x86_64,1.1.4,patched,linux,x86_64,,4.4.2,r87442,2024-12-18 22:50:31.066293
