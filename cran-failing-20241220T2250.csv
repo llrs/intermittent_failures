@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+inlamemi,r-release-macos-arm64,1.1.0,release,macos,arm64,,4.4.0,r86238,2024-12-20 22:50:30.93484
+sim.BA,r-release-macos-arm64,0.1.0,release,macos,arm64,,4.4.0,r86238,2024-12-20 22:50:30.93484
+sonicscrewdriver,r-release-macos-arm64,0.0.7,release,macos,arm64,,4.4.0,r86238,2024-12-20 22:50:30.93484
