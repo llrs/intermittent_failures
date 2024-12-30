@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+describedata,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r87452,2024-12-30 22:50:17.341561
+fscaret,r-devel-linux-x86_64-fedora-gcc,0.9.4.4,devel,linux,x86_64,fedora-gcc,NA,r87452,2024-12-30 22:50:17.341561
+webdav,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r87452,2024-12-30 22:50:17.341561
+wallace,r-release-macos-arm64,2.1.3,release,macos,arm64,,4.4.0,r86238,2024-12-30 22:50:17.341561
