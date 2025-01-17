@@ -1,0 +1,15 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CRM,r-devel-linux-x86_64-debian-clang,1.2.4,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+devEMF,r-devel-linux-x86_64-debian-clang,4.5,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+float,r-devel-linux-x86_64-debian-clang,0.3-2,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+ncdf4,r-devel-linux-x86_64-debian-clang,1.23,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+pbdZMQ,r-devel-linux-x86_64-debian-clang,0.3-13,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+pcaL1,r-devel-linux-x86_64-debian-clang,1.5.7,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+PearsonDS,r-devel-linux-x86_64-debian-clang,1.3.1,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+PKI,r-devel-linux-x86_64-debian-clang,0.1-14,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+proj4,r-devel-linux-x86_64-debian-clang,1.0-14,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+Rcplex,r-devel-linux-x86_64-debian-clang,0.3-6,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+Rcsdp,r-devel-linux-x86_64-debian-clang,0.1.57.5,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+RDieHarder,r-devel-linux-x86_64-debian-clang,0.2.6,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+Rdsdp,r-devel-linux-x86_64-debian-clang,1.0.5.2.1,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
+udunits2,r-devel-linux-x86_64-debian-clang,0.13.2.1,devel,linux,x86_64,debian-clang,NA,r87581,2025-01-17 22:50:32.236075
