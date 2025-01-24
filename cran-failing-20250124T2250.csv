@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+SurvLong,r-devel-linux-x86_64-fedora-gcc,1.4,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-24 22:50:30.57015
+intervals,r-release-macos-arm64,0.15.5,release,macos,arm64,,4.4.0,r86238,2025-01-24 22:50:30.57015
+rJava,r-release-macos-arm64,1.0-11,release,macos,arm64,,4.4.0,r86238,2025-01-24 22:50:30.57015
+Rsymphony,r-release-macos-arm64,0.1-33,release,macos,arm64,,4.4.0,r86238,2025-01-24 22:50:30.57015
+stringi,r-release-macos-arm64,1.8.4,release,macos,arm64,,4.4.0,r86238,2025-01-24 22:50:30.57015
