@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+politicsR,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-26 22:51:09.728959
+redcas,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-26 22:51:09.728959
+spedecon,r-devel-linux-x86_64-fedora-gcc,0.1,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-26 22:51:09.728959
+BatchGetSymbols,r-release-linux-x86_64,2.6.4,release,linux,x86_64,,4.4.2,NA,2025-01-26 22:51:09.728959
+asylum,r-release-macos-arm64,1.1.2,release,macos,arm64,,4.4.0,r86238,2025-01-26 22:51:09.728959
+collegeScorecard,r-release-macos-arm64,0.1.0,release,macos,arm64,,4.4.0,r86238,2025-01-26 22:51:09.728959
+intervals,r-release-macos-arm64,0.15.5,release,macos,arm64,,4.4.0,r86238,2025-01-26 22:51:09.728959
+JavaGD,r-release-macos-arm64,0.6-5,release,macos,arm64,,4.4.0,r86238,2025-01-26 22:51:09.728959
+stringi,r-release-macos-arm64,1.8.4,release,macos,arm64,,4.4.0,r86238,2025-01-26 22:51:09.728959
