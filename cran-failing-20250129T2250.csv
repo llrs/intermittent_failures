@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+amadeus,r-devel-linux-x86_64-fedora-gcc,1.2.3,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-29 22:50:26.704021
+analogue,r-devel-linux-x86_64-fedora-gcc,0.17-7,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-29 22:50:26.704021
+atrrr,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-29 22:50:26.704021
+bbw,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-29 22:50:26.704021
+card,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-29 22:50:26.704021
+cocorresp,r-devel-linux-x86_64-fedora-gcc,0.4-5,devel,linux,x86_64,fedora-gcc,NA,r87593,2025-01-29 22:50:26.704021
