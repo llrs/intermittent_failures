@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Umpire,r-devel-linux-x86_64-fedora-clang,2.0.10,devel,linux,x86_64,fedora-clang,NA,r87668,2025-02-02 22:50:23.939869
+box.lsp,r-release-linux-x86_64,0.1.3,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+geoAr,r-release-linux-x86_64,1.0.0,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+mongolite,r-release-linux-x86_64,3.0.0,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+ndtv,r-release-linux-x86_64,0.13.4,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+optimall,r-release-linux-x86_64,1.1.1,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+restoptr,r-release-linux-x86_64,1.0.6,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+ScottKnott,r-release-linux-x86_64,1.3-2,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+srppp,r-release-linux-x86_64,1.0.1,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+TukeyC,r-release-linux-x86_64,1.3-42,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+viralmodels,r-release-linux-x86_64,1.3.1,release,linux,x86_64,,4.4.2,NA,2025-02-02 22:50:23.939869
+tsbox,r-release-macos-arm64,0.4.2,release,macos,arm64,,4.4.0,r86238,2025-02-02 22:50:23.939869
