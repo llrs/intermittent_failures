@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+detrendr,r-devel-linux-x86_64-debian-gcc,0.6.15,devel,linux,x86_64,debian-gcc,NA,r87683,2025-02-05 22:50:39.483337
+JGL,r-devel-linux-x86_64-debian-gcc,2.3.2,devel,linux,x86_64,debian-gcc,NA,r87683,2025-02-05 22:50:39.483337
+parabar,r-devel-linux-x86_64-debian-gcc,1.4.2,devel,linux,x86_64,debian-gcc,NA,r87683,2025-02-05 22:50:39.483337
+microbial,r-devel-linux-x86_64-fedora-gcc,0.0.21,devel,linux,x86_64,fedora-gcc,NA,r87669,2025-02-05 22:50:39.483337
