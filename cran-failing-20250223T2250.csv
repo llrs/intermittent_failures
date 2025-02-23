@@ -1,0 +1,22 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+teal.modules.general,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r87732,2025-02-23 22:50:17.901881
+teal.modules.clinical,r-devel-linux-x86_64-fedora-gcc,0.9.1,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-02-23 22:50:17.901881
+teal.modules.general,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-02-23 22:50:17.901881
+teal.modules.clinical,r-devel-macos-x86_64,0.9.1,devel,macos,x86_64,,NA,r87627,2025-02-23 22:50:17.901881
+teal.modules.general,r-devel-macos-x86_64,0.3.0,devel,macos,x86_64,,NA,r87627,2025-02-23 22:50:17.901881
+akc,r-release-linux-x86_64,0.9.9,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+DataPackageR,r-release-linux-x86_64,0.16.1,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+dodgr,r-release-linux-x86_64,0.4.1,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+easycsv,r-release-linux-x86_64,1.0.8,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+exams.forge,r-release-linux-x86_64,1.0.10,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+gtreg,r-release-linux-x86_64,0.4.0,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+haploR,r-release-linux-x86_64,4.0.7,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+hilldiv,r-release-linux-x86_64,1.5.1,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+mapping,r-release-linux-x86_64,1.4.1,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+neotoma2,r-release-linux-x86_64,1.0.5,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+ows4R,r-release-linux-x86_64,0.4,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+sentopics,r-release-linux-x86_64,0.7.4,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+simDAG,r-release-linux-x86_64,0.2.1,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+TestGenerator,r-release-linux-x86_64,0.3.3,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+TreatmentPatterns,r-release-linux-x86_64,3.0.0,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
+wxgenR,r-release-linux-x86_64,1.4.2,release,linux,x86_64,,4.4.2,NA,2025-02-23 22:50:17.901881
