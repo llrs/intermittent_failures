@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+defineOptions,r-devel-linux-x86_64-debian-clang,0.9,devel,linux,x86_64,debian-clang,NA,r87830,2025-03-01 22:51:02.148763
+pipebind,r-devel-linux-x86_64-debian-clang,0.1.2,devel,linux,x86_64,debian-clang,NA,r87830,2025-03-01 22:51:02.148763
+pipebind,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-01 22:51:02.148763
+pipebind,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-01 22:51:02.148763
