@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BayesGP,r-devel-linux-x86_64-fedora-clang,0.1.3,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-02 22:50:13.909001
+Rbeast,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-02 22:50:13.909001
+RSclient,r-devel-linux-x86_64-fedora-gcc,0.7-10,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-02 22:50:13.909001
