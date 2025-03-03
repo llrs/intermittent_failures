@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+expint,r-devel-linux-x86_64-fedora-clang,0.1-8,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-03 22:51:09.362346
+gsl,r-devel-linux-x86_64-fedora-clang,2.1-8,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-03 22:51:09.362346
+Rbeast,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-03 22:51:09.362346
+RSclient,r-devel-linux-x86_64-fedora-clang,0.7-10,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-03 22:51:09.362346
+expint,r-devel-linux-x86_64-fedora-gcc,0.1-8,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-03 22:51:09.362346
+gsl,r-devel-linux-x86_64-fedora-gcc,2.1-8,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-03 22:51:09.362346
