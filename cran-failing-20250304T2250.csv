@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+expint,r-devel-linux-x86_64-debian-clang,0.1-8,devel,linux,x86_64,debian-clang,NA,r87868,2025-03-04 22:50:47.674974
+gsl,r-devel-linux-x86_64-debian-clang,2.1-8,devel,linux,x86_64,debian-clang,NA,r87868,2025-03-04 22:50:47.674974
+phreeqc,r-devel-linux-x86_64-debian-clang,3.8.7,devel,linux,x86_64,debian-clang,NA,r87868,2025-03-04 22:50:47.674974
+Rbeast,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r87868,2025-03-04 22:50:47.674974
+RSclient,r-devel-linux-x86_64-debian-clang,0.7-10,devel,linux,x86_64,debian-clang,NA,r87868,2025-03-04 22:50:47.674974
