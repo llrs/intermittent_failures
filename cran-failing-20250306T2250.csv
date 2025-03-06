@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+kit,r-devel-linux-x86_64-fedora-clang,0.0.19,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-06 22:50:25.611924
+kit,r-devel-linux-x86_64-fedora-gcc,0.0.19,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-06 22:50:25.611924
+teal.modules.clinical,r-oldrel-macos-arm64,0.10.0,oldrel,macos,arm64,,4.3.1,NA,2025-03-06 22:50:25.611924
