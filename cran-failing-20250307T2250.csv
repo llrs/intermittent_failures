@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+kit,r-devel-linux-x86_64-debian-clang,0.0.19,devel,linux,x86_64,debian-clang,NA,r87891,2025-03-07 22:50:12.637158
+splusTimeDate,r-devel-linux-x86_64-debian-clang,2.5.8,devel,linux,x86_64,debian-clang,NA,r87891,2025-03-07 22:50:12.637158
+vistla,r-devel-linux-x86_64-debian-clang,2.1.1,devel,linux,x86_64,debian-clang,NA,r87891,2025-03-07 22:50:12.637158
+splusTimeDate,r-devel-linux-x86_64-fedora-clang,2.5.8,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-07 22:50:12.637158
+splusTimeDate,r-devel-linux-x86_64-fedora-gcc,2.5.8,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-07 22:50:12.637158
+vistla,r-devel-linux-x86_64-fedora-gcc,2.1.1,devel,linux,x86_64,fedora-gcc,NA,r87716,2025-03-07 22:50:12.637158
