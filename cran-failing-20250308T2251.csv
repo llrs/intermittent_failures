@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+divvy,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-08 22:51:03.786551
+happign,r-devel-linux-x86_64-fedora-clang,0.3.2,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-08 22:51:03.786551
+manydata,r-devel-linux-x86_64-fedora-clang,0.9.3,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-08 22:51:03.786551
+Rdistance,r-devel-linux-x86_64-fedora-clang,3.0.0,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-08 22:51:03.786551
+vein,r-devel-linux-x86_64-fedora-clang,1.1.3,devel,linux,x86_64,fedora-clang,NA,r87732,2025-03-08 22:51:03.786551
