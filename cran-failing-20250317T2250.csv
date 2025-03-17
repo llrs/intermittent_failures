@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+fangs,r-devel-linux-x86_64-fedora-gcc,0.2.17,devel,linux,x86_64,fedora-gcc,NA,r87917,2025-03-17 22:50:22.997976
+hellorust,r-devel-linux-x86_64-fedora-gcc,1.2.2,devel,linux,x86_64,fedora-gcc,NA,r87917,2025-03-17 22:50:22.997976
+lpSolveAPI,r-devel-linux-x86_64-fedora-gcc,5.5.2.0-17.12,devel,linux,x86_64,fedora-gcc,NA,r87917,2025-03-17 22:50:22.997976
+salso,r-devel-linux-x86_64-fedora-gcc,0.3.42,devel,linux,x86_64,fedora-gcc,NA,r87917,2025-03-17 22:50:22.997976
