@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+LibOPF,r-devel-linux-x86_64-fedora-clang,2.6.2,devel,linux,x86_64,fedora-clang,NA,r87967,2025-03-19 22:50:54.216696
+Rcsdp,r-devel-linux-x86_64-fedora-clang,0.1.57.5,devel,linux,x86_64,fedora-clang,NA,r87967,2025-03-19 22:50:54.216696
+Rdsdp,r-devel-linux-x86_64-fedora-clang,1.0.5.2.1,devel,linux,x86_64,fedora-clang,NA,r87967,2025-03-19 22:50:54.216696
