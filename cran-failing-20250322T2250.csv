@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AlgDesign,r-devel-linux-x86_64-fedora-clang,1.2.1.1,devel,linux,x86_64,fedora-clang,NA,r87967,2025-03-22 22:50:25.084985
+RJSONIO,r-devel-linux-x86_64-fedora-clang,1.3-1.9,devel,linux,x86_64,fedora-clang,NA,r87967,2025-03-22 22:50:25.084985
+SplitSoftening,r-devel-linux-x86_64-fedora-clang,2.1-1,devel,linux,x86_64,fedora-clang,NA,r87967,2025-03-22 22:50:25.084985
+fangs,r-patched-linux-x86_64,0.2.17,patched,linux,x86_64,,4.5.0,r88016,2025-03-22 22:50:25.084985
+LibOPF,r-patched-linux-x86_64,2.6.2,patched,linux,x86_64,,4.5.0,r88016,2025-03-22 22:50:25.084985
+lpSolveAPI,r-patched-linux-x86_64,5.5.2.0-17.12,patched,linux,x86_64,,4.5.0,r88016,2025-03-22 22:50:25.084985
+Rcsdp,r-patched-linux-x86_64,0.1.57.5,patched,linux,x86_64,,4.5.0,r88016,2025-03-22 22:50:25.084985
+Rdsdp,r-patched-linux-x86_64,1.0.5.2.1,patched,linux,x86_64,,4.5.0,r88016,2025-03-22 22:50:25.084985
+salso,r-patched-linux-x86_64,0.3.42,patched,linux,x86_64,,4.5.0,r88016,2025-03-22 22:50:25.084985
+BeeBDC,r-release-macos-arm64,1.2.1,release,macos,arm64,,4.4.0,r86238,2025-03-22 22:50:25.084985
+froggeR,r-release-macos-arm64,0.4.0,release,macos,arm64,,4.4.0,r86238,2025-03-22 22:50:25.084985
