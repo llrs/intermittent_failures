@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+rswipl,r-devel-macos-arm64,9.3.21,devel,macos,arm64,,NA,r87521,2025-03-24 22:50:18.185063
+rswipl,r-oldrel-macos-arm64,9.3.21,oldrel,macos,arm64,,4.3.1,NA,2025-03-24 22:50:18.185063
+rswipl,r-release-macos-arm64,9.3.21,release,macos,arm64,,4.4.0,r86238,2025-03-24 22:50:18.185063
