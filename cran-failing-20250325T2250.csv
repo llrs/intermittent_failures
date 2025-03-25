@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AlgDesign,r-devel-linux-x86_64-debian-clang,1.2.1.1,devel,linux,x86_64,debian-clang,NA,r88038,2025-03-25 22:50:58.763303
+SplitSoftening,r-devel-linux-x86_64-debian-clang,2.1-1,devel,linux,x86_64,debian-clang,NA,r88038,2025-03-25 22:50:58.763303
+bazar,r-devel-linux-x86_64-fedora-gcc,1.0.11,devel,linux,x86_64,fedora-gcc,NA,r88016,2025-03-25 22:50:58.763303
