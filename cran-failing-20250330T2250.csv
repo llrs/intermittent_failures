@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+episcan,r-devel-linux-x86_64-fedora-gcc,0.0.1,devel,linux,x86_64,fedora-gcc,NA,r88016,2025-03-30 22:50:48.470485
+gdistance,r-devel-linux-x86_64-fedora-gcc,1.6.4,devel,linux,x86_64,fedora-gcc,NA,r88016,2025-03-30 22:50:48.470485
+resevol,r-devel-linux-x86_64-fedora-gcc,0.3.4.0,devel,linux,x86_64,fedora-gcc,NA,r88016,2025-03-30 22:50:48.470485
+tinycodet,r-devel-linux-x86_64-fedora-gcc,0.5.4,devel,linux,x86_64,fedora-gcc,NA,r88016,2025-03-30 22:50:48.470485
+chromseq,r-release-linux-x86_64,0.1.3,release,linux,x86_64,,4.4.3,NA,2025-03-30 22:50:48.470485
