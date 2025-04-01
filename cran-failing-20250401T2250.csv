@@ -1,0 +1,21 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AlgDesign,r-devel-macos-arm64,1.2.1.1,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+aster,r-devel-macos-arm64,1.1-3,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+expint,r-devel-macos-arm64,0.1-8,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+gsl,r-devel-macos-arm64,2.1-8,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+kit,r-devel-macos-arm64,0.0.19,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+LibOPF,r-devel-macos-arm64,2.6.2,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+lpSolveAPI,r-devel-macos-arm64,5.5.2.0-17.12,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+partsm,r-devel-macos-arm64,1.1-3,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+pipebind,r-devel-macos-arm64,0.1.2,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+POD,r-devel-macos-arm64,1.2.0,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+politicsR,r-devel-macos-arm64,0.1.0,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+Rbeast,r-devel-macos-arm64,1.0.1,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+Rcsdp,r-devel-macos-arm64,0.1.57.5,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+Rdsdp,r-devel-macos-arm64,1.0.5.2.1,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+redcas,r-devel-macos-arm64,0.1.1,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+RSclient,r-devel-macos-arm64,0.7-10,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+spedecon,r-devel-macos-arm64,0.1,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+splusTimeDate,r-devel-macos-arm64,2.5.8,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+SurvLong,r-devel-macos-arm64,1.4,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
+vistla,r-devel-macos-arm64,2.1.1,devel,macos,arm64,,NA,r87521,2025-04-01 22:50:42.330407
