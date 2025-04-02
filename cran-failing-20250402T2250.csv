@@ -1,0 +1,16 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AlgDesign,r-devel-macos-x86_64,1.2.1.1,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+aster,r-devel-macos-x86_64,1.1-3,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+expint,r-devel-macos-x86_64,0.1-8,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+gsl,r-devel-macos-x86_64,2.1-8,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+kit,r-devel-macos-x86_64,0.0.19,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+LibOPF,r-devel-macos-x86_64,2.6.2,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+lpSolveAPI,r-devel-macos-x86_64,5.5.2.0-17.12,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+pipebind,r-devel-macos-x86_64,0.1.2,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+POD,r-devel-macos-x86_64,1.2.0,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+Rbeast,r-devel-macos-x86_64,1.0.1,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+Rcsdp,r-devel-macos-x86_64,0.1.57.5,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+Rdsdp,r-devel-macos-x86_64,1.0.5.2.1,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+RSclient,r-devel-macos-x86_64,0.7-10,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+splusTimeDate,r-devel-macos-x86_64,2.5.8,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
+vistla,r-devel-macos-x86_64,2.1.1,devel,macos,x86_64,,NA,r87627,2025-04-02 22:50:42.563368
