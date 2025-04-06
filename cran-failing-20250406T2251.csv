@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gghourglass,r-devel-macos-arm64,0.0.2,devel,macos,arm64,,4.5.0,r88069,2025-04-06 22:51:23.537373
+gghourglass,r-oldrel-macos-arm64,0.0.2,oldrel,macos,arm64,,4.3.1,NA,2025-04-06 22:51:23.537373
+EDFtest,r-release-linux-x86_64,0.1.0,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+gamlss.spatial,r-release-linux-x86_64,3.0-2,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+git2rdata,r-release-linux-x86_64,0.5.0,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+netdiffuseR,r-release-linux-x86_64,1.22.6,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+PortalHacienda,r-release-linux-x86_64,0.1.7,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+rankCorr,r-release-linux-x86_64,1.0.2,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+RcensusPkg,r-release-linux-x86_64,0.1.4,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+semsfa,r-release-linux-x86_64,1.1,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+serosv,r-release-linux-x86_64,1.0.1,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+simDAG,r-release-linux-x86_64,0.3.0,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+trendeval,r-release-linux-x86_64,0.1.0,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+waywiser,r-release-linux-x86_64,0.6.2,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+webdav,r-release-linux-x86_64,0.1.4,release,linux,x86_64,,4.4.3,NA,2025-04-06 22:51:23.537373
+gghourglass,r-release-macos-arm64,0.0.2,release,macos,arm64,,4.4.0,r86238,2025-04-06 22:51:23.537373
