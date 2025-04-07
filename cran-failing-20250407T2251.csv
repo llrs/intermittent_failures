@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dexterMST,r-devel-linux-x86_64-fedora-clang,0.9.6,devel,linux,x86_64,fedora-clang,NA,r88047,2025-04-07 22:51:35.927625
+vosonSML,r-devel-linux-x86_64-fedora-clang,0.32.7,devel,linux,x86_64,fedora-clang,NA,r88047,2025-04-07 22:51:35.927625
+waywiser,r-devel-linux-x86_64-fedora-clang,0.6.2,devel,linux,x86_64,fedora-clang,NA,r88047,2025-04-07 22:51:35.927625
+pbdMPI,r-release-macos-arm64,0.5-2,release,macos,arm64,,4.4.0,r86238,2025-04-07 22:51:35.927625
