@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+abn,r-devel-linux-x86_64-fedora-clang,3.1.1,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-17 22:49:54.900258
+BayesChange,r-devel-linux-x86_64-fedora-clang,2.0.0,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-17 22:49:54.900258
+cffr,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-17 22:49:54.900258
+EstimateBreed,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-17 22:49:54.900258
+localScore,r-devel-linux-x86_64-fedora-clang,2.0.1,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-17 22:49:54.900258
+trelloR,r-devel-linux-x86_64-fedora-clang,0.8.0,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-17 22:49:54.900258
