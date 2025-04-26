@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dynsim,r-devel-linux-x86_64-fedora-clang,1.2.3,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-26 22:49:59.729252
+quadrupen,r-devel-linux-x86_64-fedora-clang,0.2-12,devel,linux,x86_64,fedora-clang,NA,r88140,2025-04-26 22:49:59.729252
+dynsim,r-devel-linux-x86_64-fedora-gcc,1.2.3,devel,linux,x86_64,fedora-gcc,NA,r88154,2025-04-26 22:49:59.729252
+causalBatch,r-patched-linux-x86_64,1.3.0,patched,linux,x86_64,,4.5.0,r88177,2025-04-26 22:49:59.729252
+detrendr,r-patched-linux-x86_64,0.6.15,patched,linux,x86_64,,4.5.0,r88177,2025-04-26 22:49:59.729252
+geneExpressionFromGEO,r-patched-linux-x86_64,1.2,patched,linux,x86_64,,4.5.0,r88177,2025-04-26 22:49:59.729252
+gwavr,r-patched-linux-x86_64,0.3.2,patched,linux,x86_64,,4.5.0,r88177,2025-04-26 22:49:59.729252
+RcensusPkg,r-patched-linux-x86_64,0.1.5,patched,linux,x86_64,,4.5.0,r88177,2025-04-26 22:49:59.729252
