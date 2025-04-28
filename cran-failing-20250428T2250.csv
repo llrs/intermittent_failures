@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+glmpermu,r-devel-linux-x86_64-debian-gcc,0.0.1,devel,linux,x86_64,debian-gcc,NA,r88181,2025-04-28 22:50:27.059025
+IRTBEMM,r-devel-linux-x86_64-debian-gcc,1.0.8,devel,linux,x86_64,debian-gcc,NA,r88181,2025-04-28 22:50:27.059025
+RNentropy,r-devel-linux-x86_64-debian-gcc,1.2.3,devel,linux,x86_64,debian-gcc,NA,r88181,2025-04-28 22:50:27.059025
