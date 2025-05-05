@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+covid19br,r-devel-linux-x86_64-fedora-clang,0.1.8,devel,linux,x86_64,fedora-clang,NA,r88140,2025-05-05 22:50:45.565261
+treediff,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r88140,2025-05-05 22:50:45.565261
+covid19br,r-devel-linux-x86_64-fedora-gcc,0.1.8,devel,linux,x86_64,fedora-gcc,NA,r88182,2025-05-05 22:50:45.565261
