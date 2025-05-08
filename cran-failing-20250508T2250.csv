@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Characterization,r-devel-linux-x86_64-fedora-clang,2.1.3,devel,linux,x86_64,fedora-clang,NA,r88189,2025-05-08 22:50:21.823487
+PatientLevelPrediction,r-devel-linux-x86_64-fedora-clang,6.4.1,devel,linux,x86_64,fedora-clang,NA,r88189,2025-05-08 22:50:21.823487
+rigr,r-devel-linux-x86_64-fedora-clang,1.0.7,devel,linux,x86_64,fedora-clang,NA,r88189,2025-05-08 22:50:21.823487
+Characterization,r-devel-linux-x86_64-fedora-gcc,2.1.3,devel,linux,x86_64,fedora-gcc,NA,r88182,2025-05-08 22:50:21.823487
+PatientLevelPrediction,r-devel-linux-x86_64-fedora-gcc,6.4.1,devel,linux,x86_64,fedora-gcc,NA,r88182,2025-05-08 22:50:21.823487
+rigr,r-devel-linux-x86_64-fedora-gcc,1.0.7,devel,linux,x86_64,fedora-gcc,NA,r88182,2025-05-08 22:50:21.823487
