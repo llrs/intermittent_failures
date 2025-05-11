@@ -1,0 +1,19 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+haploR,r-devel-linux-x86_64-fedora-gcc,4.0.7,devel,linux,x86_64,fedora-gcc,NA,r88191,2025-05-11 22:50:10.612813
+froggeR,r-oldrel-macos-x86_64,0.4.0,oldrel,macos,x86_64,,4.4.1,NA,2025-05-11 22:50:10.612813
+pQTLdata,r-oldrel-macos-x86_64,0.5,oldrel,macos,x86_64,,4.4.1,NA,2025-05-11 22:50:10.612813
+priorityelasticnet,r-oldrel-macos-x86_64,0.2.0,oldrel,macos,x86_64,,4.4.1,NA,2025-05-11 22:50:10.612813
+RtsEva,r-oldrel-macos-x86_64,1.0.0,oldrel,macos,x86_64,,4.4.1,NA,2025-05-11 22:50:10.612813
+bulkAnalyseR,r-release-macos-x86_64,1.1.0,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+driveR,r-release-macos-x86_64,0.4.1,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+fixes,r-release-macos-x86_64,0.2.1,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+foreSIGHT,r-release-macos-x86_64,1.2.0,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+gaawr2,r-release-macos-x86_64,0.0.3,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+multibias,r-release-macos-x86_64,1.7.1,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+nlcv,r-release-macos-x86_64,0.3.6,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+oncoPredict,r-release-macos-x86_64,1.2,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+pQTLdata,r-release-macos-x86_64,0.5,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+rextendr,r-release-macos-x86_64,0.4.0,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+SQMtools,r-release-macos-x86_64,,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+TaxaNorm,r-release-macos-x86_64,2.4,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
+triptych,r-release-macos-x86_64,0.1.3,release,macos,x86_64,,4.5.0,r88074,2025-05-11 22:50:10.612813
