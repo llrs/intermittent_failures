@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gpboost,r-oldrel-macos-x86_64,1.5.8,oldrel,macos,x86_64,,4.4.1,NA,2025-05-15 22:51:55.542869
+HTGM,r-oldrel-macos-x86_64,1.2,oldrel,macos,x86_64,,4.4.1,NA,2025-05-15 22:51:55.542869
+dGAselID,r-release-macos-x86_64,1.2,release,macos,x86_64,,4.5.0,r88074,2025-05-15 22:51:55.542869
+pbdMPI,r-release-macos-x86_64,0.5-3,release,macos,x86_64,,4.5.0,r88074,2025-05-15 22:51:55.542869
