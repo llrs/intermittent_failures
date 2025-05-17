@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+birp,r-oldrel-macos-x86_64,0.0.3,oldrel,macos,x86_64,,4.4.1,NA,2025-05-17 22:50:14.381033
+cpp11tesseract,r-oldrel-macos-x86_64,5.3.5,oldrel,macos,x86_64,,4.4.1,NA,2025-05-17 22:50:14.381033
+Rcplex,r-oldrel-macos-x86_64,0.3-8,oldrel,macos,x86_64,,4.4.1,NA,2025-05-17 22:50:14.381033
+RcppMeCab,r-oldrel-macos-x86_64,0.0.1.2,oldrel,macos,x86_64,,4.4.1,NA,2025-05-17 22:50:14.381033
+Rmpi,r-release-macos-x86_64,0.7-3.3,release,macos,x86_64,,4.5.0,r88074,2025-05-17 22:50:14.381033
