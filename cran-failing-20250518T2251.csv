@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bonn,r-devel-linux-x86_64-fedora-clang,1.0.2,devel,linux,x86_64,fedora-clang,NA,r88191,2025-05-18 22:51:29.010176
+checked,r-devel-linux-x86_64-fedora-clang,0.2.8,devel,linux,x86_64,fedora-clang,NA,r88191,2025-05-18 22:51:29.010176
+GitAI,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r88191,2025-05-18 22:51:29.010176
+kofdata,r-devel-linux-x86_64-fedora-clang,0.2.1,devel,linux,x86_64,fedora-clang,NA,r88191,2025-05-18 22:51:29.010176
+birp,r-oldrel-macos-x86_64,0.0.3,oldrel,macos,x86_64,,4.4.1,NA,2025-05-18 22:51:29.010176
+cpp11tesseract,r-oldrel-macos-x86_64,5.3.5,oldrel,macos,x86_64,,4.4.1,NA,2025-05-18 22:51:29.010176
+extRemes,r-oldrel-macos-x86_64,2.2-1,oldrel,macos,x86_64,,4.4.1,NA,2025-05-18 22:51:29.010176
+pbdSLAP,r-oldrel-macos-x86_64,0.3-7,oldrel,macos,x86_64,,4.4.1,NA,2025-05-18 22:51:29.010176
+Rcplex,r-oldrel-macos-x86_64,0.3-8,oldrel,macos,x86_64,,4.4.1,NA,2025-05-18 22:51:29.010176
+RcppMeCab,r-oldrel-macos-x86_64,0.0.1.2,oldrel,macos,x86_64,,4.4.1,NA,2025-05-18 22:51:29.010176
+rlas,r-oldrel-macos-x86_64,1.8.2,oldrel,macos,x86_64,,4.4.1,NA,2025-05-18 22:51:29.010176
+Rmpi,r-release-macos-x86_64,0.7-3.3,release,macos,x86_64,,4.5.0,r88074,2025-05-18 22:51:29.010176
