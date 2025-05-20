@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+algaeClassify,r-oldrel-macos-x86_64,2.0.4,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
+b64,r-oldrel-macos-x86_64,0.1.6,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
+bigGP,r-oldrel-macos-x86_64,0.1.9,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
+parzer,r-oldrel-macos-x86_64,0.4.2,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
+PTSR,r-oldrel-macos-x86_64,0.1.3,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
+RcppMeCab,r-oldrel-macos-x86_64,0.0.1.2,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
+SchoolDataIT,r-oldrel-macos-x86_64,0.2.6,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
+spatialGE,r-oldrel-macos-x86_64,1.2.0,oldrel,macos,x86_64,,4.4.1,NA,2025-05-20 22:52:46.193402
