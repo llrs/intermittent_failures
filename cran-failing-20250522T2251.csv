@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+SFDesign,r-oldrel-macos-x86_64,0.1.0,oldrel,macos,x86_64,,4.4.1,NA,2025-05-22 22:51:00.191757
+smer,r-oldrel-macos-x86_64,0.0.1,oldrel,macos,x86_64,,4.4.1,NA,2025-05-22 22:51:00.191757
+BIGr,r-release-macos-arm64,0.5.5,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+BiSEp,r-release-macos-arm64,2.3,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+connector,r-release-macos-arm64,0.1.1,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+fRLR,r-release-macos-arm64,1.3.0,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+froggeR,r-release-macos-arm64,0.4.0,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+GencoDymo2,r-release-macos-arm64,1.0.1,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+genomicper,r-release-macos-arm64,1.7,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+jetset,r-release-macos-arm64,3.4.0,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+lilikoi,r-release-macos-arm64,2.1.1,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
+OhdsiReportGenerator,r-release-macos-arm64,1.1.0,release,macos,arm64,,4.5.0,r88069,2025-05-22 22:51:00.191757
