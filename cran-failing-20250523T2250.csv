@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+flint,r-devel-linux-x86_64-fedora-clang,0.0.4,devel,linux,x86_64,fedora-clang,NA,r88216,2025-05-23 22:50:42.203127
+flint,r-devel-linux-x86_64-fedora-gcc,0.0.4,devel,linux,x86_64,fedora-gcc,NA,r88216,2025-05-23 22:50:42.203127
+RGN,r-release-macos-x86_64,1.0.0,release,macos,x86_64,,4.5.0,r88074,2025-05-23 22:50:42.203127
