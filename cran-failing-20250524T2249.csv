@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+tkrplot,r-devel-linux-x86_64-fedora-clang,0.0-29,devel,linux,x86_64,fedora-clang,NA,r88216,2025-05-24 22:49:57.129251
+bigGP,r-oldrel-macos-x86_64,0.1.9,oldrel,macos,x86_64,,4.4.1,NA,2025-05-24 22:49:57.129251
+CureAuxSP,r-oldrel-macos-x86_64,0.0.1,oldrel,macos,x86_64,,4.4.1,NA,2025-05-24 22:49:57.129251
+IDLFM,r-oldrel-macos-x86_64,1.0.0,oldrel,macos,x86_64,,4.4.1,NA,2025-05-24 22:49:57.129251
+mlpack,r-oldrel-macos-x86_64,4.6.2,oldrel,macos,x86_64,,4.4.1,NA,2025-05-24 22:49:57.129251
+kappalab,r-release-linux-x86_64,0.4-12,release,linux,x86_64,,4.5.0,NA,2025-05-24 22:49:57.129251
