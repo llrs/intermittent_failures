@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+actilifecounts,r-devel-linux-x86_64-fedora-gcc,1.1.1,devel,linux,x86_64,fedora-gcc,NA,r88237,2025-06-16 22:52:34.159047
+clmplus,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r88237,2025-06-16 22:52:34.159047
+isoWater,r-devel-linux-x86_64-fedora-gcc,1.2.0,devel,linux,x86_64,fedora-gcc,NA,r88237,2025-06-16 22:52:34.159047
