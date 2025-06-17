@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CooccurrenceAffinity,r-devel-linux-x86_64-fedora-clang,1.0,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-17 22:53:22.204811
+etwfe,r-devel-linux-x86_64-fedora-clang,0.5.0,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-17 22:53:22.204811
+grafzahl,r-devel-linux-x86_64-fedora-clang,0.0.11,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-17 22:53:22.204811
+ldamatch,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-17 22:53:22.204811
+robcp,r-devel-linux-x86_64-fedora-clang,0.3.8,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-17 22:53:22.204811
+volleystat,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-17 22:53:22.204811
+CooccurrenceAffinity,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r88237,2025-06-17 22:53:22.204811
+robcp,r-devel-linux-x86_64-fedora-gcc,0.3.8,devel,linux,x86_64,fedora-gcc,NA,r88237,2025-06-17 22:53:22.204811
+volleystat,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r88237,2025-06-17 22:53:22.204811
