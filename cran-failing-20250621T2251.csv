@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+HVT,r-devel-linux-x86_64-fedora-clang,25.2.4,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-21 22:51:07.699036
+karel,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r88305,2025-06-21 22:51:07.699036
+epiworldRShiny,r-oldrel-macos-x86_64,0.2.3,oldrel,macos,x86_64,,4.4.1,NA,2025-06-21 22:51:07.699036
