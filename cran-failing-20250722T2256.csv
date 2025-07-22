@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+awdb,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r88407,2025-07-22 22:56:15.067204
+filibustr,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r88407,2025-07-22 22:56:15.067204
+awdb,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r88430,2025-07-22 22:56:15.067204
+gofigR,r-oldrel-macos-x86_64,1.1.0,oldrel,macos,x86_64,,4.4.1,NA,2025-07-22 22:56:15.067204
+gofigR,r-release-macos-x86_64,1.1.0,release,macos,x86_64,,4.5.0,r88074,2025-07-22 22:56:15.067204
