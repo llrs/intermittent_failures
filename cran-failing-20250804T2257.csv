@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+RcppMeCab,r-release-macos-arm64,0.0.1.2,release,macos,arm64,,4.5.0,r88069,2025-08-04 22:57:16.73509
+spaths,r-release-macos-arm64,1.2.0,release,macos,arm64,,4.5.0,r88069,2025-08-04 22:57:16.73509
+SurfRough,r-release-macos-arm64,0.0.1.1,release,macos,arm64,,4.5.0,r88069,2025-08-04 22:57:16.73509
