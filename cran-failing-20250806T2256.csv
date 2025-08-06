@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+PhenotypeR,r-oldrel-macos-x86_64,0.2.0,oldrel,macos,x86_64,,4.4.1,NA,2025-08-06 22:56:26.260665
+bapred,r-oldrel-windows-x86_64,1.1,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+BayesMoFo,r-oldrel-windows-x86_64,0.1.0,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+BioVenn,r-oldrel-windows-x86_64,1.1.3,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+ciccr,r-oldrel-windows-x86_64,0.3.0,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+ciu,r-oldrel-windows-x86_64,0.8,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+DRviaSPCN,r-oldrel-windows-x86_64,0.1.5,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+fdrDiscreteNull,r-oldrel-windows-x86_64,1.4,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+git2rdata,r-oldrel-windows-x86_64,0.5.0,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+GSEMA,r-oldrel-windows-x86_64,0.99.3,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+HTGM,r-oldrel-windows-x86_64,1.2,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+marlod,r-oldrel-windows-x86_64,0.2.1,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+read.gt3x,r-oldrel-windows-x86_64,1.2.0,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+redist,r-oldrel-windows-x86_64,4.3.0,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+snvecR,r-oldrel-windows-x86_64,3.10.1,oldrel,windows,x86_64,,4.4.3,NA,2025-08-06 22:56:26.260665
+PhenotypeR,r-release-macos-x86_64,0.2.0,release,macos,x86_64,,4.5.0,r88074,2025-08-06 22:56:26.260665
