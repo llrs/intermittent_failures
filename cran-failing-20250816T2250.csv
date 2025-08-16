@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+csodata,r-devel-linux-x86_64-fedora-gcc,1.5.0,devel,linux,x86_64,fedora-gcc,NA,r88478,2025-08-16 22:50:31.603856
+attrib,r-release-linux-x86_64,2021.1.2,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+csodata,r-release-linux-x86_64,1.5.0,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+densityratio,r-release-linux-x86_64,0.2.2,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+dlookr,r-release-linux-x86_64,0.6.3,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+ECOTOXr,r-release-linux-x86_64,1.2.1,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+filibustr,r-release-linux-x86_64,0.4.0,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+GauPro,r-release-linux-x86_64,0.2.15,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+httk,r-release-linux-x86_64,2.7.0,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+rcoins,r-release-linux-x86_64,0.3.2,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+rnrfa,r-release-linux-x86_64,2.1.0.6,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+statcanR,r-release-linux-x86_64,0.2.6,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
+tangles,r-release-linux-x86_64,2.0.1,release,linux,x86_64,,4.5.1,NA,2025-08-16 22:50:31.603856
