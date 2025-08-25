@@ -1,0 +1,13 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+czso,r-devel-linux-x86_64-fedora-gcc,0.4.2,devel,linux,x86_64,fedora-gcc,NA,r88478,2025-08-25 22:50:16.818489
+dacc,r-devel-linux-x86_64-fedora-gcc,0.0-6,devel,linux,x86_64,fedora-gcc,NA,r88478,2025-08-25 22:50:16.818489
+dataset,r-devel-linux-x86_64-fedora-gcc,0.3.9,devel,linux,x86_64,fedora-gcc,NA,r88478,2025-08-25 22:50:16.818489
+geotargets,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r88478,2025-08-25 22:50:16.818489
+lazyWeave,r-devel-linux-x86_64-fedora-gcc,3.0.3,devel,linux,x86_64,fedora-gcc,NA,r88478,2025-08-25 22:50:16.818489
+treestats,r-devel-linux-x86_64-fedora-gcc,1.70.5,devel,linux,x86_64,fedora-gcc,NA,r88478,2025-08-25 22:50:16.818489
+biometryassist,r-oldrel-macos-x86_64,1.3.1,oldrel,macos,x86_64,,4.4.1,NA,2025-08-25 22:50:16.818489
+ggprism,r-oldrel-macos-x86_64,1.0.7,oldrel,macos,x86_64,,4.4.1,NA,2025-08-25 22:50:16.818489
+GOxploreR,r-oldrel-macos-x86_64,1.2.8,oldrel,macos,x86_64,,4.4.1,NA,2025-08-25 22:50:16.818489
+BayesianReasoning,r-release-macos-x86_64,0.4.3,release,macos,x86_64,,4.5.0,r88074,2025-08-25 22:50:16.818489
+DataMetProcess,r-release-macos-x86_64,1.0.6,release,macos,x86_64,,4.5.0,r88074,2025-08-25 22:50:16.818489
+ggprism,r-release-macos-x86_64,1.0.7,release,macos,x86_64,,4.5.0,r88074,2025-08-25 22:50:16.818489
