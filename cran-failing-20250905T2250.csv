@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+kappalab,r-devel-linux-x86_64-debian-clang,0.4-12,devel,linux,x86_64,debian-clang,NA,r88788,2025-09-05 22:50:27.404078
+sra,r-devel-linux-x86_64-debian-clang,0.1.4.1,devel,linux,x86_64,debian-clang,NA,r88788,2025-09-05 22:50:27.404078
+bapred,r-oldrel-windows-x86_64,1.1,oldrel,windows,x86_64,,4.4.3,NA,2025-09-05 22:50:27.404078
+glmMisrep,r-oldrel-windows-x86_64,0.1.1,oldrel,windows,x86_64,,4.4.3,NA,2025-09-05 22:50:27.404078
+SIGN,r-oldrel-windows-x86_64,0.1.0,oldrel,windows,x86_64,,4.4.3,NA,2025-09-05 22:50:27.404078
