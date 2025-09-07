@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+box.lsp,r-devel-linux-x86_64-debian-gcc,0.1.3,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+freegroup,r-devel-linux-x86_64-debian-gcc,1.2-0,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+geneExpressionFromGEO,r-devel-linux-x86_64-debian-gcc,1.2,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+ICSsmoothing,r-devel-linux-x86_64-debian-gcc,1.2.9,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+klassR,r-devel-linux-x86_64-debian-gcc,1.0.2,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+mllrnrs,r-devel-linux-x86_64-debian-gcc,0.0.5,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+multimedia,r-devel-linux-x86_64-debian-gcc,0.2.0,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+RivRetrieve,r-devel-linux-x86_64-debian-gcc,0.1.6,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+SLOS,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+SSDM,r-devel-linux-x86_64-debian-gcc,0.2.11,devel,linux,x86_64,debian-gcc,NA,r88794,2025-09-07 22:51:54.102071
+jmv,r-devel-linux-x86_64-fedora-clang,2.7.0,devel,linux,x86_64,fedora-clang,NA,r88766,2025-09-07 22:51:54.102071
+litteR,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r88766,2025-09-07 22:51:54.102071
+opGMMassessment,r-oldrel-macos-arm64,0.4,oldrel,macos,arm64,,4.4.1,NA,2025-09-07 22:51:54.102071
