@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cesR,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-16 22:51:44.659219
+gg1d,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-16 22:51:44.659219
+ggEDA,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-16 22:51:44.659219
+ggiraphExtra,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-16 22:51:44.659219
+pathfindR,r-devel-linux-x86_64-fedora-clang,2.5.1,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-16 22:51:44.659219
+saros,r-devel-linux-x86_64-fedora-clang,1.5.4,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-16 22:51:44.659219
+gg1d,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r88810,2025-09-16 22:51:44.659219
+ggEDA,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r88810,2025-09-16 22:51:44.659219
+ggiraphExtra,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r88810,2025-09-16 22:51:44.659219
+saros,r-devel-linux-x86_64-fedora-gcc,1.5.4,devel,linux,x86_64,fedora-gcc,NA,r88810,2025-09-16 22:51:44.659219
+scPipeline,r-oldrel-macos-arm64,0.2.0.0,oldrel,macos,arm64,,4.4.1,NA,2025-09-16 22:51:44.659219
