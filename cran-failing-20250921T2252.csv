@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+loon.shiny,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-21 22:52:00.933306
+loon.tourr,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-21 22:52:00.933306
+Grouphmap,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.4.1,NA,2025-09-21 22:52:00.933306
