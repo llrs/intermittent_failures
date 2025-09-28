@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+sentopics,r-devel-linux-x86_64-fedora-clang,0.7.4,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-28 22:50:19.998316
+tidychangepoint,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r88813,2025-09-28 22:50:19.998316
+sentopics,r-devel-linux-x86_64-fedora-gcc,0.7.4,devel,linux,x86_64,fedora-gcc,NA,r88857,2025-09-28 22:50:19.998316
+tidychangepoint,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r88857,2025-09-28 22:50:19.998316
