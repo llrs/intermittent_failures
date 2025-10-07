@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CNVScope,r-oldrel-windows-x86_64,3.7.2,oldrel,windows,x86_64,,4.4.3,NA,2025-10-07 22:50:41.182423
+DIscBIO,r-oldrel-windows-x86_64,1.2.2,oldrel,windows,x86_64,,4.4.3,NA,2025-10-07 22:50:41.182423
+lmQCM,r-oldrel-windows-x86_64,0.2.4,oldrel,windows,x86_64,,4.4.3,NA,2025-10-07 22:50:41.182423
+StreamCatTools,r-oldrel-windows-x86_64,0.7.0,oldrel,windows,x86_64,,4.4.3,NA,2025-10-07 22:50:41.182423
