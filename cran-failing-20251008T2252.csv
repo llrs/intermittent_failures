@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BioTIMEr,r-devel-linux-x86_64-fedora-gcc,0.2.5,devel,linux,x86_64,fedora-gcc,NA,r88899,2025-10-08 22:52:45.957335
+douconca,r-devel-linux-x86_64-fedora-gcc,1.2.3,devel,linux,x86_64,fedora-gcc,NA,r88899,2025-10-08 22:52:45.957335
+readepi,r-release-macos-arm64,1.0.1,release,macos,arm64,,4.5.0,NA,2025-10-08 22:52:45.957335
