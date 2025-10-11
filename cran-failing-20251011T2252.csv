@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+codebook,r-devel-linux-x86_64-fedora-clang,0.9.6,devel,linux,x86_64,fedora-clang,NA,r88899,2025-10-11 22:52:18.103229
+StreamCatTools,r-devel-linux-x86_64-fedora-clang,0.8.0,devel,linux,x86_64,fedora-clang,NA,r88899,2025-10-11 22:52:18.103229
+structSSI,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r88899,2025-10-11 22:52:18.103229
+whep,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r88899,2025-10-11 22:52:18.103229
+StreamCatTools,r-devel-linux-x86_64-fedora-gcc,0.8.0,devel,linux,x86_64,fedora-gcc,NA,r88899,2025-10-11 22:52:18.103229
+whep,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r88899,2025-10-11 22:52:18.103229
+pbdMPI,r-oldrel-macos-arm64,0.5-4,oldrel,macos,arm64,,4.4.1,NA,2025-10-11 22:52:18.103229
+tsbox,r-oldrel-macos-arm64,0.4.2,oldrel,macos,arm64,,4.4.1,NA,2025-10-11 22:52:18.103229
