@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AutoWMM,r-devel-linux-x86_64-debian-gcc,1.0.2,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+baf,r-devel-linux-x86_64-debian-gcc,0.0.3,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+ediblecity,r-devel-linux-x86_64-debian-gcc,0.2.1,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+GauPro,r-devel-linux-x86_64-debian-gcc,0.2.16,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+gwavr,r-devel-linux-x86_64-debian-gcc,0.3.2,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+hockeystick,r-devel-linux-x86_64-debian-gcc,0.8.6,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+httpRequest,r-devel-linux-x86_64-debian-gcc,0.0.11,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+moranajp,r-devel-linux-x86_64-debian-gcc,0.9.7,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+nser,r-devel-linux-x86_64-debian-gcc,1.5.6,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+openalexR,r-devel-linux-x86_64-debian-gcc,2.0.1,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+parabar,r-devel-linux-x86_64-debian-gcc,1.4.2,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+RBPcurve,r-devel-linux-x86_64-debian-gcc,1.3,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+RMSD,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+secsse,r-devel-linux-x86_64-debian-gcc,3.5.0,devel,linux,x86_64,debian-gcc,NA,r88914,2025-10-12 22:50:53.732333
+codebook,r-devel-linux-x86_64-fedora-gcc,0.9.6,devel,linux,x86_64,fedora-gcc,NA,r88899,2025-10-12 22:50:53.732333
+pbdMPI,r-oldrel-macos-arm64,0.5-4,oldrel,macos,arm64,,4.4.1,NA,2025-10-12 22:50:53.732333
