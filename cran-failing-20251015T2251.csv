@@ -1,0 +1,25 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AnimalHabitatNetwork,r-patched-linux-x86_64,0.1.0,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+BioTIMEr,r-patched-linux-x86_64,0.2.5,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+cancensus,r-patched-linux-x86_64,0.5.7,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+CITMIC,r-patched-linux-x86_64,0.1.2,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+DLSSM,r-patched-linux-x86_64,1.1.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+DrDimont,r-patched-linux-x86_64,0.1.4,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+ecb,r-patched-linux-x86_64,0.4.3,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+educationdata,r-patched-linux-x86_64,0.1.3,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+egor,r-patched-linux-x86_64,1.24.2,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+epocakir,r-patched-linux-x86_64,0.9.9,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+FCMapper,r-patched-linux-x86_64,1.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+IOHanalyzer,r-patched-linux-x86_64,0.1.8.10,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+loon.shiny,r-patched-linux-x86_64,1.0.3,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+loon.tourr,r-patched-linux-x86_64,0.1.4,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+Mhorseshoe,r-patched-linux-x86_64,0.1.4,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+multinet,r-patched-linux-x86_64,4.3.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+mwcsr,r-patched-linux-x86_64,0.1.9,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+netcutter,r-patched-linux-x86_64,0.3.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+openalexR,r-patched-linux-x86_64,2.0.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+PopComm,r-patched-linux-x86_64,0.1.0.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+RBaM,r-patched-linux-x86_64,1.1.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+SEMID,r-patched-linux-x86_64,0.4.1,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+treefit,r-patched-linux-x86_64,1.0.3,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
+wbids,r-patched-linux-x86_64,1.1.0,patched,linux,x86_64,,4.5.1,r88918,2025-10-15 22:51:43.465787
