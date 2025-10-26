@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+FuzzyImputationTest,r-devel-linux-x86_64-fedora-gcc,0.5.1,devel,linux,x86_64,fedora-gcc,NA,r88957,2025-10-26 22:52:18.681048
+promor,r-devel-linux-x86_64-fedora-gcc,0.2.1,devel,linux,x86_64,fedora-gcc,NA,r88957,2025-10-26 22:52:18.681048
+imfapi,r-oldrel-macos-x86_64,0.1.0,oldrel,macos,x86_64,,4.4.1,NA,2025-10-26 22:52:18.681048
+smer,r-release-macos-arm64,0.0.2,release,macos,arm64,,4.5.0,NA,2025-10-26 22:52:18.681048
