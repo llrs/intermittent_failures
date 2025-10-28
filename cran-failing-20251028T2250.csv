@@ -1,0 +1,14 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+aRxiv,r-devel-linux-x86_64-debian-clang,0.12,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+delimtools,r-devel-linux-x86_64-debian-clang,0.2.1,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+FuzzyImputationTest,r-devel-linux-x86_64-debian-clang,0.5.1,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+giacR,r-devel-linux-x86_64-debian-clang,1.0.1,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+gprofiler2,r-devel-linux-x86_64-debian-clang,0.2.3,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+predictsr,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+promor,r-devel-linux-x86_64-debian-clang,0.2.1,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+sidra,r-devel-linux-x86_64-debian-clang,0.1.9,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+ucsfindustrydocs,r-devel-linux-x86_64-debian-clang,0.1.0,devel,linux,x86_64,debian-clang,NA,r88970,2025-10-28 22:50:56.039163
+gumbel,r-devel-linux-x86_64-fedora-gcc,1.10-3,devel,linux,x86_64,fedora-gcc,NA,r88957,2025-10-28 22:50:56.039163
+bigGP,r-release-macos-arm64,0.1.9,release,macos,arm64,,4.5.0,NA,2025-10-28 22:50:56.039163
+imfapi,r-release-macos-arm64,0.1.0,release,macos,arm64,,4.5.0,NA,2025-10-28 22:50:56.039163
+imfapi,r-release-macos-x86_64,0.1.0,release,macos,x86_64,,4.5.1,NA,2025-10-28 22:50:56.039163
