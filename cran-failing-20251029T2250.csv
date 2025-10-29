@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+lolliplot,r-devel-linux-x86_64-fedora-clang,0.2.2,devel,linux,x86_64,fedora-clang,NA,r88968,2025-10-29 22:50:40.375622
+rbmiUtils,r-devel-linux-x86_64-fedora-clang,0.1.6,devel,linux,x86_64,fedora-clang,NA,r88968,2025-10-29 22:50:40.375622
+bigGP,r-release-macos-arm64,0.1.9,release,macos,arm64,,4.5.0,NA,2025-10-29 22:50:40.375622
+I14Y,r-release-macos-arm64,0.1.7,release,macos,arm64,,4.5.0,NA,2025-10-29 22:50:40.375622
+I14Y,r-release-macos-x86_64,0.1.7,release,macos,x86_64,,4.5.1,NA,2025-10-29 22:50:40.375622
