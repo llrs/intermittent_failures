@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+FossilSim,r-devel-linux-x86_64-fedora-clang,2.4.2,devel,linux,x86_64,fedora-clang,NA,r88968,2025-11-01 22:50:26.569364
+imfapi,r-release-macos-arm64,0.1.1,release,macos,arm64,,4.5.0,NA,2025-11-01 22:50:26.569364
+imfapi,r-release-macos-x86_64,0.1.1,release,macos,x86_64,,4.5.1,NA,2025-11-01 22:50:26.569364
