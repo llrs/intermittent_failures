@@ -1,0 +1,15 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AutoWMM,r-devel-linux-x86_64-debian-gcc,1.0.2,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+baytrends,r-devel-linux-x86_64-debian-gcc,2.0.12,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+ICSsmoothing,r-devel-linux-x86_64-debian-gcc,1.2.9,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+learningtower,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+LSX,r-devel-linux-x86_64-debian-gcc,1.5.0,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+MassWateR,r-devel-linux-x86_64-debian-gcc,2.2.0,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+reslr,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+UAHDataScienceUC,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+WhatsR,r-devel-linux-x86_64-debian-gcc,1.0.6,devel,linux,x86_64,debian-gcc,NA,r88977,2025-11-03 22:50:37.755777
+rhosp,r-devel-linux-x86_64-fedora-clang,1.10,devel,linux,x86_64,fedora-clang,NA,r88968,2025-11-03 22:50:37.755777
+rhosp,r-devel-linux-x86_64-fedora-gcc,1.10,devel,linux,x86_64,fedora-gcc,NA,r88977,2025-11-03 22:50:37.755777
+TTR.PGM,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.4.1,NA,2025-11-03 22:50:37.755777
+partitionMetric,r-release-windows-x86_64,1.1,release,windows,x86_64,,4.5.2,NA,2025-11-03 22:50:37.755777
+quadprog,r-release-windows-x86_64,1.5-8,release,windows,x86_64,,4.5.2,NA,2025-11-03 22:50:37.755777
