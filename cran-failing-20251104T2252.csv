@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+fastmatch,r-devel-linux-x86_64-fedora-clang,1.1-6,devel,linux,x86_64,fedora-clang,NA,r88968,2025-11-04 22:52:04.547448
+rrapply,r-devel-linux-x86_64-fedora-clang,1.2.7,devel,linux,x86_64,fedora-clang,NA,r88968,2025-11-04 22:52:04.547448
+fastmatch,r-devel-linux-x86_64-fedora-gcc,1.1-6,devel,linux,x86_64,fedora-gcc,NA,r88977,2025-11-04 22:52:04.547448
+rrapply,r-devel-linux-x86_64-fedora-gcc,1.2.7,devel,linux,x86_64,fedora-gcc,NA,r88977,2025-11-04 22:52:04.547448
+TTR.PGM,r-oldrel-macos-arm64,1.0.0,oldrel,macos,arm64,,4.4.1,NA,2025-11-04 22:52:04.547448
