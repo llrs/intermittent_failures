@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+arcpullr,r-devel-linux-x86_64-debian-gcc,0.3.0,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+CDatanet,r-devel-linux-x86_64-debian-gcc,2.2.1,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+DeSciDe,r-devel-linux-x86_64-debian-gcc,1.0.2,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+EFAfactors,r-devel-linux-x86_64-debian-gcc,1.2.4,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+GauPro,r-devel-linux-x86_64-debian-gcc,0.2.16,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+GDILM.SEIRS,r-devel-linux-x86_64-debian-gcc,0.0.5,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+kvkapiR,r-devel-linux-x86_64-debian-gcc,0.1.2,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+parabar,r-devel-linux-x86_64-debian-gcc,1.4.2,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+refseqR,r-devel-linux-x86_64-debian-gcc,1.1.5,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+searchAnalyzeR,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+secsse,r-devel-linux-x86_64-debian-gcc,3.5.0,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+sentopics,r-devel-linux-x86_64-debian-gcc,0.7.6,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+StratPal,r-devel-linux-x86_64-debian-gcc,0.6.0,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+vMF,r-devel-linux-x86_64-debian-gcc,0.0.3,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+WhatsR,r-devel-linux-x86_64-debian-gcc,1.0.6,devel,linux,x86_64,debian-gcc,NA,r88990,2025-11-09 22:50:39.544489
+jpinfect,r-oldrel-macos-x86_64,0.1.6,oldrel,macos,x86_64,,4.4.1,NA,2025-11-09 22:50:39.544489
