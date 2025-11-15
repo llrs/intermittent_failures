@@ -1,0 +1,24 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+acss.data,r-devel-linux-x86_64-debian-gcc,1.2,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+adagio,r-devel-linux-x86_64-debian-gcc,0.9.2,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+allelematch,r-devel-linux-x86_64-debian-gcc,2.5.5,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+ChangepointTesting,r-devel-linux-x86_64-debian-gcc,1.2,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+cinaRgenesets,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+corpmetrics,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+gek,r-devel-linux-x86_64-debian-gcc,1.1.0,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+jointPm,r-devel-linux-x86_64-debian-gcc,2.3.2,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+m61r,r-devel-linux-x86_64-debian-gcc,0.0.3,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+MRQoL,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+nlmixr2data,r-devel-linux-x86_64-debian-gcc,2.0.9,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+numOSL,r-devel-linux-x86_64-debian-gcc,2.8,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+onlineretail,r-devel-linux-x86_64-debian-gcc,0.1.2,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+palinsol,r-devel-linux-x86_64-debian-gcc,1.0,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+pbdMPI,r-devel-linux-x86_64-debian-gcc,0.5-4,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+randtoolbox,r-devel-linux-x86_64-debian-gcc,2.0.5,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+represent,r-devel-linux-x86_64-debian-gcc,1.0.1,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+RSclient,r-devel-linux-x86_64-debian-gcc,0.7-11,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+samon,r-devel-linux-x86_64-debian-gcc,4.0.2,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+sotu,r-devel-linux-x86_64-debian-gcc,1.0.4,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+subplex,r-devel-linux-x86_64-debian-gcc,1.9,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+x13binary,r-devel-linux-x86_64-debian-gcc,1.1.61.1,devel,linux,x86_64,debian-gcc,NA,r89021,2025-11-15 22:51:13.873544
+Characterization,r-oldrel-macos-x86_64,2.2.0,oldrel,macos,x86_64,,4.4.1,NA,2025-11-15 22:51:13.873544
