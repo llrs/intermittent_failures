@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+box.lsp,r-devel-linux-x86_64-debian-clang,0.1.3,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
+klassR,r-devel-linux-x86_64-debian-clang,1.0.3,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
+kofdata,r-devel-linux-x86_64-debian-clang,0.2.1,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
+malariaAtlas,r-devel-linux-x86_64-debian-clang,1.6.4,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
+nser,r-devel-linux-x86_64-debian-clang,1.5.6,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
+panstarrs,r-devel-linux-x86_64-debian-clang,0.2.2,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
+statcanR,r-devel-linux-x86_64-debian-clang,0.2.6,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
+VertexWiseR,r-devel-linux-x86_64-debian-clang,1.4.3,devel,linux,x86_64,debian-clang,NA,r89040,2025-11-21 22:49:49.313207
