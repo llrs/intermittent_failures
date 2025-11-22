@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ironseed,r-oldrel-macos-arm64,0.3.0,oldrel,macos,arm64,,4.4.3,NA,2025-11-22 22:50:01.925797
+locpol,r-oldrel-macos-arm64,0.9.0,oldrel,macos,arm64,,4.4.3,NA,2025-11-22 22:50:01.925797
+gss,r-release-macos-arm64,2.2-10,release,macos,arm64,,4.5.0,NA,2025-11-22 22:50:01.925797
