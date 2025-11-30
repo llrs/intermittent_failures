@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+I14Y,r-devel-linux-x86_64-fedora-gcc,0.1.7,devel,linux,x86_64,fedora-gcc,NA,r89043,2025-11-30 22:49:53.462452
+ipeaplot,r-devel-linux-x86_64-fedora-gcc,0.5.0,devel,linux,x86_64,fedora-gcc,NA,r89043,2025-11-30 22:49:53.462452
+vegdata,r-devel-linux-x86_64-fedora-gcc,0.9.12,devel,linux,x86_64,fedora-gcc,NA,r89043,2025-11-30 22:49:53.462452
