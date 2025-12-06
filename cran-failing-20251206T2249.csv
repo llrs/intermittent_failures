@@ -1,0 +1,8 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bqtl,r-devel-linux-x86_64-fedora-clang,1.0-38,devel,linux,x86_64,fedora-clang,NA,r89073,2025-12-06 22:49:57.618397
+fastSOM,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r89073,2025-12-06 22:49:57.618397
+yaml,r-devel-linux-x86_64-fedora-clang,2.3.11,devel,linux,x86_64,fedora-clang,NA,r89073,2025-12-06 22:49:57.618397
+bqtl,r-devel-linux-x86_64-fedora-gcc,1.0-38,devel,linux,x86_64,fedora-gcc,NA,r89043,2025-12-06 22:49:57.618397
+fastSOM,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r89043,2025-12-06 22:49:57.618397
+yaml,r-devel-linux-x86_64-fedora-gcc,2.3.11,devel,linux,x86_64,fedora-gcc,NA,r89043,2025-12-06 22:49:57.618397
+lmSubsets,r-release-linux-x86_64,0.5-2,release,linux,x86_64,,4.5.2,NA,2025-12-06 22:49:57.618397
