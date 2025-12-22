@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+RApiDatetime,r-devel-linux-x86_64-fedora-gcc,0.0.9,devel,linux,x86_64,fedora-gcc,NA,r89118,2025-12-22 22:53:29.358537
+rcdd,r-devel-linux-x86_64-fedora-gcc,1.6,devel,linux,x86_64,fedora-gcc,NA,r89118,2025-12-22 22:53:29.358537
+RSclient,r-devel-linux-x86_64-fedora-gcc,0.7-11,devel,linux,x86_64,fedora-gcc,NA,r89118,2025-12-22 22:53:29.358537
+gumbel,r-release-linux-x86_64,1.10-4,release,linux,x86_64,,4.5.2,NA,2025-12-22 22:53:29.358537
