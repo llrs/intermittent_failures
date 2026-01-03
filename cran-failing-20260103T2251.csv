@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dlmtree,r-devel-linux-x86_64-fedora-clang,1.1.0,devel,linux,x86_64,fedora-clang,NA,r89163,2026-01-03 22:51:47.235734
+combinIT,r-devel-linux-x86_64-fedora-gcc,2.0.1,devel,linux,x86_64,fedora-gcc,NA,r89215,2026-01-03 22:51:47.235734
+kappalab,r-release-linux-x86_64,0.4-12,release,linux,x86_64,,4.5.2,NA,2026-01-03 22:51:47.235734
+lmSubsets,r-release-linux-x86_64,0.5-2,release,linux,x86_64,,4.5.2,NA,2026-01-03 22:51:47.235734
