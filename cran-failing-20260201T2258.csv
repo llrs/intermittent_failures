@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+schoRsch,r-devel-linux-x86_64-fedora-clang,1.11,devel,linux,x86_64,fedora-clang,NA,r89309,2026-02-01 22:58:56.553782
+schoRsch,r-devel-linux-x86_64-fedora-gcc,1.11,devel,linux,x86_64,fedora-gcc,NA,r89323,2026-02-01 22:58:56.553782
+kappalab,r-release-linux-x86_64,0.4-12,release,linux,x86_64,,4.5.2,NA,2026-02-01 22:58:56.553782
