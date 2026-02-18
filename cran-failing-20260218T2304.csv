@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+aebdata,r-devel-linux-x86_64-debian-gcc,0.1.4,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+BayesMoFo,r-devel-linux-x86_64-debian-gcc,0.1.0,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+baytrends,r-devel-linux-x86_64-debian-gcc,2.0.12,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+chcd,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+csmpv,r-devel-linux-x86_64-debian-gcc,1.0.5,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+freegroup,r-devel-linux-x86_64-debian-gcc,1.2-0,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+MinTriadic,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+moonboot,r-devel-linux-x86_64-debian-gcc,2.0.1,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
+SSAforecast,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r89426,2026-02-18 23:04:47.576461
