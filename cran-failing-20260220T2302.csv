@@ -1,0 +1,3 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+glpkAPI,r-devel-linux-x86_64-fedora-clang,1.3.4.1,devel,linux,x86_64,fedora-clang,NA,r89409,2026-02-20 23:02:30.055769
+glpkAPI,r-devel-linux-x86_64-fedora-gcc,1.3.4.1,devel,linux,x86_64,fedora-gcc,NA,r89380,2026-02-20 23:02:30.055769
