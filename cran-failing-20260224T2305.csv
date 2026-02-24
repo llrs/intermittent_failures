@@ -1,0 +1,19 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+appraise,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+clinicalsignificance,r-devel-linux-x86_64-debian-clang,3.0.0,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+Coxmos,r-devel-linux-x86_64-debian-clang,1.1.5,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+infectiousR,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+netdiffuseR,r-devel-linux-x86_64-debian-clang,1.24.0,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+neuroimaGene,r-devel-linux-x86_64-debian-clang,0.1.2,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+owidapi,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+params,r-devel-linux-x86_64-debian-clang,0.7.7,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+pencal,r-devel-linux-x86_64-debian-clang,2.3.0,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+readit,r-devel-linux-x86_64-debian-clang,1.0.0,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+RVAideMemoire,r-devel-linux-x86_64-debian-clang,0.9-83-12,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+SIGN,r-devel-linux-x86_64-debian-clang,0.1.0,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+skater,r-devel-linux-x86_64-debian-clang,0.1.2,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+suddengains,r-devel-linux-x86_64-debian-clang,0.7.2,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+WorldFlora,r-devel-linux-x86_64-debian-clang,1.14-5,devel,linux,x86_64,debian-clang,NA,r89452,2026-02-24 23:05:13.055183
+fjoin,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r89442,2026-02-24 23:05:13.055183
+move2,r-devel-linux-x86_64-fedora-gcc,0.4.5,devel,linux,x86_64,fedora-gcc,NA,r89442,2026-02-24 23:05:13.055183
+svyweight,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r89442,2026-02-24 23:05:13.055183
