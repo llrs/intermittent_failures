@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BigDataStatMeth,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-14 23:00:10.231437
+FAVA,r-devel-linux-x86_64-fedora-gcc,1.0.9,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-14 23:00:10.231437
+smer,r-devel-linux-x86_64-fedora-gcc,0.0.2,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-14 23:00:10.231437
+FBN,r-release-linux-x86_64,1.5.2,release,linux,x86_64,,4.5.3,NA,2026-03-14 23:00:10.231437
