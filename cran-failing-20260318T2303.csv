@@ -1,0 +1,20 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+backports,r-devel-linux-x86_64-debian-clang,1.5.0,devel,linux,x86_64,debian-clang,NA,r89634,2026-03-18 23:03:20.182111
+lmom,r-devel-linux-x86_64-debian-clang,3.2,devel,linux,x86_64,debian-clang,NA,r89634,2026-03-18 23:03:20.182111
+mmap,r-devel-linux-x86_64-debian-clang,0.6-24,devel,linux,x86_64,debian-clang,NA,r89634,2026-03-18 23:03:20.182111
+pbdMPI,r-devel-linux-x86_64-debian-clang,0.5-4,devel,linux,x86_64,debian-clang,NA,r89634,2026-03-18 23:03:20.182111
+RMVL,r-devel-linux-x86_64-debian-clang,1.1.0.2,devel,linux,x86_64,debian-clang,NA,r89634,2026-03-18 23:03:20.182111
+rzmq,r-devel-linux-x86_64-debian-clang,0.9.15,devel,linux,x86_64,debian-clang,NA,r89634,2026-03-18 23:03:20.182111
+ucminf,r-devel-linux-x86_64-debian-clang,1.2.2,devel,linux,x86_64,debian-clang,NA,r89634,2026-03-18 23:03:20.182111
+backports,r-devel-linux-x86_64-fedora-clang,1.5.0,devel,linux,x86_64,fedora-clang,NA,r89611,2026-03-18 23:03:20.182111
+lmom,r-devel-linux-x86_64-fedora-clang,3.2,devel,linux,x86_64,fedora-clang,NA,r89611,2026-03-18 23:03:20.182111
+mmap,r-devel-linux-x86_64-fedora-clang,0.6-24,devel,linux,x86_64,fedora-clang,NA,r89611,2026-03-18 23:03:20.182111
+pbdMPI,r-devel-linux-x86_64-fedora-clang,0.5-4,devel,linux,x86_64,fedora-clang,NA,r89611,2026-03-18 23:03:20.182111
+rzmq,r-devel-linux-x86_64-fedora-clang,0.9.15,devel,linux,x86_64,fedora-clang,NA,r89611,2026-03-18 23:03:20.182111
+ucminf,r-devel-linux-x86_64-fedora-clang,1.2.2,devel,linux,x86_64,fedora-clang,NA,r89611,2026-03-18 23:03:20.182111
+backports,r-devel-linux-x86_64-fedora-gcc,1.5.0,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-18 23:03:20.182111
+lmom,r-devel-linux-x86_64-fedora-gcc,3.2,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-18 23:03:20.182111
+mmap,r-devel-linux-x86_64-fedora-gcc,0.6-24,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-18 23:03:20.182111
+pbdMPI,r-devel-linux-x86_64-fedora-gcc,0.5-4,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-18 23:03:20.182111
+rzmq,r-devel-linux-x86_64-fedora-gcc,0.9.15,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-18 23:03:20.182111
+ucminf,r-devel-linux-x86_64-fedora-gcc,1.2.2,devel,linux,x86_64,fedora-gcc,NA,r89578,2026-03-18 23:03:20.182111
