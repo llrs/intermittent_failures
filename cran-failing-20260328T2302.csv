@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bigPLScox,r-devel-linux-x86_64-fedora-gcc,0.8.1,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-28 23:02:54.616379
+bigPLSR,r-devel-linux-x86_64-fedora-gcc,0.7.2,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-28 23:02:54.616379
+GAReg,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-28 23:02:54.616379
+keyATM,r-devel-linux-x86_64-fedora-gcc,0.5.5,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-28 23:02:54.616379
+MDgof,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-28 23:02:54.616379
+rxode2,r-devel-linux-x86_64-fedora-gcc,5.0.2,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-28 23:02:54.616379
+tidychangepoint,r-devel-linux-x86_64-fedora-gcc,1.0.4,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-28 23:02:54.616379
+tinytest2JUnit,r-release-linux-x86_64,1.1.2,release,linux,x86_64,,4.5.3,NA,2026-03-28 23:02:54.616379
