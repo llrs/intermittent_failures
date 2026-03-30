@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+teigen,r-devel-linux-x86_64-debian-gcc,2.2.2,devel,linux,x86_64,debian-gcc,NA,r89738,2026-03-30 23:20:52.597887
+india,r-devel-linux-x86_64-fedora-gcc,0.1-2,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-03-30 23:20:52.597887
+FinanceGraphs,r-devel-macos-arm64,0.8.0,devel,macos,arm64,,4.6.0,r89725,2026-03-30 23:20:52.597887
