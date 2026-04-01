@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+flint,r-devel-linux-x86_64-debian-clang,0.1.4,devel,linux,x86_64,debian-clang,NA,r89738,2026-04-01 23:22:21.29765
+india,r-devel-linux-x86_64-debian-clang,0.1-2,devel,linux,x86_64,debian-clang,NA,r89738,2026-04-01 23:22:21.29765
+secretbase,r-devel-linux-x86_64-debian-clang,1.2.0,devel,linux,x86_64,debian-clang,NA,r89738,2026-04-01 23:22:21.29765
+splusTimeDate,r-devel-linux-x86_64-debian-clang,2.5.9,devel,linux,x86_64,debian-clang,NA,r89738,2026-04-01 23:22:21.29765
+tinyimg,r-devel-linux-x86_64-debian-clang,0.3,devel,linux,x86_64,debian-clang,NA,r89738,2026-04-01 23:22:21.29765
+splusTimeDate,r-devel-linux-x86_64-fedora-gcc,2.5.9,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-04-01 23:22:21.29765
+tinyimg,r-devel-linux-x86_64-fedora-gcc,0.3,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-04-01 23:22:21.29765
+tinytest2JUnit,r-devel-linux-x86_64-fedora-gcc,1.1.2,devel,linux,x86_64,fedora-gcc,NA,r89685,2026-04-01 23:22:21.29765
+restatapi,r-release-macos-arm64,0.25.0,release,macos,arm64,,4.5.2,NA,2026-04-01 23:22:21.29765
