@@ -1,0 +1,3 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Cascade,r-devel-linux-x86_64-fedora-gcc,2.3,devel,linux,x86_64,fedora-gcc,NA,r89910,2026-04-22 23:32:28.471725
+MiscMetabar,r-devel-linux-x86_64-fedora-gcc,0.14.4,devel,linux,x86_64,fedora-gcc,NA,r89910,2026-04-22 23:32:28.471725
