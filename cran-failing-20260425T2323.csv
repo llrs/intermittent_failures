@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+PNADCperiods,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-25 23:23:06.115909
+ProFAST,r-devel-linux-x86_64-fedora-gcc,1.7,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-25 23:23:06.115909
+scAnnotate,r-devel-linux-x86_64-fedora-gcc,0.3,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-25 23:23:06.115909
+symphony,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-25 23:23:06.115909
+AutoWMM,r-oldrel-windows-x86_64,1.0.2,oldrel,windows,x86_64,,4.5.3,NA,2026-04-25 23:23:06.115909
+FracFixR,r-oldrel-windows-x86_64,1.0.0,oldrel,windows,x86_64,,4.5.3,NA,2026-04-25 23:23:06.115909
+LABTNSCPSS,r-oldrel-windows-x86_64,1.0.2,oldrel,windows,x86_64,,4.5.3,NA,2026-04-25 23:23:06.115909
+FastRWeb,r-release-linux-x86_64,1.2-3,release,linux,x86_64,,4.6.0,NA,2026-04-25 23:23:06.115909
+flint,r-release-linux-x86_64,0.1.4,release,linux,x86_64,,4.6.0,NA,2026-04-25 23:23:06.115909
+iotools,r-release-linux-x86_64,0.4-0,release,linux,x86_64,,4.6.0,NA,2026-04-25 23:23:06.115909
