@@ -1,0 +1,21 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+ami,r-devel-linux-x86_64-debian-gcc,0.2.1,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+detrendr,r-devel-linux-x86_64-debian-gcc,0.6.15,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+dsROCrate,r-devel-linux-x86_64-debian-gcc,0.0.1,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+FLORAL,r-devel-linux-x86_64-debian-gcc,0.7.0,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+glmMisrep,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+hockeystick,r-devel-linux-x86_64-debian-gcc,0.8.6,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+netdiffuseR,r-devel-linux-x86_64-debian-gcc,1.25.0,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+PNADCperiods,r-devel-linux-x86_64-debian-gcc,0.1.1,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+rbiom,r-devel-linux-x86_64-debian-gcc,2.2.1,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+readmit,r-devel-linux-x86_64-debian-gcc,0.0.1,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+RegSDC,r-devel-linux-x86_64-debian-gcc,1.0.0,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+spacemodR,r-devel-linux-x86_64-debian-gcc,0.1.3,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+spinebil,r-devel-linux-x86_64-debian-gcc,1.0.5,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+Superpower,r-devel-linux-x86_64-debian-gcc,0.2.4.1,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+tableParser,r-devel-linux-x86_64-debian-gcc,1.0.5,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+TmCalculator,r-devel-linux-x86_64-debian-gcc,1.0.4,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+wdiexplorer,r-devel-linux-x86_64-debian-gcc,0.1.2,devel,linux,x86_64,debian-gcc,NA,r89961,2026-04-26 23:24:51.166029
+dsROCrate,r-devel-linux-x86_64-fedora-gcc,0.0.1,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-26 23:24:51.166029
+eudata,r-devel-linux-x86_64-fedora-gcc,0.1.3,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-26 23:24:51.166029
+inlabru,r-devel-linux-x86_64-fedora-gcc,2.14.0,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-26 23:24:51.166029
