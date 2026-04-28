@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+openNLP,r-devel-linux-x86_64-debian-clang,0.2-7,devel,linux,x86_64,debian-clang,NA,r89963,2026-04-28 23:37:34.694992
+praznik,r-devel-linux-x86_64-debian-clang,12.0.0,devel,linux,x86_64,debian-clang,NA,r89963,2026-04-28 23:37:34.694992
+wordnet,r-devel-linux-x86_64-debian-clang,0.1-18,devel,linux,x86_64,debian-clang,NA,r89963,2026-04-28 23:37:34.694992
+JLPM,r-release-macos-arm64,1.0.3,release,macos,arm64,,4.6.0,NA,2026-04-28 23:37:34.694992
