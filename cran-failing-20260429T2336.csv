@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+CAESAR.Suite,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r89960,2026-04-29 23:36:46.372606
+coFAST,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r89960,2026-04-29 23:36:46.372606
+marginme,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r89960,2026-04-29 23:36:46.372606
+rts2,r-devel-linux-x86_64-fedora-clang,0.10.2,devel,linux,x86_64,fedora-clang,NA,r89960,2026-04-29 23:36:46.372606
+CAESAR.Suite,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-29 23:36:46.372606
+coFAST,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-29 23:36:46.372606
+marginme,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-29 23:36:46.372606
+rts2,r-devel-linux-x86_64-fedora-gcc,0.10.2,devel,linux,x86_64,fedora-gcc,NA,r89943,2026-04-29 23:36:46.372606
