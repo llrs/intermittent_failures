@@ -1,0 +1,2 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+RcppSimdJson,r-release-macos-x86_64,0.1.15,release,macos,x86_64,,4.6.0,NA,2026-05-04 23:34:59.981183
