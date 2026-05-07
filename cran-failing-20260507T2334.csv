@@ -1,0 +1,12 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+divvy,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r89960,2026-05-07 23:34:56.877329
+MKmisc,r-devel-linux-x86_64-fedora-clang,1.9,devel,linux,x86_64,fedora-clang,NA,r89960,2026-05-07 23:34:56.877329
+PublicationBiasBenchmark,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r89960,2026-05-07 23:34:56.877329
+rbranding,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r89960,2026-05-07 23:34:56.877329
+RFLPtools,r-devel-linux-x86_64-fedora-clang,2.0,devel,linux,x86_64,fedora-clang,NA,r89960,2026-05-07 23:34:56.877329
+autoGO,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-07 23:34:56.877329
+blosc,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-07 23:34:56.877329
+divvy,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-07 23:34:56.877329
+PublicationBiasBenchmark,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-07 23:34:56.877329
+rbranding,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-07 23:34:56.877329
+RFLPtools,r-devel-linux-x86_64-fedora-gcc,2.0,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-07 23:34:56.877329
