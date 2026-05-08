@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+lgtdl,r-devel-linux-x86_64-debian-clang,1.1.5,devel,linux,x86_64,debian-clang,NA,r90009,2026-05-08 23:39:39.643037
+poseticDataAnalysis,r-devel-linux-x86_64-debian-clang,1.0.0,devel,linux,x86_64,debian-clang,NA,r90009,2026-05-08 23:39:39.643037
+syslognet,r-devel-linux-x86_64-debian-clang,0.1.2.1,devel,linux,x86_64,debian-clang,NA,r90009,2026-05-08 23:39:39.643037
