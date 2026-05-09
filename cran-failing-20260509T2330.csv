@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bapred,r-oldrel-windows-x86_64,1.1,oldrel,windows,x86_64,,4.5.3,NA,2026-05-09 23:30:35.322083
+GDILM.SEIRS,r-oldrel-windows-x86_64,0.0.6,oldrel,windows,x86_64,,4.5.3,NA,2026-05-09 23:30:35.322083
+KOFM,r-oldrel-windows-x86_64,1.1.1,oldrel,windows,x86_64,,4.5.3,NA,2026-05-09 23:30:35.322083
+savonliquide,r-oldrel-windows-x86_64,0.2.0,oldrel,windows,x86_64,,4.5.3,NA,2026-05-09 23:30:35.322083
