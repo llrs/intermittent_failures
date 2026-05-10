@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+divvy,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-10 23:35:11.531598
+rbrsa,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-10 23:35:11.531598
+reproducible,r-devel-linux-x86_64-fedora-gcc,3.0.0,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-10 23:35:11.531598
+RRgeo,r-devel-linux-x86_64-fedora-gcc,0.0.6,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-10 23:35:11.531598
