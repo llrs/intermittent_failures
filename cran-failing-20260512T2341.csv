@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BI,r-devel-linux-x86_64-debian-clang,1.2.0,devel,linux,x86_64,debian-clang,NA,r90009,2026-05-12 23:41:44.932303
+steepness,r-devel-linux-x86_64-debian-clang,0.3-0,devel,linux,x86_64,debian-clang,NA,r90009,2026-05-12 23:41:44.932303
+geoflow,r-devel-linux-x86_64-fedora-clang,1.2.1,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-12 23:41:44.932303
+rolog,r-release-macos-x86_64,0.9.26,release,macos,x86_64,,4.6.0,NA,2026-05-12 23:41:44.932303
