@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+corteza,r-devel-linux-x86_64-fedora-clang,0.6.3,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-13 23:42:19.651487
+DiceView,r-devel-linux-x86_64-fedora-clang,3.1-3,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-13 23:42:19.651487
+easycensus,r-devel-linux-x86_64-fedora-clang,1.1.3,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-13 23:42:19.651487
+DiceView,r-devel-linux-x86_64-fedora-gcc,3.1-3,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-13 23:42:19.651487
+easycensus,r-devel-linux-x86_64-fedora-gcc,1.1.3,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-13 23:42:19.651487
