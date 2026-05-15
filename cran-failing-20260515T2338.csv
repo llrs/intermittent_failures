@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BI,r-devel-linux-x86_64-debian-clang,1.2.0,devel,linux,x86_64,debian-clang,NA,r90049,2026-05-15 23:38:11.415235
+steepness,r-devel-linux-x86_64-debian-clang,0.3-0,devel,linux,x86_64,debian-clang,NA,r90049,2026-05-15 23:38:11.415235
+raretrans,r-devel-linux-x86_64-fedora-clang,1.0.4,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-15 23:38:11.415235
+zctaCrosswalk,r-devel-linux-x86_64-fedora-clang,2.0.0,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-15 23:38:11.415235
+zippeR,r-devel-linux-x86_64-fedora-clang,0.1.2,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-15 23:38:11.415235
+zctaCrosswalk,r-devel-linux-x86_64-fedora-gcc,2.0.0,devel,linux,x86_64,fedora-gcc,NA,r89991,2026-05-15 23:38:11.415235
