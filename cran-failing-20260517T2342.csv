@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+photon,r-devel-linux-x86_64-fedora-clang,1.0.0-1,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-17 23:42:05.637221
+cts,r-release-linux-x86_64,1.0-25,release,linux,x86_64,,4.6.0,NA,2026-05-17 23:42:05.637221
+geigen,r-release-linux-x86_64,2.3,release,linux,x86_64,,4.6.0,NA,2026-05-17 23:42:05.637221
+lsei,r-release-linux-x86_64,1.3-0,release,linux,x86_64,,4.6.0,NA,2026-05-17 23:42:05.637221
+pbdSLAP,r-release-linux-x86_64,0.3-7,release,linux,x86_64,,4.6.0,NA,2026-05-17 23:42:05.637221
+poseticDataAnalysis,r-release-linux-x86_64,1.0.0,release,linux,x86_64,,4.6.0,NA,2026-05-17 23:42:05.637221
+PRTree,r-release-linux-x86_64,1.0.3,release,linux,x86_64,,4.6.0,NA,2026-05-17 23:42:05.637221
+tripack,r-release-linux-x86_64,1.3-9.3,release,linux,x86_64,,4.6.0,NA,2026-05-17 23:42:05.637221
