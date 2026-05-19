@@ -1,0 +1,15 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+arcgisutils,r-devel-linux-x86_64-fedora-clang,0.5.0,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-19 23:46:09.018777
+photon,r-devel-linux-x86_64-fedora-clang,1.0.0-1,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-19 23:46:09.018777
+sociome,r-devel-linux-x86_64-fedora-clang,3.0.0,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-19 23:46:09.018777
+chillR,r-devel-linux-x86_64-fedora-gcc,0.77,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+chronochrt,r-devel-linux-x86_64-fedora-gcc,0.1.5,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+EcoEnsemble,r-devel-linux-x86_64-fedora-gcc,1.2.0,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+GCEstim,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+icmstate,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+idealstan,r-devel-linux-x86_64-fedora-gcc,1.0,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+miRtest,r-devel-linux-x86_64-fedora-gcc,2.2,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+NetLogoR,r-devel-linux-x86_64-fedora-gcc,1.0.6,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+secr,r-devel-linux-x86_64-fedora-gcc,5.4.2,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+semtree,r-devel-linux-x86_64-fedora-gcc,0.9.23,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
+statgenMPP,r-devel-linux-x86_64-fedora-gcc,1.0.5,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-19 23:46:09.018777
