@@ -1,0 +1,18 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AutoWMM,r-devel-linux-x86_64-debian-clang,1.0.2,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+blvim,r-devel-linux-x86_64-debian-clang,0.1.1,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+dbProject,r-devel-linux-x86_64-debian-clang,0.1.0,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+disaggregation,r-devel-linux-x86_64-debian-clang,0.4.1,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+hockeystick,r-devel-linux-x86_64-debian-clang,0.8.7,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+klassR,r-devel-linux-x86_64-debian-clang,1.0.5,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+RcensusPkg,r-devel-linux-x86_64-debian-clang,0.1.5,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+reproducible,r-devel-linux-x86_64-debian-clang,3.1.1,devel,linux,x86_64,debian-clang,NA,r90065,2026-05-22 23:46:50.194174
+aemo,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-22 23:46:50.194174
+dbProject,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-22 23:46:50.194174
+GCEstim,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-22 23:46:50.194174
+surveycore,r-devel-linux-x86_64-fedora-clang,0.8.3,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-22 23:46:50.194174
+aemo,r-devel-linux-x86_64-fedora-gcc,0.4.0,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-22 23:46:50.194174
+dbProject,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-22 23:46:50.194174
+envi,r-devel-linux-x86_64-fedora-gcc,1.0.1,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-22 23:46:50.194174
+gkwreg,r-devel-linux-x86_64-fedora-gcc,2.1.14,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-22 23:46:50.194174
+surveycore,r-devel-linux-x86_64-fedora-gcc,0.8.3,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-22 23:46:50.194174
