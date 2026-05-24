@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cocoon,r-devel-linux-x86_64-fedora-clang,0.3.0,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-24 23:43:40.654086
+FAVA,r-devel-linux-x86_64-fedora-clang,1.0.9,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-24 23:43:40.654086
+papaja,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r90013,2026-05-24 23:43:40.654086
+cocoon,r-devel-linux-x86_64-fedora-gcc,0.3.0,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-24 23:43:40.654086
+FAVA,r-devel-linux-x86_64-fedora-gcc,1.0.9,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-24 23:43:40.654086
+papaja,r-devel-linux-x86_64-fedora-gcc,0.1.4,devel,linux,x86_64,fedora-gcc,NA,r90053,2026-05-24 23:43:40.654086
