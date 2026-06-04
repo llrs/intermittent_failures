@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+KINSIMU,r-devel-linux-x86_64-fedora-gcc,0.1.3,devel,linux,x86_64,fedora-gcc,NA,r90087,2026-06-04 23:50:28.72151
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-06-04 23:50:28.72151
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-06-04 23:50:28.72151
