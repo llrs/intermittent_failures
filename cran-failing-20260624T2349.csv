@@ -1,0 +1,16 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+paws,r-oldrel-macos-arm64,0.10.0,oldrel,macos,arm64,,4.5.2,r89382,2026-06-24 23:49:32.966296
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-06-24 23:49:32.966296
+AcceptanceSampling,r-release-linux-x86_64,1.0.11,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+Formula,r-release-linux-x86_64,1.2-5,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+GPArotateDF,r-release-linux-x86_64,2025.7-1,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+gsl,r-release-linux-x86_64,2.1-9,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+isotone,r-release-linux-x86_64,1.1-2,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+knotR,r-release-linux-x86_64,1.0-4,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+lmSubsets,r-release-linux-x86_64,0.5-4,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+magic,r-release-linux-x86_64,1.6-1,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+pcse,r-release-linux-x86_64,1.9.1.1,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+ResistorArray,r-release-linux-x86_64,1.0-32,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+rootSolve,r-release-linux-x86_64,1.8.2.4,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+shape,r-release-linux-x86_64,1.4.6.1,release,linux,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-06-24 23:49:32.966296
