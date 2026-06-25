@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+manynet,r-oldrel-macos-arm64,2.1.3,oldrel,macos,arm64,,4.5.2,r89382,2026-06-25 23:58:01.504669
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-06-25 23:58:01.504669
+manynet,r-release-macos-arm64,2.1.3,release,macos,arm64,,4.6.0,NA,2026-06-25 23:58:01.504669
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-06-25 23:58:01.504669
