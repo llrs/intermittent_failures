@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+multiScaleR,r-devel-linux-x86_64-fedora-gcc,0.6.13,devel,linux,x86_64,fedora-gcc,NA,r90183,2026-06-28 23:47:33.581501
+BayesERtools,r-oldrel-windows-x86_64,0.2.6,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+biodosetools,r-oldrel-windows-x86_64,3.7.2,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+clmstan,r-oldrel-windows-x86_64,0.1.1,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+CNVScope,r-oldrel-windows-x86_64,3.7.2,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+DRviaSPCN,r-oldrel-windows-x86_64,0.1.5,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+manynet,r-oldrel-windows-x86_64,2.1.3,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+rotations,r-oldrel-windows-x86_64,1.6.6,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+shinySbm,r-oldrel-windows-x86_64,0.2.0,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
+ssd4mosaic,r-oldrel-windows-x86_64,1.0.4-2,oldrel,windows,x86_64,,4.5.3,NA,2026-06-28 23:47:33.581501
