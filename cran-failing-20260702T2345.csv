@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-07-02 23:45:14.649029
+kappalab,r-patched-linux-x86_64,0.4-12,patched,linux,x86_64,,4.6.1,r90199,2026-07-02 23:45:14.649029
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-07-02 23:45:14.649029
