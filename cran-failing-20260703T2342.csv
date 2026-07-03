@@ -1,0 +1,9 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+hockeystick,r-devel-linux-x86_64-fedora-clang,0.8.7,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
+microdiluteR,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
+rjd3bench,r-devel-linux-x86_64-fedora-clang,3.1.2,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
+rjd3providers,r-devel-linux-x86_64-fedora-clang,3.7.1,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
+rjd3tramoseats,r-devel-linux-x86_64-fedora-clang,3.7.1,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
+rjd3x13,r-devel-linux-x86_64-fedora-clang,3.7.1,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
+rjd3xjars,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
+shinyCohortBuilder,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r90096,2026-07-03 23:42:45.190395
