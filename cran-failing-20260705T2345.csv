@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-07-05 23:45:16.108043
+GitStats,r-release-linux-x86_64,2.5.2,release,linux,x86_64,,4.6.1,NA,2026-07-05 23:45:16.108043
+GWRLASSO,r-release-linux-x86_64,0.1.0,release,linux,x86_64,,4.6.1,NA,2026-07-05 23:45:16.108043
+PRECAST,r-release-linux-x86_64,1.9,release,linux,x86_64,,4.6.1,NA,2026-07-05 23:45:16.108043
+qtl2ggplot,r-release-linux-x86_64,1.2.6,release,linux,x86_64,,4.6.1,NA,2026-07-05 23:45:16.108043
+resourcecode,r-release-linux-x86_64,0.5.4,release,linux,x86_64,,4.6.1,NA,2026-07-05 23:45:16.108043
+rjd3workspace,r-release-linux-x86_64,3.7.1,release,linux,x86_64,,4.6.1,NA,2026-07-05 23:45:16.108043
+RNAseqQC,r-release-linux-x86_64,0.2.1,release,linux,x86_64,,4.6.1,NA,2026-07-05 23:45:16.108043
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-07-05 23:45:16.108043
