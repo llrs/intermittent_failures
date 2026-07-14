@@ -1,0 +1,17 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+AcceptanceSampling,r-devel-linux-x86_64-debian-clang,1.0.11,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+automl,r-devel-linux-x86_64-debian-clang,1.3.2,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+aws,r-devel-linux-x86_64-debian-clang,2.5-6,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+CompareTests,r-devel-linux-x86_64-debian-clang,1.3,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+Dasst,r-devel-linux-x86_64-debian-clang,0.3.4,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+float,r-devel-linux-x86_64-debian-clang,0.3-3,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+inteli,r-devel-linux-x86_64-debian-clang,0.2.0,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+languageserversetup,r-devel-linux-x86_64-debian-clang,0.1.2,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+NLP,r-devel-linux-x86_64-debian-clang,0.3-2,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+objectProperties,r-devel-linux-x86_64-debian-clang,0.6.8,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+RLeafAngle,r-devel-linux-x86_64-debian-clang,1.0,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+robustarima,r-devel-linux-x86_64-debian-clang,0.2.7,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+splus2R,r-devel-linux-x86_64-debian-clang,1.3-5,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+TableToLongForm,r-devel-linux-x86_64-debian-clang,1.3.2,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+tripack,r-devel-linux-x86_64-debian-clang,1.3-9.4,devel,linux,x86_64,debian-clang,NA,r90242,2026-07-14 23:34:20.420362
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-07-14 23:34:20.420362
