@@ -1,0 +1,20 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+dotenv,r-devel-linux-x86_64-debian-clang,1.0.3,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+EpiContactTrace,r-devel-linux-x86_64-debian-clang,0.18.0,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+gamlss.data,r-devel-linux-x86_64-debian-clang,6.0-7,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+GPArotation,r-devel-linux-x86_64-debian-clang,2026.6-1,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+mmap,r-devel-linux-x86_64-debian-clang,0.6-26,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+mvgb,r-devel-linux-x86_64-debian-clang,0.0.6,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+plotrix,r-devel-linux-x86_64-debian-clang,3.8-14,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+powerLATE,r-devel-linux-x86_64-debian-clang,0.1.2,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+rebmix,r-devel-linux-x86_64-debian-clang,2.17.1,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+smbdata,r-devel-linux-x86_64-debian-clang,0.2.0,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+tempR,r-devel-linux-x86_64-debian-clang,0.10.1.1,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+tth,r-devel-linux-x86_64-debian-clang,4.16-0,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+WIPF,r-devel-linux-x86_64-debian-clang,0.1.0-4,devel,linux,x86_64,debian-clang,NA,r90261,2026-07-17 23:35:30.24291
+gamlss.data,r-devel-linux-x86_64-fedora-clang,6.0-7,devel,linux,x86_64,fedora-clang,NA,r90262,2026-07-17 23:35:30.24291
+grplasso,r-devel-linux-x86_64-fedora-clang,0.4-7,devel,linux,x86_64,fedora-clang,NA,r90262,2026-07-17 23:35:30.24291
+safetyData,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r90262,2026-07-17 23:35:30.24291
+smbdata,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r90262,2026-07-17 23:35:30.24291
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-07-17 23:35:30.24291
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-07-17 23:35:30.24291
