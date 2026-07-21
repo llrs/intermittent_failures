@@ -1,0 +1,10 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+flint,r-devel-linux-x86_64-debian-clang,0.1.4,devel,linux,x86_64,debian-clang,NA,r90279,2026-07-21 23:41:16.276468
+float,r-devel-linux-x86_64-debian-clang,0.3-3,devel,linux,x86_64,debian-clang,NA,r90279,2026-07-21 23:41:16.276468
+smbdata,r-devel-linux-x86_64-debian-clang,0.2.0,devel,linux,x86_64,debian-clang,NA,r90279,2026-07-21 23:41:16.276468
+flint,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r90262,2026-07-21 23:41:16.276468
+float,r-devel-linux-x86_64-fedora-clang,0.3-3,devel,linux,x86_64,fedora-clang,NA,r90262,2026-07-21 23:41:16.276468
+flint,r-devel-linux-x86_64-fedora-gcc,0.1.4,devel,linux,x86_64,fedora-gcc,NA,r90262,2026-07-21 23:41:16.276468
+float,r-devel-linux-x86_64-fedora-gcc,0.3-3,devel,linux,x86_64,fedora-gcc,NA,r90262,2026-07-21 23:41:16.276468
+RTMB,r-release-macos-x86_64,1.9,release,macos,x86_64,,4.6.0,NA,2026-07-21 23:41:16.276468
+tsgarch,r-release-macos-x86_64,1.0.4,release,macos,x86_64,,4.6.0,NA,2026-07-21 23:41:16.276468
