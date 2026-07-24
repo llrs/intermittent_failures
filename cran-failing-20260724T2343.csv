@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gpboost,r-oldrel-macos-x86_64,1.7.1.1,oldrel,macos,x86_64,,4.5.2,r89382,2026-07-24 23:43:57.846408
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-07-24 23:43:57.846408
+RQuantLib,r-oldrel-macos-x86_64,0.4.28,oldrel,macos,x86_64,,4.5.2,r89382,2026-07-24 23:43:57.846408
+TmCalculator,r-oldrel-macos-x86_64,1.0.7,oldrel,macos,x86_64,,4.5.2,r89382,2026-07-24 23:43:57.846408
+RQuantLib,r-release-macos-x86_64,0.4.28,release,macos,x86_64,,4.6.0,NA,2026-07-24 23:43:57.846408
