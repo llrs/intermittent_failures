@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+fru,r-devel-linux-x86_64-debian-gcc,0.0.7,devel,linux,x86_64,debian-gcc,NA,r90311,2026-07-29 23:41:43.715561
+hellorust,r-devel-linux-x86_64-debian-gcc,1.2.3,devel,linux,x86_64,debian-gcc,NA,r90311,2026-07-29 23:41:43.715561
+rsamplr,r-devel-linux-x86_64-debian-gcc,0.2.0,devel,linux,x86_64,debian-gcc,NA,r90311,2026-07-29 23:41:43.715561
+tinyimg,r-devel-linux-x86_64-debian-gcc,0.4,devel,linux,x86_64,debian-gcc,NA,r90311,2026-07-29 23:41:43.715561
