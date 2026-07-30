@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+vws,r-oldrel-macos-arm64,0.4.0,oldrel,macos,arm64,,4.5.2,r89382,2026-07-30 23:41:44.210515
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-07-30 23:41:44.210515
+rxode2ll,r-release-macos-x86_64,2.0.16,release,macos,x86_64,,4.6.0,NA,2026-07-30 23:41:44.210515
