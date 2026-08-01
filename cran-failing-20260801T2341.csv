@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+evalHTE,r-devel-linux-x86_64-fedora-clang,0.1.1,devel,linux,x86_64,fedora-clang,NA,r90311,2026-08-01 23:41:11.245099
+VLMC,r-devel-linux-x86_64-fedora-clang,1.4-5,devel,linux,x86_64,fedora-clang,NA,r90311,2026-08-01 23:41:11.245099
+evalHTE,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r90311,2026-08-01 23:41:11.245099
+VLMC,r-devel-linux-x86_64-fedora-gcc,1.4-5,devel,linux,x86_64,fedora-gcc,NA,r90311,2026-08-01 23:41:11.245099
