@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+smbdata,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r90311,2026-08-05 23:38:07.659484
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-08-05 23:38:07.659484
+thisutils,r-release-macos-x86_64,0.4.9,release,macos,x86_64,,4.6.0,NA,2026-08-05 23:38:07.659484
