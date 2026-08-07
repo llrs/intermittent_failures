@@ -1,0 +1,11 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+winch,r-devel-linux-x86_64-fedora-clang,0.1.3,devel,linux,x86_64,fedora-clang,NA,r90345,2026-08-07 01:38:54.764944
+spatPomp,r-devel-linux-x86_64-fedora-gcc,1.1.0,devel,linux,x86_64,fedora-gcc,NA,r90311,2026-08-07 01:38:54.764944
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-08-07 01:38:54.764944
+AutoWMM,r-patched-linux-x86_64,1.0.2,patched,linux,x86_64,,4.6.1,r90350,2026-08-07 01:38:54.764944
+infectiousR,r-patched-linux-x86_64,0.1.1,patched,linux,x86_64,,4.6.1,r90350,2026-08-07 01:38:54.764944
+laOpenData,r-patched-linux-x86_64,0.1.0,patched,linux,x86_64,,4.6.1,r90350,2026-08-07 01:38:54.764944
+Polychrome,r-patched-linux-x86_64,1.6.1,patched,linux,x86_64,,4.6.1,r90350,2026-08-07 01:38:54.764944
+RATest,r-patched-linux-x86_64,0.1.10,patched,linux,x86_64,,4.6.1,r90350,2026-08-07 01:38:54.764944
+snapKrig,r-patched-linux-x86_64,0.0.3,patched,linux,x86_64,,4.6.1,r90350,2026-08-07 01:38:54.764944
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-08-07 01:38:54.764944
