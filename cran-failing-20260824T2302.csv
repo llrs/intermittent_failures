@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+rsubgroup,r-oldrel-windows-x86_64,1.1,oldrel,windows,x86_64,,4.5.3,NA,2026-08-24 23:02:01.733275
+nlfh,r-release-macos-x86_64,0.1.0,release,macos,x86_64,,4.6.0,NA,2026-08-24 23:02:01.733275
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-08-24 23:02:01.733275
+quadprog,r-release-windows-x86_64,1.5-8,release,windows,x86_64,,4.6.1,NA,2026-08-24 23:02:01.733275
