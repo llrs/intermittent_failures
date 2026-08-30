@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+edgemodelr,r-devel-linux-x86_64-fedora-clang,0.4.1,devel,linux,x86_64,fedora-clang,NA,r90447,2026-08-30 00:44:28.672109
+fasttreeid,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r90447,2026-08-30 00:44:28.672109
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-08-30 00:44:28.672109
+polyglotSQL,r-release-macos-x86_64,0.1.0,release,macos,x86_64,,4.6.0,NA,2026-08-30 00:44:28.672109
