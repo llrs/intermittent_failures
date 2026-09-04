@@ -1,0 +1,6 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+OpenCL,r-devel-linux-x86_64-fedora-clang,0.2-11,devel,linux,x86_64,fedora-clang,NA,r90464,2026-09-04 00:25:49.369271
+medfateland,r-oldrel-macos-arm64,3.0.0,oldrel,macos,arm64,,4.5.2,r89382,2026-09-04 00:25:49.369271
+medfateland,r-oldrel-macos-x86_64,3.0.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-09-04 00:25:49.369271
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-09-04 00:25:49.369271
+medfateland,r-release-macos-x86_64,3.0.0,release,macos,x86_64,,4.6.0,NA,2026-09-04 00:25:49.369271
