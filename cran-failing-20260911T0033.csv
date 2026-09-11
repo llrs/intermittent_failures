@@ -1,0 +1,23 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+agcounts,r-devel-linux-x86_64-fedora-clang,0.7.0,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+aNCA,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+bsitar,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+ButtR,r-devel-linux-x86_64-fedora-clang,1.1.1,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+caracas,r-devel-linux-x86_64-fedora-clang,2.1.1,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+fastai,r-devel-linux-x86_64-fedora-clang,2.2.2,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+hicream,r-devel-linux-x86_64-fedora-clang,0.0.4,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+inTextSummaryTable,r-devel-linux-x86_64-fedora-clang,3.4.0,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+leiden,r-devel-linux-x86_64-fedora-clang,0.4.3.1,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+mongolite,r-devel-linux-x86_64-fedora-clang,4.1.0,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+pangoling,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+PytrendsLongitudinalR,r-devel-linux-x86_64-fedora-clang,0.1.4,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+rgeedim,r-devel-linux-x86_64-fedora-clang,0.4.0,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+RGF,r-devel-linux-x86_64-fedora-clang,1.1.1,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+searchAnalyzeR,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+sjSDM,r-devel-linux-x86_64-fedora-clang,1.0.7,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+snapKrig,r-devel-linux-x86_64-fedora-clang,0.0.3,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+tm.plugin.mail,r-devel-linux-x86_64-fedora-clang,0.3-2,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+ukbflow,r-devel-linux-x86_64-fedora-clang,0.3.4,devel,linux,x86_64,fedora-clang,NA,r90509,2026-09-11 00:33:58.288494
+aNCA,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r90498,2026-09-11 00:33:58.288494
+bsitar,r-devel-linux-x86_64-fedora-gcc,0.4.0,devel,linux,x86_64,fedora-gcc,NA,r90498,2026-09-11 00:33:58.288494
+inTextSummaryTable,r-devel-linux-x86_64-fedora-gcc,3.4.0,devel,linux,x86_64,fedora-gcc,NA,r90498,2026-09-11 00:33:58.288494
