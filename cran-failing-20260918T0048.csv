@@ -1,0 +1,7 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+pmsampsize,r-devel-linux-x86_64-fedora-clang,1.1.3,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-18 00:48:07.419607
+slam,r-devel-linux-x86_64-fedora-clang,0.1-56,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-18 00:48:07.419607
+sld,r-devel-linux-x86_64-fedora-clang,1.0.1,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-18 00:48:07.419607
+tbd,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-18 00:48:07.419607
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-09-18 00:48:07.419607
+SpaDES.core,r-release-macos-arm64,3.2.1,release,macos,arm64,,4.6.0,NA,2026-09-18 00:48:07.419607
