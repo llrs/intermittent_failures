@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+depCensoring,r-devel-linux-x86_64-fedora-clang,0.1.10,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-21 00:30:51.899481
+mvtweedie,r-devel-linux-x86_64-fedora-clang,1.2.0,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-21 00:30:51.899481
+warbleR,r-devel-linux-x86_64-fedora-clang,1.1.37,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-21 00:30:51.899481
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-09-21 00:30:51.899481
