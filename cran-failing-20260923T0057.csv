@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+garray,r-devel-linux-x86_64-debian-clang,1.1.2,devel,linux,x86_64,debian-clang,NA,r90574,2026-09-23 00:57:06.580634
+rjd3production,r-devel-linux-x86_64-fedora-clang,1.1.1,devel,linux,x86_64,fedora-clang,NA,r90540,2026-09-23 00:57:06.580634
+rjd3production,r-devel-linux-x86_64-fedora-gcc,1.1.1,devel,linux,x86_64,fedora-gcc,NA,r90568,2026-09-23 00:57:06.580634
