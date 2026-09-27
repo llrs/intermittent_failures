@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+metaviz,r-devel-linux-x86_64-fedora-clang,0.3.1,devel,linux,x86_64,fedora-clang,NA,r90584,2026-09-27 00:53:39.449031
+metaviz,r-devel-linux-x86_64-fedora-gcc,0.3.1,devel,linux,x86_64,fedora-gcc,NA,r90568,2026-09-27 00:53:39.449031
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-09-27 00:53:39.449031
