@@ -1,0 +1,15 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+cumprinc,r-devel-linux-x86_64-debian-gcc,0.1,devel,linux,x86_64,debian-gcc,NA,r90590,2026-09-28 01:11:53.934498
+bifrost,r-release-linux-x86_64,0.1.4,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+depCensoring,r-release-linux-x86_64,0.1.10,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+faunabr,r-release-linux-x86_64,1.1.1,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+florabr,r-release-linux-x86_64,1.3.1,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+junco,r-release-linux-x86_64,0.1.6,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+mvtweedie,r-release-linux-x86_64,1.2.0,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+phsopendata,r-release-linux-x86_64,1.1.0,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+planscorer,r-release-linux-x86_64,0.0.3,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+PxWebApiData,r-release-linux-x86_64,2.0.0,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+resourcecode,r-release-linux-x86_64,0.5.5,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+waou,r-release-linux-x86_64,0.1.0,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+warbleR,r-release-linux-x86_64,1.1.37,release,linux,x86_64,,4.6.1,NA,2026-09-28 01:11:53.934498
+paws.analytics,r-release-macos-x86_64,0.10.0,release,macos,x86_64,,4.6.0,NA,2026-09-28 01:11:53.934498
