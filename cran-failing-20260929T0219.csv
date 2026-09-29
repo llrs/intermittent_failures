@@ -1,0 +1,18 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+BayesBrainMap,r-devel-linux-x86_64-fedora-clang,0.2.0,devel,linux,x86_64,fedora-clang,NA,r90584,2026-09-29 02:19:22.825653
+dsROCrate,r-devel-linux-x86_64-fedora-clang,0.2.3,devel,linux,x86_64,fedora-clang,NA,r90584,2026-09-29 02:19:22.825653
+AutoWMM,r-devel-linux-x86_64-fedora-gcc,1.0.2,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+BayesBrainMap,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+dsROCrate,r-devel-linux-x86_64-fedora-gcc,0.2.3,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+faunabr,r-devel-linux-x86_64-fedora-gcc,1.1.1,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+florabr,r-devel-linux-x86_64-fedora-gcc,1.3.1,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+hicream,r-devel-linux-x86_64-fedora-gcc,0.0.4,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+iTensor,r-devel-linux-x86_64-fedora-gcc,1.0.6,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+planscorer,r-devel-linux-x86_64-fedora-gcc,0.0.3,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+remverse,r-devel-linux-x86_64-fedora-gcc,0.2.0,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+stlnpp,r-devel-linux-x86_64-fedora-gcc,0.5.0,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+StratPal,r-devel-linux-x86_64-fedora-gcc,0.7.1,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+suncalc,r-devel-linux-x86_64-fedora-gcc,0.5.3,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+tidypredict,r-devel-linux-x86_64-fedora-gcc,1.2.1,devel,linux,x86_64,fedora-gcc,NA,r90590,2026-09-29 02:19:22.825653
+paws.analytics,r-oldrel-macos-x86_64,0.10.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-09-29 02:19:22.825653
+repo.data,r-oldrel-macos-x86_64,0.2.2,oldrel,macos,x86_64,,4.5.2,r89382,2026-09-29 02:19:22.825653
