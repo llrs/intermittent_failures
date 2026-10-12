@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+Compositional,r-oldrel-macos-arm64,8.4,oldrel,macos,arm64,,4.5.2,r89382,2026-10-12 01:48:30.573411
+Compositional,r-oldrel-macos-x86_64,8.4,oldrel,macos,x86_64,,4.5.2,r89382,2026-10-12 01:48:30.573411
+Compositional,r-release-macos-arm64,8.4,release,macos,arm64,,4.6.0,NA,2026-10-12 01:48:30.573411
+Compositional,r-release-macos-x86_64,8.4,release,macos,x86_64,,4.6.0,NA,2026-10-12 01:48:30.573411
