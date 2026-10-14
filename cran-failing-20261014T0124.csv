@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+tbl.now,r-devel-linux-x86_64-fedora-clang,1.0.0,devel,linux,x86_64,fedora-clang,NA,r90643,2026-10-14 01:24:33.818292
+tbl.now,r-devel-linux-x86_64-fedora-gcc,1.0.0,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-14 01:24:33.818292
+DiagnostySize,r-oldrel-macos-x86_64,0.1.0,oldrel,macos,x86_64,,4.5.2,r89382,2026-10-14 01:24:33.818292
