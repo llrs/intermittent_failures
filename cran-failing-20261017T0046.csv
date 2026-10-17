@@ -1,0 +1,21 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+fozziejoin,r-devel-linux-x86_64-fedora-clang,0.0.16,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+hicream,r-devel-linux-x86_64-fedora-clang,0.0.4,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+MIC,r-devel-linux-x86_64-fedora-clang,2.0.1,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+MSEtool,r-devel-linux-x86_64-fedora-clang,3.7.5,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+origin,r-devel-linux-x86_64-fedora-clang,1.2.1,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+RPesto,r-devel-linux-x86_64-fedora-clang,0.1.5,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+spada,r-devel-linux-x86_64-fedora-clang,0.1.8,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+ss3sim,r-devel-linux-x86_64-fedora-clang,1.0.3,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+uuidx,r-devel-linux-x86_64-fedora-clang,0.0.1,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+WpProj,r-devel-linux-x86_64-fedora-clang,0.3,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-17 00:46:52.943758
+fozziejoin,r-devel-linux-x86_64-fedora-gcc,0.0.16,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+hicream,r-devel-linux-x86_64-fedora-gcc,0.0.4,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+MIC,r-devel-linux-x86_64-fedora-gcc,2.0.1,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+MSEtool,r-devel-linux-x86_64-fedora-gcc,3.7.5,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+origin,r-devel-linux-x86_64-fedora-gcc,1.2.1,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+RPesto,r-devel-linux-x86_64-fedora-gcc,0.1.5,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+spada,r-devel-linux-x86_64-fedora-gcc,0.1.8,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+ss3sim,r-devel-linux-x86_64-fedora-gcc,1.0.3,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+uuidx,r-devel-linux-x86_64-fedora-gcc,0.0.1,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
+WpProj,r-devel-linux-x86_64-fedora-gcc,0.3,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-17 00:46:52.943758
