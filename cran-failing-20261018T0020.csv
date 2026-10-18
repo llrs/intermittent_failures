@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+bayclumpr,r-devel-linux-x86_64-fedora-clang,0.1.0,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-18 00:20:34.002279
+salso,r-devel-linux-x86_64-fedora-clang,0.3.79,devel,linux,x86_64,fedora-clang,NA,r90668,2026-10-18 00:20:34.002279
+bayclumpr,r-devel-linux-x86_64-fedora-gcc,0.1.0,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-18 00:20:34.002279
+salso,r-devel-linux-x86_64-fedora-gcc,0.3.79,devel,linux,x86_64,fedora-gcc,NA,r90659,2026-10-18 00:20:34.002279
