@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+DMAR,r-release-macos-x86_64,1.1.0,release,macos,x86_64,,4.6.1,NA,2026-11-18 03:52:50.294334
+rLakeHabitat,r-release-macos-x86_64,1.0.3,release,macos,x86_64,,4.6.1,NA,2026-11-18 03:52:50.294334
+shinyFiles,r-release-macos-x86_64,0.9.4,release,macos,x86_64,,4.6.1,NA,2026-11-18 03:52:50.294334
