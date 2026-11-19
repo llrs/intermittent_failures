@@ -1,0 +1,5 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+wdiexplorer,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r90909,2026-11-19 03:52:25.461476
+ggdiagram,r-release-macos-x86_64,0.3.0,release,macos,x86_64,,4.6.1,NA,2026-11-19 03:52:25.461476
+qspquest,r-release-macos-x86_64,0.1.0,release,macos,x86_64,,4.6.1,NA,2026-11-19 03:52:25.461476
+rLakeHabitat,r-release-macos-x86_64,1.0.3,release,macos,x86_64,,4.6.1,NA,2026-11-19 03:52:25.461476
