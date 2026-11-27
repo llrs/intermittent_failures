@@ -1,0 +1,4 @@
+Package,Flavor,Version,R_version,OS,architecture,other,version,revision,Date
+gtfs2emis,r-devel-linux-x86_64-fedora-gcc,0.1.2,devel,linux,x86_64,fedora-gcc,NA,r90959,2026-11-27 04:33:04.906184
+libipldr,r-devel-linux-x86_64-fedora-gcc,0.1.1,devel,linux,x86_64,fedora-gcc,NA,r90959,2026-11-27 04:33:04.906184
+TmCalculator,r-devel-linux-x86_64-fedora-gcc,1.1.3,devel,linux,x86_64,fedora-gcc,NA,r90959,2026-11-27 04:33:04.906184
